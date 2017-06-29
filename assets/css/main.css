@@ -604,3 +604,11 @@ ul li {
 .site-footer .social-block li a:hover, .site-footer .social-block li a:focus {
   opacity: 0.8;
 }
+
+.green {
+  color: #7bd2a2;
+}
+
+.purple {
+  color: #5000e3;
+}
