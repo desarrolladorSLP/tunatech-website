@@ -22,9 +22,9 @@ var createHtmlSchedule = function (object, title) {
                 '<time datetime="' + item.startTime + '">' + item.startTime +
                 '</time> - <time datetime="' + item.endTime + '">' + item.endTime + '</time>' +
                 '</div>' +
-                '<h4>' + item.h4 + '</h4>' +
-                '<h5>' + item.h5 + '</h5>' +
-                '<p>' + item.p + '</p>' +
+                '<h4>' + item.title + '</h4>' +
+                '<h5>' + item.subTitle + '</h5>' +
+                '<p>' + item.location + '</p>' +
                 '</div>' +
                 '</div>\n';
 
