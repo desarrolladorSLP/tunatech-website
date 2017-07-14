@@ -630,6 +630,11 @@ ul li {
   flex: 1;
 }
 
+.logo-container-sponsor a {
+  text-align: center;
+}
+
 .logo-container-sponsor .logo {
   max-height: 290px;
+  max-width: 80%;
 }
