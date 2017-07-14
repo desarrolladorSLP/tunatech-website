@@ -571,7 +571,6 @@ ul li {
 }
 @media (min-width: 992px) {
   .schedule-box {
-    margin: 0;
   }
 
   .grid-item-md-6 {
