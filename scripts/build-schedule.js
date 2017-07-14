@@ -11,7 +11,7 @@ var createHtmlSchedule = function (object, title) {
            title +
            '</h4></div></div>';
 
-    schedule1stDay.forEach(function (item) {
+    object.forEach(function (item) {
         if (cols % 3 == 0) {
             html += '\n<div class="row">';
         }
@@ -34,6 +34,10 @@ var createHtmlSchedule = function (object, title) {
 
         cols++;
     });
+
+    if (cols % 3 != 0) {
+        html += '</div>';
+    }
 
     return html;
 };
