@@ -641,3 +641,7 @@ ul li {
 #schedule .section-title{
   margin-top:1.5em;
 }
+
+ul li.event-item:nth-child(odd) {
+  background-color: #ccc;
+}
