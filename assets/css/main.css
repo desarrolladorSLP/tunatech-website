@@ -290,7 +290,7 @@ ul li {
 }
 
 .navbar-solid {
-  background-color: #000 !important;
+  background-color: #5000E3!important;
   padding: 0 !important;
   -webkit-transition: all 0.2s linear 0s;
           transition: all 0.2s linear 0s;
@@ -434,7 +434,7 @@ ul li {
  */
 .schedule-box {
   position: relative;
-  background-color: #000;
+  background-color: #EAEAEA;
   color: #fff;
   text-align: center;
   padding: 50px 20px;
@@ -518,7 +518,7 @@ ul li {
 }
 .faq .panel-default > .panel-heading {
   color: #FFF;
-  background-color: #000000;
+  background-color: #5000E3;
   border-color: #000;
   border-radius: 0;
   padding: 0;
