@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Sábado 19 de Agosto",
+        "events": [
+            {
+                "name": "De San Luis Potosí para el mundo: Cómo lograr inversión en Sillicon Valley?",
+                "speaker": "Manolo Díaz",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "11:00",
+                "type": "Conferencia",
+                "description": "Tienes una idea pero crees que es imposible llegar a Sillicon Valley, acompañanos en esta charla donde Manolo nos contara acerca de su experiencia, los retos que enfrento y como logro crear Yogome."
+            },
+            {
+                "name": "De San Luis Potosí para el mundo: Cómo lograr inversión en Sillicon Valley?",
+                "speaker": "Manolo Díaz",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "11:00",
+                "type": "Conferencia",
+                "description": "Tienes una idea pero crees que es imposible llegar a Sillicon Valley, acompañanos en esta charla donde Manolo nos contara acerca de su experiencia, los retos que enfrento y como logro crear Yogome."
+            }
+        ]
+    },
+    {
+        "title": "Domingo 20 de Agosto",
+        "events": [
+            {
+                "name": "De San Luis Potosí para el mundo: Cómo lograr inversión en Sillicon Valley?",
+                "speaker": "Manolo Díaz",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "11:00",
+                "type": "Conferencia",
+                "description": "Tienes una idea pero crees que es imposible llegar a Sillicon Valley, acompañanos en esta charla donde Manolo nos contara acerca de su experiencia, los retos que enfrento y como logro crear Yogome."
+            }
+        ]
+    }
+]

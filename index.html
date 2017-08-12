@@ -1,23 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="TunaTechApp">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta property="og:url"                content="http://tunatech.mx/index.html" />
-    <meta property="og:title"              content="TunaTech 2017" />
-    <meta property="og:description"        content="Tecnología, ciencia, innovación: Pláticas y talleres" />
-    <meta property="og:image"              content="http://tunatech.mx/assets/images/share-image.png" />
+    <meta property="og:url" content="http://tunatech.mx/index.html" />
+    <meta property="og:title" content="TunaTech 2017" />
+    <meta property="og:description" content="Tecnología, ciencia, innovación: Pláticas y talleres" />
+    <meta property="og:image" content="http://tunatech.mx/assets/images/share-image.png" />
 
     <title>TunaTech 2017</title>
 
     <!-- css -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/main.css?v=1">
 </head>
-<body data-spy="scroll" data-target="#site-nav">
+
+<body data-spy="scroll" data-target="#site-nav" ng-controller="HomeController as vm">
     <nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
         <div class="container">
             <div class="navbar-header">
@@ -37,33 +40,35 @@
                     <span class="icon-bar"></span>
                 </button>
 
-            </div><!-- /.navbar-header -->
+            </div>
+            <!-- /.navbar-header -->
 
             <div class="collapse navbar-collapse" id="navbar-items">
                 <ul class="nav navbar-nav navbar-right">
 
                     <!-- navigation menu -->
                     <li class="active"><a data-scroll href="#about">Acerca de</a></li>
-                    <li><a data-scroll href="#speakers">Expositores</a></li>              
-                    <li><a data-scroll href="#schedule">Agenda</a></li>                  
-                    <li><a data-scroll href="#partner">Patrocinadores</a></li>                  
+                    <li><a data-scroll href="#speakers">Expositores</a></li>
+                    <li><a data-scroll href="#schedule">Agenda</a></li>
+                    <li><a data-scroll href="#partner">Patrocinadores</a></li>
                     <!-- <li><a data-scroll href="#">Sponsorship</a></li> -->
                     <li><a data-scroll href="#faq">Preguntas</a></li>
                     <!--<li><a data-scroll href="#photos">Fotos</a></li>-->
-                
+
                 </ul>
             </div>
-        </div><!-- /.container -->
+        </div>
+        <!-- /.container -->
     </nav>
 
-    <header id="site-header" class="site-header valign-center"> 
+    <header id="site-header" class="site-header valign-center">
         <div class="intro">
 
             <h2>19 & 20 Agosto, 2017 / Centro de las artes, SLP</h2>
             <h1 class="green">Tecnología + Ciencia = Innovación</h1>
-            <p>Platicas, Talleres y Conferencias</p>    
+            <p>Platicas, Talleres y Conferencias</p>
             <a class="btn btn-white" target="_blank" href="https://www.eventbrite.com/e/tunatech-2017-tickets-35881620894">Registrate</a>
-        
+
         </div>
     </header>
 
@@ -73,14 +78,24 @@
                 <div class="col-sm-6">
 
                     <h3 class="section-title purple">Acerca de</h3>
-                    <p style="text-align: justify">TunaTech es un evento enfocado en reunir comunidades de tecnología, emprendimiento, makers, creativos, científicos y profesionistas de diferentes ramas. Buscamos crear lazos interdisciplinarios que sumen esfuerzos y resulten en la creación de proyectos e ideas nuevas que detonen el desarrollo de nuestra ciudad.</p>
-                </div><!-- /.col-sm-6 -->
+                    <p style="text-align: justify">TunaTech es un evento enfocado en reunir comunidades de tecnología, emprendimiento, makers, creativos,
+                        científicos y profesionistas de diferentes ramas. Buscamos crear lazos interdisciplinarios que sumen
+                        esfuerzos y resulten en la creación de proyectos e ideas nuevas que detonen el desarrollo de nuestra
+                        ciudad.
+                    </p>
+                </div>
+                <!-- /.col-sm-6 -->
 
                 <div class="col-sm-6">
 
                     <h3 class="section-title multiple-title purple">Objetivo</h3>
 
-                    <p style="text-align: justify">Nuestro objetivo es fomentar el uso de la ciencia, la tecnología y la innovación, así como el crear dinámicas entre áreas con características en común para que aumente la visión del panorama actual de los asistentes al evento mientras conocen otros temas afines a sus intereses. El objetivo en asistencia para esta primera edición es atraer 500 asistentes como total durante los dos días de realización del evento, conservando un cupo máximo de 150 personas como total simultáneo para todos los espacios durante el transcurso del evento.</p>
+                    <p style="text-align: justify">Nuestro objetivo es fomentar el uso de la ciencia, la tecnología y la innovación, así como el crear
+                        dinámicas entre áreas con características en común para que aumente la visión del panorama actual
+                        de los asistentes al evento mientras conocen otros temas afines a sus intereses. El objetivo en asistencia
+                        para esta primera edición es atraer 500 asistentes como total durante los dos días de realización
+                        del evento, conservando un cupo máximo de 150 personas como total simultáneo para todos los espacios
+                        durante el transcurso del evento.</p>
 
                     <!--<ul class="list-arrow-right">
 
@@ -91,8 +106,10 @@
                     
                     </ul>-->
 
-                </div><!-- /.col-sm-6 -->
-            </div><!-- /.row -->
+                </div>
+                <!-- /.col-sm-6 -->
+            </div>
+            <!-- /.row -->
 
             <div class="row">
                 <div class="col-sm-12">
@@ -142,7 +159,8 @@
                 </div>
             </div>
 
-        </div><!-- /.container -->
+        </div>
+        <!-- /.container -->
     </section>
 
     <section id="facts" class="section bg-image-1 facts text-center">
@@ -152,280 +170,83 @@
 
                     <i class="ion-ios-calendar"></i>
                     <h3>2017<br>19 & 20, Agosto</h3>
-                
+
                 </div>
                 <div class="col-sm-3">
 
                     <i class="ion-ios-location"></i>
                     <h3>San Luis Potosi, S.L.P.<br>Mexico</h3>
-                
+
                 </div>
                 <div class="col-sm-3">
 
                     <i class="ion-pricetags"></i>
                     <h3>500<br>Entradas gratuitas</h3>
-                
+
                 </div>
                 <div class="col-sm-3">
-                
+
                     <i class="ion-speakerphone"></i>
                     <h3>25+<br>Expositores</h3>
-                
+
                 </div>
-            </div><!-- row -->
-        </div><!-- container -->
+            </div>
+            <!-- row -->
+        </div>
+        <!-- container -->
     </section>
 
     <section id="speakers" class="section speakers">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-
-                    <h3 class="section-title">Expositores</h3>
-
+                    <h2 class="section-title">Expositores</h2>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-md-3">
+            <div class="row" ng-repeat="row in vm.speakers">
+                <div class="col-md-3" ng-repeat="speaker in row">
                     <div class="speaker" id="speaker-manolo-diaz">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/manolo-diaz.jpg">
+                        <figure ng-click="vm.activateSpeakerLightBox(speaker)">
+                            <img alt="" title="" class="img-responsive center-block" ng-src="{{ speaker.picture }}">
                         </figure>
-
-                        <h4>Manolo Díaz</h4>
-
-                        <p>CEO y co-fundador de Yogome</p>
-
-                        <!--<ul class="social-block">
-                            <li><a href="https://twitter.com/yobelto"><i class="ion-social-twitter"></i></a></li>
-                            <li><a href="https://www.facebook.com/YObelto"><i class="ion-social-facebook"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/robertonearsoft/"><i class="ion-social-linkedin-outline"></i></a></li>
-                        </ul>-->
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-roberto-martinez">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/roberto-martinez.png">
-                        </figure>
-
-                        <h4>Roberto Martínez</h4>
-
-                        <p>CEO y co-fundador de Nearsoft</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://twitter.com/yobelto"><i class="ion-social-twitter"></i></a></li>
-                            <li><a href="https://www.facebook.com/YObelto"><i class="ion-social-facebook"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/robertonearsoft/"><i class="ion-social-linkedin-outline"></i></a></li>
+                        <h4>{{ speaker.name }}</h4>
+                        <p>{{ speaker.role }}</p>
+                        <ul class="social-block" ng-if="speaker.socialMedia">
+                            <li ng-if="speaker.socialMedia.twitter">
+                                <a ng-href="{{ speaker.socialMedia.twitter }}"><i class="ion-social-twitter"></i></a>
+                            </li>
+                            <li ng-if="speaker.socialMedia.facebook">
+                                <a ng-href="{{ speaker.socialMedia.facebook }}"><i class="ion-social-facebook"></i></a>
+                            </li>
+                            <li ng-if="speaker.socialMedia.linkedin">
+                                <a ng-href="{{ speaker.socialMedia.linkedin }}"><i class="ion-social-linkedin-outline"></i></a>
+                            </li>
                         </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-hector-perez">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/hector-perez.png">
-                        </figure>
-
-                        <h4>Dr. Héctor Gerardo Pérez González</h4>
-
-                        <p>Jefe de área de computación e informática de la Fac. de Ing. de la UASLP</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://www.facebook.com/hector.g.perezgonzalez"><i class="ion-social-facebook"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/hector-gerardo-perez-gonzalez-355bb0a/"><i class="ion-social-linkedin-outline"></i></a></li>
-                        </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-mariana-garcia">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/mariana-garcia.png">
-                        </figure>
-
-                        <h4>Mariana García</h4>
-
-                        <p>Coordinadora de UX Nights, Guadalajara</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://twitter.com/maana00"><i class="ion-social-twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/maana00/"><i class="ion-social-linkedin-outline"></i></a></li>
-                        </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-            </div>
-
-            <div class="row">
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-edgar-castillo">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/edgar-castillo.png">
-                        </figure>
-
-                        <h4>Dr. Fco. Edgar Castillo Barrera</h4>
-
-                        <p>Profesor/Investigador UASLP</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://twitter.com/BatMex1"><i class="ion-social-twitter"></i></a></li>
-                            <li><a href="https://www.facebook.com/edgar.castillo.77964"><i class="ion-social-facebook"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/francisco-castillo-86255172/"><i class="ion-social-linkedin-outline"></i></a></li>
-                        </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-                
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-luis-rodriguez">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/luis-rodriguez.jpg">
-                        </figure>
-
-                        <h4>Luis Rodríguez</h4>
-
-                        <p>coordinador de operaciones para Techstars Startup Program LATAM</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://www.linkedin.com/in/lfrodriguez/"><i class="ion-social-linkedin-outline"></i></a></li>
-                            <li><a href="https://www.facebook.com/techstars/"><i class="ion-social-facebook"></i></a></li>
-                        </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-fernando-alanis">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/fernando-alanis.jpg">
-                        </figure>
-
-                        <h4>Fernando Alanis</h4>
-
-                        <p>CEO & Cofounder Dot Innovation</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://www.facebook.com/DOTInnovation/"><i class="ion-social-facebook"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/fernando-alanis-espinosa-1436a2b0/"><i class="ion-social-linkedin-outline"></i></a></li>
-                        </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-luis-castillo">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/luis-castillo.png">
-                        </figure>
-
-                        <h4>Luis Castillo</h4>
-
-                        <p>Cofundador Grupo Botica</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://www.facebook.com/grupobotica/"><i class="ion-social-facebook"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/luis-castillo-a2a79168"><i class="ion-social-linkedin-outline"></i></a></li>
-                        </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-            </div>
-
-            <div class="row">
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-jorge-colunga">
-
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/jorge-colunga.png">
-                        </figure>
-
-                        <h4>Jorge Colunga</h4>
-
-                        <p>Cofundador Grupo Botica</p>
-
-                        <ul class="social-block">
-                            <li><a href="https://www.facebook.com/grupobotica/"><i class="ion-social-facebook"></i></a></li>
-                        </ul>
-
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-norma-garcia">
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/norma-garcia.jpg">
-                        </figure>
-                        <h4>MIBB. Norma Garcia Calderon</h4>
-                        <p>Coordinadora de Patentes, IPICYT. A.C.</p>
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-daniel-barron">
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/daniel-barron.jpg">
-                        </figure>
-                        <h4>MC. Daniel Barrón Pastor</h4>
-                        <p>Coordinador de Propiedad Intelectual, IPICYT. A.C.</p>
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-jasel-berra">
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/jasel-berra.jpg">
-                        </figure>
-                        <h4>Dr. Jasel Berra Montiel</h4>
-                        <p>Facultad de Ciencias, UASLP</p>
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-            </div>
-
-            <div class="row">
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-carla-marin">
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/carla-marin.png">
-                        </figure>
-                        <h4>Carla Marín</h4>
-                        <p>Cofundadora & Project Manager Grupo Botica</p>
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-charlas">
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/charlas.png">
-                        </figure>
-                        <h4>Charlas y Cheves</h4>
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                    <div class="speaker" id="speaker-startuplab">
-                        <figure>
-                            <img alt="" title="" class="img-responsive center-block" src="assets/images/speakers/startuplab.png">
-                        </figure>
-                        <h4>StartupLab</h4>
-                    </div><!-- /.speaker -->
-                </div><!-- /.col-md-3 -->
+                    </div>
+                    <lightbox-directive class="angular-lightbox" ng-class="{ hidden : !vm.showSpeakerLightBox }">
+                        <article>
+                            <header>
+                                <a class="close-btn" ng-click="vm.showSpeakerLightBox = false"><i class="fa fa-times-circle"></i></a>
+                            </header>
+                            <content>
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        <figure ng-click="vm.activateSpeakerLightBox(speaker)">
+                                            <img alt="" title="" class="img-responsive center-block" ng-src="{{ vm.currentSpeaker.picture }}">
+                                        </figure>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <h3>{{ vm.currentSpeaker.name }}</h3>
+                                        <p>{{ vm.currentSpeaker.bio }}</p>
+                                    </div>
+                                </div>
+                            </content>
+                        </article>
+                    </lightbox-directive>
+                    <!-- /.speaker -->
+                </div>
+                <!-- /.col-md-3 -->
             </div>
         </div>
     </section>
@@ -434,121 +255,26 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="section-title">Agenda</h3>
+                    <h2 class="section-title">Agenda</h2>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-md-12">
-                    <ul class="nav nav-tabs" role="tablist" id="myTab">
-                        <!-- tabs>-->
-                        <li role="presentation" class="active">
-                            <a href="#stage" role="tab" data-toggle="tab">Eventos</a>
-                        </li>
-                        <li role="presentation" class="">
-                            <a href="#dia" role="tab" data-toggle="tab">Agenda por Día</a>
-                        </li>
-                    </ul>
-                    <div class="tab-content">
-                        <div role="tabpanel" class="tab-pane active" id="stage">
-                            <div class="row"><div class="col-md-12"><h4 class="section-title">Sábado 19 de Agosto</h4></div></div>
-                            <div class="row"><div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="09:00">09:00</time> - <time datetime="10:00">10:00</time></div><h4>Creative Mornings</h4><h5>&nbsp;</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="09:00">09:00</time> - <time datetime="10:00">10:00</time></div><h4>Registro</h4><h5>&nbsp;</h5><p>&nbsp;</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="10:00">10:00</time> - <time datetime="11:00">11:00</time></div><h4>Apertura</h4><h5>&nbsp;</h5><p>Casa rosa</p></div></div>
-                            </div>
-                            <div class="row"><div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="11:00">11:00</time> - <time datetime="12:00">12:00</time></div><h4>De San Luis Potosí para el mundo: &iquest;Cómo lograr inversión en Sillicon Valley?</h4><h5>Manolo Díaz</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="12:00">12:00</time> - <time datetime="13:00">13:00</time></div><h4>&iquest;Cómo invertir en la cultura de tu empresa?</h4><h5>Roberto Martínez</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="12:00">12:00</time> - <time datetime="13:00">13:00</time></div><h4>Expert nights/mornings</h4><h5>&nbsp;</h5><p>Sala 1 - Biblioteca</p></div></div>
-                            </div>
+                    <div class="panel" style="display: block;" ng-repeat="block in vm.schedule">
+                        <h3>{{ block.title }}</h3>
+                        <div ng-repeat="event in block.events">
                             <div class="row">
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="12:00">12:00</time> - <time datetime="16:00">16:00</time></div><h4>Taller Web Semántica</h4><h5>Dr. Edgar Castillo</h5><p>Sala 2 - Biblioteca</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="13:00">13:00</time> - <time datetime="14:00">14:00</time></div><h4>Diseño de software: Aprendizaje vívido</h4><h5>Dr. Héctor Gerardo Pérez</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="14:00">14:00</time> - <time datetime="16:00">16:00</time></div><h4>Panel</h4><h5>Epic Queen</h5><p>Casa rosa</p></div></div>
-                            </div>
-                            <div class="row"><div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="15:00">15:00</time> - <time datetime="16:00">16:00</time></div><h4>Robots Ondas Cerebrales</h4><h5>Dot Innovation</h5><p>Sala 1 - Biblioteca</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="16:00">16:00</time> - <time datetime="17:00">17:00</time></div><h4>Movimiento maker</h4><h5>&nbsp;</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="16:00">16:00</time> - <time datetime="17:00">17:00</time></div><h4>Cómo empezar a emprender en Tech?</h4><h5>Startuplab</h5><p>Sala 1 - Biblioteca</p></div></div>
-                            </div>
-                            <div class="row"><div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="17:00">17:00</time> - <time datetime="18:00">18:00</time></div><h4>Panorama de inversión a proyectos de Tech</h4><h5>&nbsp;</h5><p>Sala 1 - Biblioteca</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="17:00">17:00</time> - <time datetime="19:00">19:00</time></div><h4>Proceso creativo</h4><h5>Empresa de videojuegos</h5><p>Sala 2 - Biblioteca</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="17:00">17:00</time> - <time datetime="18:00">18:00</time></div><h4>Collaboration theory to evaluate usability in Enterprise</h4><h5>Mariana García</h5><p>Casa rosa</p></div></div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="18:00">18:00</time> - <time datetime="19:00">19:00</time></div><h4>Una gota de Elixir</h4><h5>Rafael Gutiérrez</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="18:00">18:00</time> - <time datetime="20:00">20:00</time></div><h4>Tecnología, maker o diseño</h4><h5>Charlas y cheves</h5><p>Sala 1 - Biblioteca</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="19:00">19:00</time> - <time datetime="21:00">21:00</time></div><h4>Imagen corporativa</h4><h5>KUBAL</h5><p>Sala 2 - Biblioteca</p></div></div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="20:00">20:00</time> - <time datetime="21:00">21:00</time></div><h4>Noche de libre pensadores</h4><h5>PRISMATIC</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="20:00">20:00</time> - <time datetime="21:00">21:00</time></div><h4>Satélites Inventors House</h4><h5>&nbsp;</h5><p>Sala 1 - Biblioteca</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="21:00">21:00</time> - <time datetime="23:00">23:00</time></div><h4>Fuck up Nights<br/>+<br/>Hackers&Founders</h4><p>Casa rosa</p></div></div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12"><h4 class="section-title">Domingo 20 de Agosto</h4></div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="09:00">09:00</time> - <time datetime="10:00">10:00</time></div><h4>Prospectiva Tecnológica</h4><h5>MC. Daniel Barrón Pastor</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="10:00">10:00</time> - <time datetime="11:00">11:00</time></div><h4>Propiedad Intelectual</h4><h5>MIBB. Norma Garcia Calderon</h5><p>Casa rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="11:00">11:00</time> - <time datetime="12:00">12:00</time></div><h4>Robots Ondas Cerebrales</h4><h5>Dot Innovation</h5><p>Casa rosa</p></div></div>
-
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="12:00">12:00</time> - <time datetime="14:00">14:00</time></div><h4>Technovation</h4><h5>&nbsp;</h5><p>Casa Rosa</p></div></div>
-                                <div class="col-md-4 col-sm-6"><div class="schedule-box"><div class="time"><time datetime="14:00">14:00</time> - <time datetime="15:00">15:00</time></div><h4>Conferencia magistral / Cierre</h4><h5>Dr. Moran</h5><p>Casa rosa</p></div></div>
-                            </div>
-                        </div>
-                        <div role="tabpanel" class="tab-pane" id="dia">
-                            <div class="panel-group" id="accordion-schedule" role="tablist" aria-multiselectable="true">
-                                <div class="spinner" style="display: none;">
-                                    <i class="fa fa-5x fa-spinner fa-spin"></i>
-                                </div>
-                                <div class="panel" style="display: block;">
-
-                                    <div class="panel-heading date-header" role="tab" id="date-19-heading"><h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-schedule" href="#date-19" aria-expanded="true" aria-controls="collapseOne">Sábado 19 de Agosto</a></h4></div>
-                                    <div id="date-19" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="date-19-heading"><ul class="list-group ">
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >09:00&nbsp;Creative Mornings</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >09:00&nbsp;Registro</span><span class="stage-button"><span>&nbsp;</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >10:00&nbsp;Apertura</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >11:00&nbsp;De San Luis Potosí para el mundo: &iquest;Cómo lograr inversión en Sillicon Valley?</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Manolo Díaz</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >12:00&nbsp;&iquest;Cómo invertir en la cultura de tu empresa?</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Roberto Martínez</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >12:00&nbsp;Expert nights/mornings</span><span class="stage-button"><span>Sala 1 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >12:00&nbsp;Taller Web Semántica</span><span class="stage-button"><span>Sala 2 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#speaker-edgar-castillo">Dr. Edgar Castillo</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >13:00&nbsp;Diseño de software: Aprendizaje vívido</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Dr. Héctor Gerardo Pérez</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >14:00&nbsp;Panel: Epic Queen</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >15:00&nbsp;Robots Ondas Cerebrales</span><span class="stage-button"><span>Sala 1 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Dot Innovation</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >16:00&nbsp;Movimiento maker</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >16:00&nbsp;Cómo empezar a emprender en Tech?</span><span class="stage-button"><span>Sala 1 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Startuplab</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >17:00&nbsp;Collaboration theory to evaluate usability in Enterprise</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Mariana García</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >17:00&nbsp;Panorama de inversión a proyectos de Tech</span><span class="stage-button"><span>Sala 1 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >17:00&nbsp;Proceso creativo</span><span class="stage-button"><span>Sala 2 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Empresa de videojuegos</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >18:00&nbsp;Una gota de Elixir</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Rafael Gutierrez</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >18:00&nbsp;Tecnología, maker o diseño</span><span class="stage-button"><span>Sala 1 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Charlas y cheves</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >19:00&nbsp;Imagen corporativa</span><span class="stage-button"><span>Sala 2 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">KUBAL</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >20:00&nbsp;Noche de libre pensadores</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">PRISMATIC</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >20:00&nbsp;Satélites Inventors House</span><span class="stage-button"><span>Sala 1 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >21:00&nbsp;Fuck up Nights + H/F</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                    </ul></div>
-                                    <div class="panel-heading date-header" role="tab" id="date-20-heading"><h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-schedule" href="#date-20" aria-expanded="true" aria-controls="collapseOne">Domingo 20 de Agosto</a></h4></div>
-                                    <div id="date-20" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="date-19-heading"><ul class="list-group ">
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >09:00&nbsp;Prospectiva Tecnológica</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">MC. Daniel Barrón Pastor</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >09:00&nbsp;Taller de programación para niños</span><span class="stage-button"><span>Sala 1 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">DesarrolladorSLP</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >10:00&nbsp;Propiedad Intelectual</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">MIBB. Norma Garcia Calderon</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >11:00&nbsp;Robots Ondas Cerebrales</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Dot Innovation</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >11:00&nbsp;Lotería Realidad Autónoma</span><span class="stage-button"><span>Sala 1 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >11:00&nbsp;Ciber seguridad</span><span class="stage-button"><span>Sala 2 - Biblioteca</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Rafael Llamas Contreras</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >12:00&nbsp;Technovation</span><span class="stage-button"><span>Casa Rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">&nbsp;</a></span></li>
-                                        <li class="list-group-item event-item"><span style="display:inline-block; width: 50% !important;" >14:00&nbsp;Conferencia magistral / Cierre</span><span class="stage-button"><span>Casa rosa</span></span><span class="streaming-link" style="float:right" ><a class="btn" target="_blank" href="#">Dr. Morán</a></span></li>
-                                    </ul></div>
-
-
+                                <div class="col-md-12 event">
+                                    Hora: <strong>{{ event.time }}</strong> Lugar: <strong>{{ event.location }}</strong>
+                                    <span class="name">{{ event.name }}</span> Por: {{ event.speaker }}<br>
+                                    <p class="description">{{ event.description }}</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
-        </div>
     </section>
 
     <section id="partner" class="section partner">
@@ -560,54 +286,54 @@
             </div>
             <div class="row">
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="http://sdeslp.gob.mx/" >
+                    <a href="http://sdeslp.gob.mx/">
                         <img class="logo" src="/assets/images/sponsors/sedeco.png" />
                     </a>
                 </div>
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="http://www.slp.gob.mx/" >
+                    <a href="http://www.slp.gob.mx/">
                         <img class="logo" src="/assets/images/sponsors/logo_slp_prospera.png" />
                     </a>
                 </div>
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="http://toptal.com" >
+                    <a href="http://toptal.com">
                         <img class="logo" src="/assets/images/sponsors/toptal.svg" style="width: 300px; height: 150px;" />
                     </a>
                 </div>
 
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="http://nearsoft.com" >
+                    <a href="http://nearsoft.com">
                         <img class="logo" src="/assets/images/sponsors/nearsoft.png" />
                     </a>
                 </div>
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="https://tpx.mx/" >
+                    <a href="https://tpx.mx/">
                         <img class="logo" src="/assets/images/sponsors/tpx.png" />
                     </a>
                 </div>
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="https://www.soyimparable.mx/" >
+                    <a href="https://www.soyimparable.mx/">
                         <img class="logo" src="/assets/images/community/imparable.png" />
                     </a>
                 </div>
 
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="#" >
+                    <a href="#">
                         <img class="logo" src="/assets/images/sponsors/red.png" />
                     </a>
                 </div>
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="#" >
+                    <a href="#">
                         <img class="logo" src="/assets/images/sponsors/cookie_depot.png" />
                     </a>
                 </div>
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="#" >
+                    <a href="#">
                         <img class="logo" src="/assets/images/sponsors/fablab.png" />
                     </a>
                 </div>
                 <div class="col-sm-3 logo-container logo-container-sponsor">
-                    <a href="#" >
+                    <a href="#">
                         <img class="logo" src="/assets/images/sponsors/startuplab.png" />
                     </a>
                 </div>
@@ -628,121 +354,144 @@
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading2'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse2' aria-expanded='true' aria-controls='collapse2'> ¿Qué es Tuna Tech?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse2' aria-expanded='true'
+                                        aria-controls='collapse2'> ¿Qué es Tuna Tech?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse2' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading2'>
                                 <div class='panel-body'>
 
-                                    <p>Es un evento enfocado en reunir comunidades de tecnología, emprendimiento, makers, creativos, científicos y profesionistas de diferentes ramas. Nuestro objetivo es fomentar el uso de la ciencia, la tecnología y la innovación.</p>
+                                    <p>Es un evento enfocado en reunir comunidades de tecnología, emprendimiento, makers, creativos,
+                                        científicos y profesionistas de diferentes ramas. Nuestro objetivo es fomentar el
+                                        uso de la ciencia, la tecnología y la innovación.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading3'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse3' aria-expanded='true' aria-controls='collapse3'> ¿Por qué se hace Tuna Tech?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse3' aria-expanded='true'
+                                        aria-controls='collapse3'> ¿Por qué se hace Tuna Tech?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse3' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading3'>
                                 <div class='panel-body'>
 
-                                    <p>Tuna Tech se realiza con el objetivo de difundir los diferentes temas de las comunidades involucradas en su organización y es un evento sin fines de lucro por lo que dependemos de nuestros patrocinadores y donativos.</p>
+                                    <p>Tuna Tech se realiza con el objetivo de difundir los diferentes temas de las comunidades
+                                        involucradas en su organización y es un evento sin fines de lucro por lo que dependemos
+                                        de nuestros patrocinadores y donativos.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading4'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse4' aria-expanded='true' aria-controls='collapse4'> ¿Quiénes organizan el TunaTech 2017?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse4' aria-expanded='true'
+                                        aria-controls='collapse4'> ¿Quiénes organizan el TunaTech 2017?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse4' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading4'>
                                 <div class='panel-body'>
 
-                                    <p>Una comunidad llamada Tuna Valley creada por la colaboración entre varias comunidades de San Luis Potosí: FabLab, Prismatic, Hackers & Founders, DesarrolladorSLP, Kubal, Creative Mornings, Imparable Coworking, Epic Queen</p>
+                                    <p>Una comunidad llamada Tuna Valley creada por la colaboración entre varias comunidades
+                                        de San Luis Potosí: FabLab, Prismatic, Hackers & Founders, DesarrolladorSLP, Kubal,
+                                        Creative Mornings, Imparable Coworking, Epic Queen</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading5'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse5' aria-expanded='true' aria-controls='collapse5'> ¿Qué tipo de actividades habrá?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse5' aria-expanded='true'
+                                        aria-controls='collapse5'> ¿Qué tipo de actividades habrá?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse5' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading5'>
                                 <div class='panel-body'>
 
-                                    <p>Talleres, pláticas y conferencias. TunaTech está organizado por diversas comunidades de San Luis Potosí que realizan actividades periódicas durante el año. Cada comunidad ofrece sus propias actividades muy a su estilo, de modo que además de aprender cosas muy interesantes podrás conocer gente con la que podrás seguir creciendo en los temas que te gustan.</p>
+                                    <p>Talleres, pláticas y conferencias. TunaTech está organizado por diversas comunidades
+                                        de San Luis Potosí que realizan actividades periódicas durante el año. Cada comunidad
+                                        ofrece sus propias actividades muy a su estilo, de modo que además de aprender cosas
+                                        muy interesantes podrás conocer gente con la que podrás seguir creciendo en los temas
+                                        que te gustan.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading6'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse6' aria-expanded='true' aria-controls='collapse6'> ¿Quiénes pueden asistir?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse6' aria-expanded='true'
+                                        aria-controls='collapse6'> ¿Quiénes pueden asistir?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse6' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading6'>
                                 <div class='panel-body'>
 
-                                    <p>Cualquier persona con interés en ciencia, tecnología, innovación y emprendimiento puede participar.</p>
+                                    <p>Cualquier persona con interés en ciencia, tecnología, innovación y emprendimiento puede
+                                        participar.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading7'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse7' aria-expanded='true' aria-controls='collapse7'> ¿Dónde se realizará TunaTech?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse7' aria-expanded='true'
+                                        aria-controls='collapse7'> ¿Dónde se realizará TunaTech?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse7' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading7'>
                                 <div class='panel-body'>
 
-                                    <p>Esta edición 2017 se llevará acabo en las intalaciones del Centro de las Artes de San Luis Potosí.</p>
+                                    <p>Esta edición 2017 se llevará acabo en las intalaciones del Centro de las Artes de San
+                                        Luis Potosí.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading8'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse8' aria-expanded='true' aria-controls='collapse8'> ¿Cuáles son las fechas oficiales?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse8' aria-expanded='true'
+                                        aria-controls='collapse8'> ¿Cuáles son las fechas oficiales?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse8' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading8'>
                                 <div class='panel-body'>
 
-                                    <p>El evento de 2017 se llevará acabo los días 19 y 20 de agosto en un horario de 9:00 - 23:00 Hrs.</p>
+                                    <p>El evento de 2017 se llevará acabo los días 19 y 20 de agosto en un horario de 9:00 -
+                                        23:00 Hrs.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading9'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse9' aria-expanded='true' aria-controls='collapse9'> Quiero asistir. ¿Qué debo hacer?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse9' aria-expanded='true'
+                                        aria-controls='collapse9'> Quiero asistir. ¿Qué debo hacer?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse9' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading9'>
                                 <div class='panel-body'>
 
-                                    <p>Regístrate <a href='https://www.eventbrite.com/e/tunatech-2017-tickets-35881620894' target='_blank'>aquí</a>
-
-                                        Es muy importante que te registres para nosotros poder contar con la estadística, misma que usaremos para motivar a más patrocinadores y hacer que TunaTech sea un evento anual cada vez más interesante y útil para todos</p>
+                                    <p>Regístrate <a href='https://www.eventbrite.com/e/tunatech-2017-tickets-35881620894' target='_blank'>aquí</a>                                        Es muy importante que te registres para nosotros poder contar con la estadística,
+                                        misma que usaremos para motivar a más patrocinadores y hacer que TunaTech sea un
+                                        evento anual cada vez más interesante y útil para todos</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading10'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse10' aria-expanded='true' aria-controls='collapse10'> ¿Hay fecha límite para el registro?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse10' aria-expanded='true'
+                                        aria-controls='collapse10'> ¿Hay fecha límite para el registro?</a>
                                 </h4>
                             </div>
 
@@ -756,21 +505,24 @@
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading11'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse11' aria-expanded='true' aria-controls='collapse11'> ¿Dónde puedo ver el programa del evento?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse11' aria-expanded='true'
+                                        aria-controls='collapse11'> ¿Dónde puedo ver el programa del evento?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse11' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading11'>
                                 <div class='panel-body'>
 
-                                    <p>En nuestro sitio web podrás encontrar todos los detalles del evento así como horarios y ubicación de las conferencias.</p>
+                                    <p>En nuestro sitio web podrás encontrar todos los detalles del evento así como horarios
+                                        y ubicación de las conferencias.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading12'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse12' aria-expanded='true' aria-controls='collapse12'> ¿Tiene algún costo el evento?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse12' aria-expanded='true'
+                                        aria-controls='collapse12'> ¿Tiene algún costo el evento?</a>
                                 </h4>
                             </div>
 
@@ -784,77 +536,88 @@
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading13'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse13' aria-expanded='true' aria-controls='collapse13'> ¿Tengo que permanecer durante todo el evento?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse13' aria-expanded='true'
+                                        aria-controls='collapse13'> ¿Tengo que permanecer durante todo el evento?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse13' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading13'>
                                 <div class='panel-body'>
 
-                                    <p>Puedes entrar y salir cuando gustes, solo asegúrate de no perderte las ponencias que te interesan.</p>
+                                    <p>Puedes entrar y salir cuando gustes, solo asegúrate de no perderte las ponencias que
+                                        te interesan.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading14'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse14' aria-expanded='true' aria-controls='collapse14'> Quisiera participar ofreciendo un taller o plática, ¿qué debo hacer?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse14' aria-expanded='true'
+                                        aria-controls='collapse14'> Quisiera participar ofreciendo un taller o plática, ¿qué debo hacer?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse14' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading14'>
                                 <div class='panel-body'>
 
-                                    <p>Si estas interesad@ en ser ponente, puedes contactar a los organizadores por medio del correo oficial del evento: contacto@tunatech.mx </p>
+                                    <p>Si estas interesad@ en ser ponente, puedes contactar a los organizadores por medio del
+                                        correo oficial del evento: contacto@tunatech.mx </p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading15'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse15' aria-expanded='true' aria-controls='collapse15'> ¿Puedo llevar menores de edad al evento?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse15' aria-expanded='true'
+                                        aria-controls='collapse15'> ¿Puedo llevar menores de edad al evento?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse15' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading15'>
                                 <div class='panel-body'>
 
-                                    <p>Desde luego, inclusive hay actividades para aquellos menores que quieran participar como talleres de programación. Revisa nuestra agenda</p>
+                                    <p>Desde luego, inclusive hay actividades para aquellos menores que quieran participar como
+                                        talleres de programación. Revisa nuestra agenda</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading16'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse16' aria-expanded='true' aria-controls='collapse16'> ¿Habrá estacionamiento?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse16' aria-expanded='true'
+                                        aria-controls='collapse16'> ¿Habrá estacionamiento?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse16' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading16'>
                                 <div class='panel-body'>
 
-                                    <p>Las instalaciones cuentan con un estacionamiento, pero dependerá de la disponibilidad de éste.</p>
+                                    <p>Las instalaciones cuentan con un estacionamiento, pero dependerá de la disponibilidad
+                                        de éste.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading17'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse17' aria-expanded='true' aria-controls='collapse17'> ¿Puedo llevar gadgets?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse17' aria-expanded='true'
+                                        aria-controls='collapse17'> ¿Puedo llevar gadgets?</a>
                                 </h4>
                             </div>
 
                             <div id='collapse17' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading17'>
                                 <div class='panel-body'>
 
-                                    <p>Claro que si, pero solo tú seras responsable por su cuidado ya que no podemos hacernos responsables por daño, perdida, robo o extravío de éstos.</p>
+                                    <p>Claro que si, pero solo tú seras responsable por su cuidado ya que no podemos hacernos
+                                        responsables por daño, perdida, robo o extravío de éstos.</p>
                                 </div>
                             </div>
                         </div>
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading18'>
                                 <h4 class='panel-title'>
-                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse18' aria-expanded='true' aria-controls='collapse18'> ¿Hay reembolso en el boleto?</a>
+                                    <a class='faq-toggle collapsed' role='button' data-toggle='collapse' data-parent='#accordion-faq' href='#collapse18' aria-expanded='true'
+                                        aria-controls='collapse18'> ¿Hay reembolso en el boleto?</a>
                                 </h4>
                             </div>
 
@@ -890,15 +653,14 @@
                     <h3 class="section-title">Ubicación</h3>
                     <address>
                         <p>
-                            Centro de Las Artes<br>
-                            Calzada de Guadalupe 705<br>
-                            Col. Julián Carrillo<br>
-                            San Luis Potosí, San Luis Potosí 78340<br>
+                            Centro de Las Artes<br> Calzada de Guadalupe 705<br> Col. Julián Carrillo<br> San Luis Potosí,
+                            San Luis Potosí 78340<br>
                         </p>
                     </address>
                 </div>
                 <div class="col-sm-9">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3695.6626581312257!2d-100.97281178515664!3d22.13883415433141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20fd0863099%3A0x5351387535ec756f!2sArts+Center+of+San+Luis+Potosi!5e0!3m2!1sen!2sus!4v1500925007347" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3695.6626581312257!2d-100.97281178515664!3d22.13883415433141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20fd0863099%3A0x5351387535ec756f!2sArts+Center+of+San+Luis+Potosi!5e0!3m2!1sen!2sus!4v1500925007347"
+                        width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -924,6 +686,10 @@
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="bower_components/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+    <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.8/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="assets/js/app.js"></script>
     <script src="assets/js/main.js"></script>
 </body>
+
 </html>

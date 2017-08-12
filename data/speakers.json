@@ -1,0 +1,21 @@
+[
+    [
+        {
+            "name": "Manolo Díaz",
+            "role": "CEO y Co-Fundador de Yogome",
+            "picture": "/assets/images/speakers/manolo-diaz.jpg",
+            "bio": "Bio de Manolo"
+        },
+        {
+            "name": "Roberto Martínez",
+            "role": "CEO y Co-Fundador de Nearsoft",
+            "picture": "/assets/images/speakers/roberto-martinez.png",
+            "bio": "Roberto es CEO y co-fundador de Nearsoft, empresa que se dedica a extender equipos de desarrollo de software en México para clientes en Estados Unidos. Durante su gestión Nearsoft ha destacado todos los años como un GPTW, y además como una de las empresa más democráticas del mundo según WorldBlu. Nearsoft es reconocido por ser una empresa con una cultura única y con un enfoque orientado a crear comunidad desde su fundación. Roberto es de Hermosillo, Sonora donde estudió Ingeniería en Sistemas en el Tec de Mty. Antes de Nearsoft formó otras empresas y ha fondeado startups en México. Recientemente ha creado Nearsoft Labs que se dedica a construir productos para desarrolladores.",
+            "socialMedia": {
+                "twitter": "https://twitter.com/yobelto",
+                "facebook": "https://www.facebook.com/YObelto",
+                "linkedin": "https://www.linkedin.com/in/robertonearsoft/"
+            }
+        }
+    ]
+]
