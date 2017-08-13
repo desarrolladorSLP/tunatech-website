@@ -3,7 +3,25 @@
         "title": "Sábado 19 de Agosto",
         "events": [
             {
-                "name": "De San Luis Potosí para el mundo: Cómo lograr inversión en Sillicon Valley?",
+                "name": "Creative Mornings",
+                "speaker": "",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "09:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Apertura",
+                "speaker": "Patrocinadores y organizadores",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "10:00",
+                "type": "Presentación",
+                "description": ""
+            },
+            {
+                "name": "De San Luis Potosí para el mundo: ¿Cómo lograr inversión en Sillicon Valley?",
                 "speaker": "Manolo Díaz",
                 "location": "Casa Rosa",
                 "date": "2017-08-19",
@@ -12,13 +30,202 @@
                 "description": "Tienes una idea pero crees que es imposible llegar a Sillicon Valley, acompañanos en esta charla donde Manolo nos contara acerca de su experiencia, los retos que enfrento y como logro crear Yogome."
             },
             {
-                "name": "De San Luis Potosí para el mundo: Cómo lograr inversión en Sillicon Valley?",
-                "speaker": "Manolo Díaz",
+                "name": "¿Cómo invertir en la cultura de tu empresa?",
+                "speaker": "Roberto Martínez",
                 "location": "Casa Rosa",
                 "date": "2017-08-19",
-                "time": "11:00",
+                "time": "12:00",
                 "type": "Conferencia",
-                "description": "Tienes una idea pero crees que es imposible llegar a Sillicon Valley, acompañanos en esta charla donde Manolo nos contara acerca de su experiencia, los retos que enfrento y como logro crear Yogome."
+                "description": ""
+            },
+            {
+                "name": "Expert Nights/Mornings: Soluciona con creatividad",
+                "speaker": "Grupo Botica",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "12:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Taller de Web Semántica",
+                "speaker": "Dr. Edgar Castillo",
+                "location": "Biblioteca - Sala 2",
+                "date": "2017-08-19",
+                "time": "12:00",
+                "type": "Taller - 3 hrs.",
+                "description": ""
+            },
+            {
+                "name": "Diseño de software: Aprendizaje vívido",
+                "speaker": "Dr. Héctor Pérez",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "13:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "",
+                "speaker": "Manuel Valle",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "13:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "El papel de la mujer en la Innovación desde diferentes aristas",
+                "speaker": "Epic Queen",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "14:00",
+                "type": "Mesa redonda - 2 hrs",
+                "description": ""
+            },
+            {
+                "name": "",
+                "speaker": "TPX",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "14:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Movimiento Maker",
+                "speaker": "",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "16:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Techstars: ¿Cómo funciona una aceleradora de startups de alto impacto?",
+                "speaker": "Luis Rodriguez",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "16:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Collaboration theory to evaluate usability in Enterprise",
+                "speaker": "Mariana García",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "17:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Startuplab - Panel emprender en Tech ",
+                "speaker": "",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "17:00",
+                "type": "Panel",
+                "description": ""
+            },
+            {
+                "name": "Proceso creativo",
+                "speaker": "Empresa de videojuegos",
+                "location": "Biblioteca - Sala 2",
+                "date": "2017-08-19",
+                "time": "17:00",
+                "type": "Conferencia 2 hrs.",
+                "description": ""
+            },
+            {
+                "name": "Charlemos de desarrollo de Software con un enfoque moderno",
+                "speaker": "Jesus Reyes",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "18:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Startupeando",
+                "speaker": "Charlas y cheves",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "18:00",
+                "type": "Conferencia - 2 hrs.",
+                "description": "Evento donde se exponen proyectos en las áreas de Arte y Cultura, Emprendimiento Social y Negocios/Startups."
+            },
+            {
+                "name": "Una gota de Elixir",
+                "speaker": "Rafael Gutiérrez",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "19:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Diseño y tecnología para el desarrollo de proyectos",
+                "speaker": "Sergio Coconi",
+                "location": "Biblioteca - Sala 2",
+                "date": "2017-08-19",
+                "time": "19:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "El arte de dominar la intuición (agujeros negros y la ilusión del tiempo)",
+                "speaker": "Dr. Jasel Berra Montiel",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "20:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Internet de las cosas - ¿Innovación o espionaje?",
+                "speaker": "Gerardo Díaz",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "20:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Design thinking, el sentido más humano del desarrollo",
+                "speaker": "Kubal",
+                "location": "Biblioteca - Sala 2",
+                "date": "2017-08-19",
+                "time": "20:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Fuck up Nights",
+                "speaker": "Kubal",
+                "location": "Casa Rosa",
+                "date": "2017-08-19",
+                "time": "21:00",
+                "type": "Charla 2 hrs",
+                "description": ""
+            },
+            {
+                "name": "Haciendo hardware libre en México",
+                "speaker": "Andres Sabas",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "21:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Makers",
+                "speaker": "",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "22:00",
+                "type": "Conferencia",
+                "description": ""
             }
         ]
     },
@@ -26,13 +233,94 @@
         "title": "Domingo 20 de Agosto",
         "events": [
             {
-                "name": "De San Luis Potosí para el mundo: Cómo lograr inversión en Sillicon Valley?",
-                "speaker": "Manolo Díaz",
+                "name": "Prospectiva Tecnológica",
+                "speaker": "MC. Daniel Barrón Pastor",
                 "location": "Casa Rosa",
-                "date": "2017-08-19",
+                "date": "2017-08-20",
+                "time": "09:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Scratch: Taller de programación para niños",
+                "speaker": "DesarrolladorSLP",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-20",
+                "time": "09:00",
+                "type": "Taller 2 hrs.",
+                "description": "Descubre el fascinante mundo de la programación a través de una plataforma online de uso libre, con la que podrás crear juegos usando bloques y diagramas de flujo"
+            },
+            {
+                "name": "Propiedad Intelectual",
+                "speaker": "MIBB. Norma Garcia Calderon",
+                "location": "Casa Rosa",
+                "date": "2017-08-20",
+                "time": "10:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Robots Ondas Cerebrales",
+                "speaker": "Dot Innovation",
+                "location": "Casa Rosa",
+                "date": "2017-08-20",
                 "time": "11:00",
                 "type": "Conferencia",
-                "description": "Tienes una idea pero crees que es imposible llegar a Sillicon Valley, acompañanos en esta charla donde Manolo nos contara acerca de su experiencia, los retos que enfrento y como logro crear Yogome."
+                "description": ""
+            },
+            {
+                "name": "Loteria Realidad Autonoma",
+                "speaker": "",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-20",
+                "time": "11:00",
+                "type": "",
+                "description": ""
+            },
+            {
+                "name": "Ciber-seguridad",
+                "speaker": "",
+                "location": "Biblioteca - Sala 2",
+                "date": "2017-08-20",
+                "time": "11:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Technovation",
+                "speaker": "Lía Morales",
+                "location": "Casa Rosa",
+                "date": "2017-08-20",
+                "time": "12:00",
+                "type": "Conferencia",
+                "description": "Conoce acerca de este programa internacional que busca incluir a más mujeres en el desarrollo de tecnología desde niñas y cómo se está llevando en San Luis Potosí"
+            },
+            {
+                "name": "Loteria Realidad Autonoma",
+                "speaker": "",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-20",
+                "time": "12:00",
+                "type": "",
+                "description": ""
+            },
+            {
+                "name": "Technovation",
+                "speaker": "Lía Morales",
+                "location": "Casa Rosa",
+                "date": "2017-08-20",
+                "time": "13:00",
+                "type": "Conferencia",
+                "description": "Entrega de reconocimientos a las niñas que participaron en la primer generación de Technovation San Luis Potosí"
+            },
+            {
+                "name": "Loteria Realidad Autonoma",
+                "speaker": "",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-20",
+                "time": "13:00",
+                "type": "",
+                "description": ""
             }
         ]
     }
