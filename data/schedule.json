@@ -54,7 +54,7 @@
                 "date": "2017-08-19",
                 "time": "12:00",
                 "type": "Taller - 3 hrs.",
-                "description": ""
+                "description": "En este taller el alumno conocerá el marco teórico de la Web Semántica y su relación con los Datos Abiertos Enlazados para el éxito de la Web 3.0.  Se hará una introducción breve a los conceptos que la fundamentan y a las herramientas que la soportan, siguiendo las recomendaciones hechas por el consorcio de la World Wide Web (W3C). Durante todo el taller se buscará reforzar la información presentada con casos prácticos guiados por el instructor."
             },
             {
                 "name": "Diseño de software: Aprendizaje vívido",
@@ -63,7 +63,7 @@
                 "date": "2017-08-19",
                 "time": "13:00",
                 "type": "Conferencia",
-                "description": ""
+                "description": "Cohesión, acoplamiento, mantenibilidad, complejidad … ¿Quienes de nosotros consideramos estos atributos cuando producimos software? La dependencia del mundo con respecto a los sistemas de cómputo nos obliga a garantizar en la medida de lo posible que nuestros desarrollos no sean solamente correctos. En esta conferencia se muestra el papel crucial que el diseño de software juega en la producción de software y se revisan conceptos como métricas, mediciones e indicadores así como su importancia en el desarrollo. Una vez que se establece la relevancia de un buen diseño, se proponen lineamientos para facilitar su aprendizaje de la manera mas memorable posible tanto en la industria como en la academia."
             },
             {
                 "name": "",
@@ -162,7 +162,7 @@
                 "date": "2017-08-19",
                 "time": "19:00",
                 "type": "Conferencia",
-                "description": ""
+                "description": "Un vistazo al ecosistema actual de Elixir para desarrollar aplicaciones escalabes, tolerantes a fallos y distribuidas"
             },
             {
                 "name": "Diseño y tecnología para el desarrollo de proyectos",
