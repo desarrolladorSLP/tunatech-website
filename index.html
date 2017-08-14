@@ -267,7 +267,8 @@
                             <div class="row">
                                 <div class="col-md-12 event">
                                     Hora: <strong>{{ event.time }}</strong> Lugar: <strong>{{ event.location }}</strong>
-                                    <span class="name">{{ event.name }}</span> Por: {{ event.speaker }}<br>
+                                    <span class="name">{{ event.name }}</span> 
+                                    <span ng-if="event.speaker">Por: {{ event.speaker }}</span><br>
                                     <p class="description">{{ event.description }}</p>
                                 </div>
                             </div>
