@@ -67,13 +67,13 @@
                 "description": "Cohesión, acoplamiento, mantenibilidad, complejidad … ¿Quienes de nosotros consideramos estos atributos cuando producimos software? La dependencia del mundo con respecto a los sistemas de cómputo nos obliga a garantizar en la medida de lo posible que nuestros desarrollos no sean solamente correctos. En esta conferencia se muestra el papel crucial que el diseño de software juega en la producción de software y se revisan conceptos como métricas, mediciones e indicadores así como su importancia en el desarrollo. Una vez que se establece la relevancia de un buen diseño, se proponen lineamientos para facilitar su aprendizaje de la manera mas memorable posible tanto en la industria como en la academia."
             },
             {
-                "name": "",
+                "name": "Learning Machines",
                 "speaker": "Manuel Valle",
                 "location": "Biblioteca - Sala 1",
                 "date": "2017-08-19",
                 "time": "13:00",
                 "type": "Conferencia",
-                "description": ""
+                "description": "A estas alturas todos sabemos que hay algo llamado Machine Learning y que está cambiando el mundo, lo que no siempre queda muy claro es cómo funciona. ¿Cómo hacemos que las máquinas aprendan? En esta magia, conocer el truco no lo arruina, si no que lo hace más bello."
             },
             {
                 "name": "El papel de la mujer en la Innovación desde diferentes aristas",
