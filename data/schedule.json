@@ -80,7 +80,7 @@
                 "location": "Casa Rosa",
                 "date": "2017-08-19",
                 "time": "14:00",
-                "type": "Mesa redonda - 2 hrs",
+                "type": "Mesa redonda - 1.5 hrs",
                 "description": ""
             },
             {
@@ -97,8 +97,8 @@
                 "speaker": "",
                 "location": "Casa Rosa",
                 "date": "2017-08-19",
-                "time": "16:00",
-                "type": "Conferencia",
+                "time": "15:30",
+                "type": "Conferencia 1.5 hrs",
                 "description": ""
             },
             {
@@ -319,7 +319,7 @@
                 "location": "Biblioteca - Sala 2",
                 "date": "2017-08-20",
                 "time": "12:00",
-                "type": "",
+                "type": "Conferencia",
                 "description": ""
             },
             {
@@ -346,7 +346,7 @@
                 "location": "Biblioteca - Sala 2",
                 "date": "2017-08-20",
                 "time": "13:00",
-                "type": "",
+                "type": "Conferencia",
                 "description": ""
             }
         ]
