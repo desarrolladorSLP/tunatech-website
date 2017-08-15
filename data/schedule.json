@@ -54,7 +54,8 @@
                 "date": "2017-08-19",
                 "time": "12:00",
                 "type": "Taller - 3 hrs.",
-                "description": "En este taller el alumno conocerá el marco teórico de la Web Semántica y su relación con los Datos Abiertos Enlazados para el éxito de la Web 3.0.  Se hará una introducción breve a los conceptos que la fundamentan y a las herramientas que la soportan, siguiendo las recomendaciones hechas por el consorcio de la World Wide Web (W3C). Durante todo el taller se buscará reforzar la información presentada con casos prácticos guiados por el instructor."
+                "description": "En este taller el alumno conocerá el marco teórico de la Web Semántica y su relación con los Datos Abiertos Enlazados para el éxito de la Web 3.0.  Se hará una introducción breve a los conceptos que la fundamentan y a las herramientas que la soportan, siguiendo las recomendaciones hechas por el consorcio de la World Wide Web (W3C). Durante todo el taller se buscará reforzar la información presentada con casos prácticos guiados por el instructor.",
+                "requirements": "Es necesario que traigas tu laptop para trabajar en este taller"
             },
             {
                 "name": "Diseño de software: Aprendizaje vívido",

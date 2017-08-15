@@ -669,6 +669,10 @@ ul li.event-item:nth-child(odd) {
   margin: 10px 0 0;
 }
 
+.event .requirements {
+  margin: 10px 0 0;
+  font-weight: bold;
+}
 
 .angular-lightbox.hidden {
   display: none;
