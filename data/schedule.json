@@ -91,7 +91,7 @@
                 "date": "2017-08-19",
                 "time": "14:00",
                 "type": "Conferencia",
-                "description": "Durante los ultimos añaos los ataques informaticos han evolucionado considerablemente y repercutido en la sociedad, con la magnitud de daños que pueden llegar a tener, Aunque parezca ciencia ficción y  sacados de peliculas de Hollywood son reales. En esta platica platicaremos acerca de los ataques más recientes, desde un ataque a un usuario final hasta el poder de los ataques a sistemas industriales que no solo repercuten en lo econmico, también en vidas humanas."
+                "description": "Durante los últimos años los ataques informaticos han evolucionado considerablemente y repercutido en la sociedad. Con la magnitud de daños que pueden llegar a ocasionar pareciera tema de ciencia ficción y sacado de alguna película de Hollywood, pero son reales. En esta platica hablaremos acerca de los ataques más recientes, desde un ataque a un usuario final, hasta el poder de los ataques a sistemas industriales que no solo repercuten en lo económico sino también en vidas humanas."
             },
             {
                 "name": "Movimiento Maker",
@@ -288,8 +288,8 @@
                 "description": ""
             },
             {
-                "name": "Ciber-seguridad",
-                "speaker": "",
+                "name": "Del CiberDelito al CiberTerrorismo: ¿Estamos preparados?",
+                "speaker": "Rafael Llamas",
                 "location": "Biblioteca - Sala 2",
                 "date": "2017-08-20",
                 "time": "11:00",
