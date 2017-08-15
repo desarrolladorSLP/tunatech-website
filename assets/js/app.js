@@ -17,12 +17,12 @@
         _init();
 
         function _init() {
-            $http.get('./data/speakers.json')
+            $http.get('./data/speakers.json?rand=' + Math.random() )
                 .then(function (res) {
                     vm.speakers = res.data;
                 });
 
-            $http.get('./data/schedule.json')
+            $http.get('./data/schedule.json?rand=' + Math.random())
                 .then(function (res) {
                     vm.schedule = res.data;
                 });

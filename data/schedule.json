@@ -251,6 +251,15 @@
                 "description": "Descubre el fascinante mundo de la programación a través de una plataforma online de uso libre, con la que podrás crear juegos usando bloques y diagramas de flujo"
             },
             {
+                "name": "Taller de herramientas digitales",
+                "speaker": "Alan Fragoso Medina",
+                "location": "Biblioteca - Sala 2",
+                "date": "2017-08-20",
+                "time": "09:00",
+                "type": "Taller",
+                "description": ""
+            },
+            {
                 "name": "Propiedad Intelectual",
                 "speaker": "MIBB. Norma Garcia Calderon",
                 "location": "Casa Rosa",
@@ -269,12 +278,12 @@
                 "description": ""
             },
             {
-                "name": "Loteria Realidad Autonoma",
+                "name": "Lotería Realidad Autónoma",
                 "speaker": "",
                 "location": "Biblioteca - Sala 1",
                 "date": "2017-08-20",
                 "time": "11:00",
-                "type": "",
+                "type": "Micro-Taller 25 min.",
                 "description": ""
             },
             {
@@ -301,6 +310,15 @@
                 "location": "Biblioteca - Sala 1",
                 "date": "2017-08-20",
                 "time": "12:00",
+                "type": "Micro-Taller 25 min.",
+                "description": ""
+            },
+            {
+                "name": "Demostración OCULUS",
+                "speaker": "Dra. Roxana De León Lomelí",
+                "location": "Biblioteca - Sala 2",
+                "date": "2017-08-20",
+                "time": "12:00",
                 "type": "",
                 "description": ""
             },
@@ -317,6 +335,15 @@
                 "name": "Loteria Realidad Autonoma",
                 "speaker": "",
                 "location": "Biblioteca - Sala 1",
+                "date": "2017-08-20",
+                "time": "13:00",
+                "type": "Micro-Taller 25 min.",
+                "description": ""
+            },
+            {
+                "name": "Proyector de Hologramas",
+                "speaker": "Museo Interactivo Laberinto de las Ciencias y las Artes",
+                "location": "Biblioteca - Sala 2",
                 "date": "2017-08-20",
                 "time": "13:00",
                 "type": "",

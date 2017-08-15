@@ -43,7 +43,7 @@
             "name": "Dr. Fco. Edgar Castillo Barrera",
             "role": "Profesor/Investigador UASLP",
             "picture": "/assets/images/speakers/edgar-castillo.png",
-            "bio": "Edgar de origen Mexicano, es profesor investigador y miembro del grupo de Inteligencia Artificial del Área de Computación e Informática de la Facultad de Ingeniería de la Universidad Autónoma de San Luis Potosí. Su línea de especialización es la representación del conocimiento basada en lógica,  Ontologías y Tecnologías de la Web Semántica. Sin embargo también ha incursionado en otras áreas como son Bases de Datos, Sistemas Expertos, Ingeniería de Software, Lenguaje Natural, Redes Neuronales Artificiales, Sistemas Tutoriales Inteligentes,  entre otras. Realizó estudios en la Universidad Autónoma Metropolitana obteniendo en 1992 el grado de de Licenciado en Computación, simultaneamente estudió la carrera de Matemático con especialidad en Ciencias de la Computación en la Facultad de Ciencias, de la UNAM, obteniendo el grado en 1993. En la misma universidad estudió la Maestría en Ciencias de la Computación obteniendo el grado en 1997. En 2012 obtiene el grado de Doctor en Tecnologías de la Información por parte de la Universidad de Guadalajara. En lo profesional trabajó en varias empresas de desarrollo de software, logrando en 1997 ser gerente en tecnologías de la información en la empresa Metadata. Ha sido organizador del taller en Web Semántica y Datos Abiertos Enlazados SW-LOD desde el 2013 al 2016 http://ciep.ing.uaslp.mx/sw-lod/committees.html. En lo académico ha recibido varios reconocimientos, como fue el título de profesor Insigne Cum Laude 1996. Ha sido profesor en varias universidades de México, entre las que destacan el Tecnológico de Monterrey, Universidad del Valle de México, Instituto de Investigaciones  en Matemáticas Aplicadas y en Sistemas (IIMAS-UNAM), Universidad La DeLaSalle Bajío, UNIVA, entre otras. Actualmente es perfil PRODEP (SEP), pertenece al Sistema Nacional de Investigadores (CONACYT), es miembro externo del grupo de investigación Español en Web Semántica de Oviedo (WESO), es miembro  profesional ACM, IEEE, IASTED, REDMIS, Asociación Internacional de Ontologías y sus Aplicaciones IAOA.",
+            "bio": "Profesor investigador en la UASLP. Su línea de especialización es la representación del conocimiento basada en lógica,  Ontologías y Tecnologías de la Web Semántica. Doctor en Tecnologías de la Información por parte de la Universidad de Guadalajara. Ha sido organizador del taller en Web Semántica y Datos Abiertos Enlazados SW-LOD desde el 2013 al 2016 ",
             "socialMedia": {
                 "twitter": "https://twitter.com/BatMex1",
                 "facebook": "https://www.facebook.com/edgar.castillo.77964",
@@ -74,7 +74,7 @@
             "name": "Rafael Gutierrez",
             "role": "Software developer",
             "picture": "/assets/images/speakers/rafa-gutierrez.jpg",
-            "bio":"Software Engineer en Nearsoft con experiencia desarrollando aplicaciones para bancos, compañías de seguros y últimamente en la industria de viajes. Aprendiz constante de nuevos lenguajes, paradigmas, frameworks y técnicas para desarrollar mejor software.",
+            "bio": "Software Engineer en Nearsoft con experiencia desarrollando aplicaciones para bancos, compañías de seguros y últimamente en la industria de viajes. Aprendiz constante de nuevos lenguajes, paradigmas, frameworks y técnicas para desarrollar mejor software.",
             "socialMedia": {
                 "linkedin": "https://www.linkedin.com/in/rafael-antonio-guti%C3%A9rrez-turullols-52921117/"
             }
@@ -147,6 +147,24 @@
             "role": "",
             "picture": "/assets/images/speakers/startuplab.png",
             "bio": "",
+            "socialMedia": {
+            }
+        }
+    ],
+    [
+        {
+            "name": "José de Jesús Reyes Quevedo",
+            "role": "Director de Proyectos de Gobierno Digital",
+            "picture": "/assets/images/speakers/jesus-reyes.jpg",
+            "bio": "Dev & Linux Admin & Team Leader. Entusiasta/Promotor del Open Source y metodologías ágiles. Certified ScrumMaster & Certified Scrum Developer & Certified Java Developer. Ingeniero en Tecnologías de la Información por la UPSLP. Actualmente colaborando en el Gobierno del Estado de San Luis Potosí",
+            "socialMedia": {
+            }
+        },
+        {
+            "name": "Alan Fragoso Medina",
+            "role": "Lic. en Mercadotecnia Internacional por la UPSLP",
+            "picture": "/assets/images/speakers/alan-medina.jpg",
+            "bio": "Licenciado en Mercadotecnia Internacional por la UPSLP, con experiencia profesional en áreas de Comercialización, Marketing y Social Media. Actualmente se dedica a la consultoría digital, así como ayudar a los negocios a conectar con sus clientes futuros mediante estrategias en medios sociales. De manera paralela da conferencias y talleres de MKT y social media. Además, es colaborador de la revista digital Roastbrief donde publica temas de su experiencia y opinión. \"Considero que no puedes enseñar cómo hacer algo si nunca lo hiciste\"",
             "socialMedia": {
             }
         }
