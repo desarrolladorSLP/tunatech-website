@@ -85,13 +85,13 @@
                 "description": ""
             },
             {
-                "name": "",
-                "speaker": "TPX",
+                "name": "Ciberseguridad: Mitos y leyendas del Hacking.",
+                "speaker": "Ernesto Castillejos - TPX",
                 "location": "Biblioteca - Sala 1",
                 "date": "2017-08-19",
                 "time": "14:00",
                 "type": "Conferencia",
-                "description": ""
+                "description": "Durante los ultimos añaos los ataques informaticos han evolucionado considerablemente y repercutido en la sociedad, con la magnitud de daños que pueden llegar a tener, Aunque parezca ciencia ficción y  sacados de peliculas de Hollywood son reales. En esta platica platicaremos acerca de los ataques más recientes, desde un ataque a un usuario final hasta el poder de los ataques a sistemas industriales que no solo repercuten en lo econmico, también en vidas humanas."
             },
             {
                 "name": "Movimiento Maker",
