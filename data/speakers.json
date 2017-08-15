@@ -172,9 +172,13 @@
             "name": "Ernesto Castillejos",
             "role": "Ingeniero en Sistemas Computacionales, Consultor de Seguridad Informática.",
             "picture": "/assets/images/speakers/ernesto-castillejos.jpg",
-            "bio": "Ingeniero en Sistemas Computacionales, Consultor de Seguridad Informática, Pentester, amante del software libre y la pizza, ha trabajado como Asesor en Servicios de seguridad para el sector Privado y Militar e impartido platicas en distintos congresos; cuenta con 15 años de experiencia en el medio.",
-            "socialMedia": {
-            }
+            "bio": "Ingeniero en Sistemas Computacionales, Consultor de Seguridad Informática, Pentester, amante del software libre y la pizza, ha trabajado como Asesor en Servicios de seguridad para el sector Privado y Militar e impartido platicas en distintos congresos; cuenta con 15 años de experiencia en el medio."
+        },
+        {
+            "name": "Rafael Llamas Contreras",
+            "role": "Profesor-Investigador UPSLP",
+            "picture": "/assets/images/speakers/rafael-llamas.jpg",
+            "bio": "Es Ingeniero en Sistemas Computacionales por el Instituto Tecnológico de San Luis Potosí. Es Maestro en Ciencias en Ciencias de la computación por el Centro de Investigación Científica y de Educación Superior de Ensenada. Del 2002 a la fecha se desempeña como profesor-investigador en la Universidad Politécnica de San Luis Potosí, dentro de la Academia de Tecnologías de la Información y Telemática. Sus áreas de investigación académica giran en torno a la seguridad informática y el cómputo ubicuo. Es instructor de CISCO Networking Academy, en donde ha impartido los cursos de Introducción a la CiberSeguridad y el curso de Fundamentos de Ciberseguridad a alumnos de la Universidad Politécnica principalmente. Actualmente es representante de la Universidad Politécnica ante el Consejo Consultivo Ciudadano de Procuración de Justicia, participando en la mesa de Investigación del delito, combate al secuestro y extorsión. Ha impartido conferencias relacionadas con temas afines a la seguridad de la información y Ciber Prevención a diversas dependencias gubernamentales, así como a instituciones educativas tanto públicas como privadas. Ha dado cursos introductorios de capacitación en el área del computo forense a la Unidad de Prevención de Delitos Cibernéticos de la Secretaría de Seguridad Pública del Estado de San Luis Potosí, así como a la Dirección de Seguridad Pública Municipal. Actualmente es Coordinador de la Unidad de Delitos Informáticos dentro de la Universidad Politécnica de San Luis Potosí, en la cual se trabaja en tres áreas específicas: CiberPrevención, Análisis Forense Digital, Análisis y Desarrollo Tecnológico en CiberSeguridad."
         }
     ]
 ]
