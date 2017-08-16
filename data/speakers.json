@@ -190,6 +190,23 @@
             "socialMedia": {
                 "twitter": "https://twitter.com/_manuelvalle"
             }
+        },
+        {
+            "name": "Arturo Vargas",
+            "role": "SOFTWARE DEVELOPER",
+            "picture": "/assets/images/speakers/arturo-vargas.jpg",
+            "bio": "Software Developer @nearsoft. Cafeinómano. Toda autobiografía es ficción y toda ficción tiene un poco de autobiografía. Life is what happens to you while you are busy running Jenkins Build",
+            "socialMedia": {
+                "twitter": "https://twitter.com/_Ruisu"
+            }
+        },
+        {
+            "name": "Q. ADELA MARTINEZ HERNANDEZ",
+            "role": "ESPECIALISTA EN MICROSCOPÍA",
+            "picture": "/assets/images/speakers/adela-martinez.png",
+            "bio": "",
+            "socialMedia": {
+            }
         }
     ]
 ]

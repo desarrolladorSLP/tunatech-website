@@ -94,6 +94,15 @@
                 "description": "Durante los últimos años los ataques informaticos han evolucionado considerablemente y repercutido en la sociedad. Con la magnitud de daños que pueden llegar a ocasionar pareciera tema de ciencia ficción y sacado de alguna película de Hollywood, pero son reales. En esta platica hablaremos acerca de los ataques más recientes, desde un ataque a un usuario final, hasta el poder de los ataques a sistemas industriales que no solo repercuten en lo económico sino también en vidas humanas."
             },
             {
+                "name": "Dev Wars: The Stress Menace",
+                "speaker": "Arturo Vargas",
+                "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "15:00",
+                "type": "Conferencia",
+                "description": "Tips y herramientas que ayudan a la concentración, evitar la procrastinación y aumentar la satisfacción con el trabajo realizado durante el día."
+            },
+            {
                 "name": "Movimiento Maker",
                 "speaker": "",
                 "location": "Casa Rosa",
@@ -106,6 +115,15 @@
                 "name": "Techstars: ¿Cómo funciona una aceleradora de startups de alto impacto?",
                 "speaker": "Luis Rodriguez",
                 "location": "Biblioteca - Sala 1",
+                "date": "2017-08-19",
+                "time": "16:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Java 9 Perspectivas de migracion desde Java 8",
+                "speaker": "César Ricardez",
+                "location": "Biblioteca - Sala 2",
                 "date": "2017-08-19",
                 "time": "16:00",
                 "type": "Conferencia",
@@ -249,7 +267,8 @@
                 "date": "2017-08-20",
                 "time": "09:00",
                 "type": "Taller 2 hrs.",
-                "description": "Descubre el fascinante mundo de la programación a través de una plataforma online de uso libre, con la que podrás crear juegos usando bloques y diagramas de flujo"
+                "description": "Descubre el fascinante mundo de la programación a través de una plataforma online de uso libre, con la que podrás crear juegos usando bloques y diagramas de flujo",
+                "requirements": "Es necesario que traigas tu laptop para trabajar en este taller"
             },
             {
                 "name": "Taller de herramientas digitales",
