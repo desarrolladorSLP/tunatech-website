@@ -674,6 +674,15 @@ ul li.event-item:nth-child(odd) {
   font-weight: bold;
 }
 
+.event .resources{
+  margin: 10px 0 0;
+}
+
+.event .resources a{
+  text-decoration: underline;
+  color: blue;
+}
+
 .angular-lightbox.hidden {
   display: none;
 }
