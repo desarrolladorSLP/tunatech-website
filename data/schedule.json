@@ -236,15 +236,6 @@
                 "time": "21:00",
                 "type": "Conferencia",
                 "description": ""
-            },
-            {
-                "name": "Makers",
-                "speaker": "",
-                "location": "Biblioteca - Sala 1",
-                "date": "2017-08-19",
-                "time": "22:00",
-                "type": "Conferencia",
-                "description": ""
             }
         ]
     },
@@ -283,6 +274,15 @@
                 "name": "Propiedad Intelectual",
                 "speaker": "MIBB. Norma Garcia Calderon",
                 "location": "Casa Rosa",
+                "date": "2017-08-20",
+                "time": "10:00",
+                "type": "Conferencia",
+                "description": ""
+            },
+            {
+                "name": "Cultivo de Especialidades en Agricultura Protegida",
+                "speaker": "Juan Martínez Ibarra",
+                "location": "Biblioteca - Sala 2",
                 "date": "2017-08-20",
                 "time": "10:00",
                 "type": "Conferencia",
