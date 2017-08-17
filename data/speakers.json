@@ -238,5 +238,17 @@
             "role": "Lead Game Developer",
             "picture": "/assets/images/speakers/sebastian-mercado.jpg"
         }
+    ],
+    [
+        {
+            "name": "Humberto Ramírez",
+            "role": "Facturama",
+            "picture": "/assets/images/speakers/humberto-ramirez.jpg"
+        },
+        {
+            "name": "Raúl Rivera",
+            "role": "Poco Ruido",
+            "picture": "/assets/images/speakers/raul-rivera.jpg"
+        }
     ]
 ]
