@@ -271,14 +271,21 @@
                 </div>
             </div>
 
+            Filtra por ubicación:
+            <button class="btn btn-primary" ng-click="search=undefined">Ver Todo</button>
+            <button class="btn badge-casa-rosa" ng-click="search='Casa Rosa'">Casa Rosa</button>
+            <button class="btn badge-biblioteca-1" ng-click="search='Biblioteca - Sala 1'">Biblioteca - Sala 1</button>
+            <button class="btn badge-biblioteca-2" ng-click="search='Biblioteca - Sala 2'">Biblioteca - Sala 2</button>
+
             <div class="row">
                 <div class="col-md-12">
                     <div class="panel" style="display: block;" ng-repeat="block in vm.schedule">
                         <h3>{{ block.title }}</h3>
-                        <div ng-repeat="event in block.events">
+                        <div ng-repeat="event in block.events | filter:search:strict">
                             <div class="row">
                                 <div class="col-md-12 event">
-                                    Hora: <strong>{{ event.time }}</strong> - Lugar: <strong>{{ event.location }}</strong> - Tipo: <strong>{{ event.type }}</strong>
+                                    Hora: <strong>{{ event.time }}</strong> - Lugar: <span class="badge" ng-class="{ 'badge-casa-rosa': event.location === 'Casa Rosa', 'badge-biblioteca-1': event.location === 'Biblioteca - Sala 1', 'badge-biblioteca-2': event.location === 'Biblioteca - Sala 2' }">{{ event.location }}</span><br>
+                                    <strong>{{ event.type }}: </strong>
                                     <span class="name">{{ event.name }}</span> 
                                     <span ng-if="event.speaker">Por: {{ event.speaker }}</span><br>
                                     <p class="description">{{ event.description }}</p>

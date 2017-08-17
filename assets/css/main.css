@@ -643,6 +643,10 @@ ul li {
   max-width: 80%;
 }
 
+#schedule {
+  padding-top: 0;
+}
+
 #schedule .section-title{
   margin-top:1.5em;
 }
@@ -723,4 +727,34 @@ ul li.event-item:nth-child(odd) {
 .angular-lightbox section > article > content > div {
   max-width: 700px;
   margin: 0 auto;
+}
+
+.badge-casa-rosa {
+  color: white;
+  background-color: #ff63d2;
+}
+
+.badge-casa-rosa:hover {
+  color: white;
+  background-color: #ff63d2;
+}
+
+.badge-biblioteca-1 {
+  color: white;
+  background-color: #67c9ea;
+}
+
+.badge-biblioteca-1:hover {
+  color: white;
+  background-color: #67c9ea;
+}
+
+.badge-biblioteca-2 {
+  color: white;
+  background-color: #5db255;
+}
+
+.badge-biblioteca-2:hover {
+  color: white;
+  background-color: #5db255;
 }
