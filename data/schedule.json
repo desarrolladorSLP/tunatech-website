@@ -82,7 +82,7 @@
                 "date": "2017-08-19",
                 "time": "14:00",
                 "type": "Mesa redonda - 1.5 hrs",
-                "description": ""
+                "description": "Grupo de 7 mujeres desempeñándose en diferentes áreas, que nos compartirán su experiencia a nivel profesional y personal en materia de innovación"
             },
             {
                 "name": "Ciberseguridad: Mitos y leyendas del Hacking.",
@@ -104,12 +104,12 @@
             },
             {
                 "name": "Movimiento Maker",
-                "speaker": "",
+                "speaker": "Gerardo Diaz, Roy Molina, Andrés Sabas",
                 "location": "Casa Rosa",
                 "date": "2017-08-19",
                 "time": "15:30",
                 "type": "Conferencia 1.5 hrs",
-                "description": ""
+                "description": "Democratizando el conocimiento, fomento de la creatividad y el ingenio"
             },
             {
                 "name": "Techstars: ¿Cómo funciona una aceleradora de startups de alto impacto?",
@@ -221,7 +221,7 @@
             },
             {
                 "name": "Fuck up Nights",
-                "speaker": "Kubal",
+                "speaker": "Imanol Daran, Javier Garcia",
                 "location": "Casa Rosa",
                 "date": "2017-08-19",
                 "time": "21:00",
