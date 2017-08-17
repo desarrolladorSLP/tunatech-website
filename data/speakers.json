@@ -216,5 +216,27 @@
             "socialMedia": {
             }
         }
+    ],
+    [
+        {
+            "name": "Gabriela Meléndez Candia",
+            "role": "Game Ilustrator Senior",
+            "picture": "/assets/images/speakers/gabriela-melendez.jpg"
+        },
+        {
+            "name": "José de Jesús Guevara",
+            "role": "Game Animator Senior",
+            "picture": "/assets/images/speakers/jose-guevara.jpg"
+        },
+        {
+            "name": "Ronnie Medellin",
+            "role": "Game Designer",
+            "picture": "/assets/images/speakers/ronnie-medellin.jpg"
+        },
+        {
+            "name": "Sebastian Mercado",
+            "role": "Lead Game Developer",
+            "picture": "/assets/images/speakers/sebastian-mercado.jpg"
+        }
     ]
 ]
