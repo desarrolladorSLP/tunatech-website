@@ -260,5 +260,56 @@
             "role": "Co-Founder y Kernel de Inventor's House",
             "picture": "/assets/images/speakers/gerardo-diaz.jpg"
         }
+    ],
+    [
+        {
+            "name": "Dayra Chiu",
+            "role": "Community Builder en Nearsoft",
+            "picture": "/assets/images/speakers/dayra-chiu.jpg"
+        },
+        {
+            "name": "Liliana Gamez",
+            "role": "Profesora-Investigadora UPSLP",
+            "picture": "/assets/images/speakers/liliana-gamez.jpg"
+        },
+        {
+            "name": "Mariela Bravo",
+            "role": "Profesora-Investigadora IPICYT",
+            "picture": "/assets/images/speakers/mariela-bravo.jpg"
+        },
+        {
+            "name": "Mirna Sandoval",
+            "role": "Profesora- Investigadora UASLP",
+            "picture": "/assets/images/speakers/mirna-sandoval.jpg"
+        }
+    ],
+    [
+        {
+            "name": "Norma Orozco",
+            "role": "Directora General CICC",
+            "picture": "/assets/images/speakers/norma-orozco.jpg"
+        },
+        {
+            "name": "Paola Galindo",
+            "role": "Directora Administrativa Intelirobot",
+            "picture": "/assets/images/speakers/paola-galindo.jpg"
+        },
+        {
+            "name": "Rosa María Martínez García",
+            "role": "Jefa de Difusión y Divulgación UASLP",
+            "picture": "/assets/images/speakers/rosa-martinez.png"
+        },
+        {
+            "name": "Roxana de León",
+            "role": "Difusión COPOCYT",
+            "picture": "/assets/images/speakers/roxana-de-leon.jpg"
+        }
+    ],
+    [
+        {
+            "name": "Rodrigo Molina",
+            "role": "Director Operativo Intelirobot",
+            "picture": "/assets/images/speakers/rodrigo-molina.jpg"
+        }
     ]
 ]
