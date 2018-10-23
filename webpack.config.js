@@ -35,7 +35,12 @@ var config = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: 'index.html',
+      template: 'src/tunatech-2017.html',
+      inject: 'head',
+      filename: 'tunatech-2017.html'
+    }),
+    new HtmlWebpackPlugin({
+      template: 'src/index.html',
       inject: 'head'
     }),
     new CopyWebpackPlugin([
