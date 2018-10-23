@@ -17,10 +17,26 @@
   },
   "homepage": "https://github.com/desarrolladorSLP/tunatech-website#readme",
   "dependencies": {
-    "bower": "^1.8.0"
+    "@fortawesome/fontawesome-free": "^5.4.1",
+    "angular": "^1.7.5",
+    "bootstrap3": "^3.3.5",
+    "bower": "^1.8.0",
+    "featherlight": "^1.7.13",
+    "ionicons": "^4.4.6",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "smooth-scroll": "^14.2.1"
   },
   "devDependencies": {
-    "webpack": "^3.5.4",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "copy-webpack-plugin": "^4.5.4",
+    "css-loader": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^3.12.0",
     "webpack-dev-server": "^2.7.1"
   }
 }

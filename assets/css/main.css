@@ -506,7 +506,7 @@ ul li {
 }
 .faq .faq-toggle.collapsed::before {
   font-family: "Ionicons";
-  content: "\f218";
+  content: "+";
   -webkit-transition: 0.5s linear ease-out;
           transition: 0.5s linear ease-out;
   position: absolute;
@@ -516,7 +516,7 @@ ul li {
   position: absolute;
   left: 15px;
   font-family: "Ionicons";
-  content: "\f209";
+  content: "-";
 }
 .faq .panel-group .panel + .panel {
   margin-top: 15px;
