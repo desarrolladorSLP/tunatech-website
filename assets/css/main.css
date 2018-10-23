@@ -283,10 +283,14 @@ ul li {
 }
 
 .navbar-solid {
-  background-color: #5000E3!important;
+  background-color: #04DBA8!important;
   padding: 0 !important;
   -webkit-transition: all 0.2s linear 0s;
           transition: all 0.2s linear 0s;
+}
+
+.navbar-solid-2018 {
+  background-color: #04DBA8;
 }
 
 .site-branding {
