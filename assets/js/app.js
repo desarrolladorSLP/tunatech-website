@@ -29,12 +29,17 @@ function HomeController($http) {
     _init();
 
     function _init() {
-        $http.get('./data/speakers.json?rand=' + Math.random() )
+        const baseDir = './data/2018';
+        if(event === 'tunatech-2017') {
+            const baseDir = './data/2017';
+        }
+
+        $http.get(baseDir + '/speakers.json?rand=' + Math.random() )
             .then(function (res) {
                 vm.speakers = res.data;
             });
 
-        $http.get('./data/schedule.json?rand=' + Math.random())
+        $http.get(baseDir + '/schedule.json?rand=' + Math.random())
             .then(function (res) {
                 vm.schedule = res.data;
             });
