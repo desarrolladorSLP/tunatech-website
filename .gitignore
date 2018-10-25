@@ -5,3 +5,4 @@ _site/
 .idea/
 dist/
 *.log
+.env-local

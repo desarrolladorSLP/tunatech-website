@@ -27,24 +27,29 @@ var config = {
     ]
   },
   entry: {
-    app: './assets/js/app.js',
+    tunatech2017: './assets/2017/js/app.js',
+    tunatech2018: './assets/2018/js/app.js',
   },
   output: {
     path: __dirname + '/dist',
-    filename: '[name].[hash].bundle.js'
+    filename: '[name].bundle.js'
   },
   plugins: [
     new HtmlWebpackPlugin({
       template: 'src/tunatech-2017.html',
       inject: 'head',
-      filename: 'tunatech-2017.html'
+      filename: 'tunatech-2017.html',
+      hash: true,
+      chunks: ['tunatech2017']
     }),
     new HtmlWebpackPlugin({
       template: 'src/index.html',
-      inject: 'head'
+      inject: 'head',
+      hash: true,
+      chunks: ['tunatech2018']
     }),
     new CopyWebpackPlugin([
-      { from: 'assets/images', to: 'assets/images' },
+      { from: 'assets/', to: 'assets/' },
       { from: 'data/', to: 'data/' },
     ]),
     new webpack.ProvidePlugin({    // <added>

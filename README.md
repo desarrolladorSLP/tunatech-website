@@ -3,7 +3,11 @@
 ## How to run?
 
 - npm i
-- bower install
-- ./node_modules/.bin/webpack-dev-server
+- npx webpack-dev-server
+- Open http://localhost:8080/
 
-Open http://localhost:8080/
+## How to deploy
+
+- Create a file .env-local based on .env-local-example
+- npm run deploy
+- Open tunatech.mx
