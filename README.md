@@ -3,7 +3,7 @@
 ## How to run?
 
 - npm i
-- npx webpack-dev-server
+- npx webpack-dev-server --content-base dist/
 - Open http://localhost:8080/
 
 ## How to deploy?
