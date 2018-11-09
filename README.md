@@ -9,5 +9,6 @@
 ## How to deploy?
 
 - Create a file .env-local based on .env-local-example
+- npx webpack -p
 - npm run deploy
 - Open tunatech.mx
