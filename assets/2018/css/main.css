@@ -700,32 +700,52 @@ ul li.event-item:nth-child(odd) {
   margin: 0 auto;
 }
 
-.badge-casa-rosa {
+.badge-principal {
   color: white;
   background-color: #ff63d2;
 }
 
-.badge-casa-rosa:hover {
+.badge-principal:hover {
   color: white;
   background-color: #ff63d2;
 }
 
-.badge-biblioteca-1 {
+.badge-talleres {
   color: white;
   background-color: #67c9ea;
 }
 
-.badge-biblioteca-1:hover {
+.badge-talleres:hover {
   color: white;
   background-color: #67c9ea;
 }
 
-.badge-biblioteca-2 {
+.badge-ciencia-y-futuro {
   color: white;
   background-color: #5db255;
 }
 
-.badge-biblioteca-2:hover {
+.badge-ciencia-y-futuro:hover {
   color: white;
   background-color: #5db255;
+}
+
+.badge-dev {
+  color: white;
+  background-color: #d8d800;
+}
+
+.badge-dev:hover {
+  color: white;
+  background-color: #d8d800;
+}
+
+.badge-startup {
+  color: white;
+  background-color: #15b0b2;
+}
+
+.badge-startup:hover {
+  color: white;
+  background-color: #15b0b2;
 }

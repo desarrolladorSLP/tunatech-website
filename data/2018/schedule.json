@@ -1,1 +1,566 @@
-[]
+[
+  {
+    "title": "Jueves 29 de Noviembre",
+    "events": [
+      {
+        "name": "Registro",
+        "speaker": "",
+        "location": "",
+        "date": "2018-11-29",
+        "time": "16:00",
+        "type": "Registro",
+        "description": ""
+      },
+      {
+        "name": "Apertura",
+        "speaker": "Patrocinadores y organizadores",
+        "location": "Casa Rosa",
+        "date": "2018-11-29",
+        "time": "17:00",
+        "type": "Presentación",
+        "description": ""
+      },
+      {
+        "name": "1000 maneras de morir si no sabes programar",
+        "speaker": "Dr. Hector Gonzalez",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "18:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Expo AZIOS",
+        "speaker": "",
+        "location": "Dev",
+        "date": "2018-11-29",
+        "time": "18:00",
+        "type": "",
+        "description": ""
+      },
+      {
+        "name": "Érase una vez en el futuro",
+        "speaker": "Midnight Strike",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "19:00",
+        "type": "",
+        "description": ""
+      },
+      {
+        "name": "Expo AZIOS",
+        "speaker": "",
+        "location": "Dev",
+        "date": "2018-11-29",
+        "time": "19:00",
+        "type": "",
+        "description": ""
+      },
+      {
+        "name": "Hecho en SLP",
+        "speaker": "",
+        "location": "Startup",
+        "date": "2018-11-29",
+        "time": "19:00",
+        "type": "",
+        "description": "2 proyectos tecnologicos potosinos"
+      },
+      {
+        "name": "FUCKUP",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "20:00",
+        "type": "Panel - 3 horas",
+        "description": ""
+      },
+      {
+        "name": "Hecho en SLP",
+        "speaker": "",
+        "location": "Startup",
+        "date": "2018-11-29",
+        "time": "20:00",
+        "type": "",
+        "description": "6 proyectos tecnologicos potosinos"
+      }
+    ]
+  },
+  {
+    "title": "Viernes 30 de Noviembre",
+    "events": [
+      {
+        "name": "IPICYT",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "10:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Labgeek",
+        "speaker": "",
+        "location": "Ciencia y futuro",
+        "date": "2018-11-30",
+        "time": "10:00",
+        "type": "Taller - 4 horas",
+        "description": ""
+      },
+      {
+        "name": "EX ROBOTS",
+        "speaker": "",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "10:00",
+        "type": "2 horas",
+        "description": ""
+      },
+      {
+        "name": "La importancia del emprendimiento social",
+        "speaker": "Jesús Leyva",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "10:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Plática",
+        "speaker": "",
+        "location": "PRINCIPAL",
+        "date": "2018-11-30",
+        "time": "11:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Sifide: academia de emprendimiento",
+        "speaker": "",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "11:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Conferencia IPICYT",
+        "speaker": "",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "12:00",
+        "type": "Conferencia - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "Github: IA",
+        "speaker": "",
+        "location": "Talleres",
+        "date": "2018-11-30",
+        "time": "12:00",
+        "type": "Taller - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "Analizando sentimientos usando Machine learning",
+        "speaker": "Ricardo Rodríguez",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "12:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "10 estrategias que funcionan cuando emprendes",
+        "speaker": "Imparable Coworking",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "12:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "CNS",
+        "speaker": "CNS",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "13:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Emprendimiento disciplinado",
+        "speaker": "Alejandro Medina",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "13:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "COMIDA",
+        "speaker": "",
+        "location": "",
+        "date": "2018-11-30",
+        "time": "14:00",
+        "type": "Break - 1 hora",
+        "description": ""
+      },
+      {
+        "name": "Historias de emprendedores imparables",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "15:00",
+        "type": "Panel - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "Colas de procesamiento en Java con spring boot + rabbitMQ",
+        "speaker": "Iván Uresti",
+        "location": "Talleres",
+        "date": "2018-11-30",
+        "time": "15:00",
+        "type": "Taller - 3 horas",
+        "description": "En este taller haremos uso de algunas herramientas para crear aplicaciones escalables que son muy utilizados actualmente en la industria. Haciendo uso de spring boot con JDK8 nos conectaremos a un RabbitMQ instalado localmente con Docker. Para agilizar el taller es recomendable que los asistentes tengan instalado JDK8, Maven, git, docker y que cuenten con una cuenta en Github que utilizaremos para guardar el trabajo desarrollado en el taller."
+      },
+      {
+        "name": "Bitcoin MTY",
+        "speaker": "",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "15:00",
+        "type": "",
+        "description": ""
+      },
+      {
+        "name": "Diseño organizacional ONG/Social",
+        "speaker": "Traza.Mx",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "15:00",
+        "type": "",
+        "description": ""
+      },
+      {
+        "name": "Salvemos el mundo",
+        "speaker": "Dr. Armando Encinas",
+        "location": "Ciencia y futuro",
+        "date": "2018-11-30",
+        "time": "16:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "",
+        "speaker": "Cristian Colorado",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "16:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Pro-Contable: emprendimiento social y ONG",
+        "speaker": "",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "16:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Bitcoin MTY",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "17:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "",
+        "speaker": "Lina",
+        "location": "Ciencia y futuro",
+        "date": "2018-11-30",
+        "time": "17:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Modelado proteínas",
+        "speaker": "",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "17:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "",
+        "speaker": "Diana Rodriguez",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "17:00",
+        "type": "Conferencia - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "Panel: Mujeres en la ciencia",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "18:00",
+        "type": "Panel",
+        "description": ""
+      },
+      {
+        "name": "Robogeek: adolescentes",
+        "speaker": "",
+        "location": "Talleres",
+        "date": "2018-11-30",
+        "time": "18:00",
+        "type": "Taller",
+        "description": ""
+      },
+      {
+        "name": "Robótica Golem",
+        "speaker": "Rodrigo Mólina",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "18:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Expert nights: blindaje marca",
+        "speaker": "Paco y Roman",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "19:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Robogeek: adultos",
+        "speaker": "",
+        "location": "Talleres",
+        "date": "2018-11-30",
+        "time": "19:00",
+        "type": "Taller - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "Noche de Libres Pensadores",
+        "speaker": "Dr. Braulio",
+        "location": "Ciencia y futuro",
+        "date": "2018-11-30",
+        "time": "19:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "",
+        "speaker": "TPX",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "19:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Lenguaje corporal en los negocios",
+        "speaker": "Fran Cordero",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "19:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Observación de estrellas",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "20:00",
+        "type": "Actividad - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "",
+        "speaker": "Llamas",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "21:00",
+        "type": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "Sábado 1 de Diciembre",
+    "events": [
+      {
+        "name": "Robogeek:niños",
+        "speaker": "Robogeek",
+        "location": "Talleres",
+        "date": "2018-12-01",
+        "time": "10:00",
+        "type": "Taller",
+        "description": ""
+      },
+      {
+        "name": "ABC Golem",
+        "speaker": "",
+        "location": "Dev",
+        "date": "2018-12-01",
+        "time": "10:00",
+        "type": "Taller - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "Protribu",
+        "speaker": "",
+        "location": "Startup",
+        "date": "2018-12-01",
+        "time": "10:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Megatendencias INEGI",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-12-01",
+        "time": "11:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Campamento negocios",
+        "speaker": "",
+        "location": "Talleres",
+        "date": "2018-12-01",
+        "time": "11:00",
+        "type": "Taller - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "Tech en educación",
+        "speaker": "",
+        "location": "Ciencia y futuro",
+        "date": "2018-12-01",
+        "time": "11:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "",
+        "speaker": "Erwin Ayvar",
+        "location": "Startup",
+        "date": "2018-12-01",
+        "time": "11:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "",
+        "speaker": "Esaú B",
+        "location": "Ciencia y futuro",
+        "date": "2018-12-01",
+        "time": "12:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Aaron",
+        "speaker": "Ros",
+        "location": "Dev",
+        "date": "2018-12-01",
+        "time": "12:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Conferencia Imagen",
+        "speaker": "Julieta Partida",
+        "location": "Startup",
+        "date": "2018-12-01",
+        "time": "12:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Bluetypo, diseño tipografico y programación",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-12-01",
+        "time": "13:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Desarrollo videojuegos desde cero",
+        "speaker": "",
+        "location": "Talleres",
+        "date": "2018-12-01",
+        "time": "13:00",
+        "type": "Taller - 2 horas",
+        "description": ""
+      },
+      {
+        "name": "Ciudades del futuro",
+        "speaker": "Mirelle Betanzo",
+        "location": "Ciencia y futuro",
+        "date": "2018-12-01",
+        "time": "13:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Don Tacho",
+        "speaker": "",
+        "location": "Dev",
+        "date": "2018-12-01",
+        "time": "13:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "¿Listo para tu primer fracaso?",
+        "speaker": "Alan Fragoso",
+        "location": "Startup",
+        "date": "2018-12-01",
+        "time": "13:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Eddison Effect",
+        "speaker": "Pedro Gabay",
+        "location": "Principal",
+        "date": "2018-12-01",
+        "time": "14:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "APP Inventor",
+        "speaker": "",
+        "location": "Dev",
+        "date": "2018-12-01",
+        "time": "14:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Mega tendencias tecnológicas en el diseño",
+        "speaker": "Difaro",
+        "location": "Startup",
+        "date": "2018-12-01",
+        "time": "14:00",
+        "type": "Conferencia",
+        "description": ""
+      }
+    ]
+  }
+]
