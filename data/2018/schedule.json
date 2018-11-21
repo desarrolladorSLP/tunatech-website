@@ -39,8 +39,17 @@
         "description": ""
       },
       {
+        "name": "Hecho en SLP: A tu puerta, HappyOn, My VIrtual Library",
+        "speaker": "A Tu Puerta: Erik Ramiro Aguilar Cisneros",
+        "location": "Dev",
+        "date": "2018-11-29",
+        "time": "18:00",
+        "type": "",
+        "description": "Presentación de la Startup A Tu Puerta, app de servicios de entrega de abastos para usuarios y empresas."
+      },
+      {
         "name": "Érase una vez en el futuro",
-        "speaker": "Midnight Strike",
+        "speaker": "LMC. Daniela Morán/ LMC. Gabriela Vega",
         "location": "Principal",
         "date": "2018-11-29",
         "time": "19:00",
@@ -57,31 +66,49 @@
         "description": ""
       },
       {
-        "name": "Hecho en SLP",
-        "speaker": "",
+        "name": "Hecho en SLP: Emprendedores de SLP y el Mundo AC / Bracks/Sellers Co.",
+        "speaker": "Oscar Adrián Niño Garcia / Norma Rivera Balderrama y Nataly Correa con Maximiliano Contreras.",
         "location": "Startup",
         "date": "2018-11-29",
         "time": "19:00",
         "type": "",
-        "description": "2 proyectos tecnologicos potosinos"
-      },
-      {
-        "name": "FUCKUP",
-        "speaker": "",
-        "location": "Principal",
-        "date": "2018-11-29",
-        "time": "20:00",
-        "type": "Panel - 3 horas",
         "description": ""
       },
       {
-        "name": "Hecho en SLP",
-        "speaker": "",
+        "name": "Fuckup Nights",
+        "speaker": "Alfredo Cuevas",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "20:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Hecho en SLP: Medias de Seda Boutique y MXESUNO",
+        "speaker": "Georgina Rivera Garrido / José Espinosa y Juan Mauricio",
         "location": "Startup",
         "date": "2018-11-29",
         "time": "20:00",
         "type": "",
-        "description": "6 proyectos tecnologicos potosinos"
+        "description": ""
+      },
+      {
+        "name": "Fuckup Nights",
+        "speaker": "Selene García",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "21:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Fuckup Nights",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "22:00",
+        "type": "Plática",
+        "description": ""
       }
     ]
   },
@@ -89,8 +116,8 @@
     "title": "Viernes 30 de Noviembre",
     "events": [
       {
-        "name": "IPICYT",
-        "speaker": "",
+        "name": "Prospectiva Tecnológica",
+        "speaker": "MC. Daniel Barrón Pastor",
         "location": "Principal",
         "date": "2018-11-30",
         "time": "10:00",
@@ -98,13 +125,13 @@
         "description": ""
       },
       {
-        "name": "Labgeek",
-        "speaker": "",
+        "name": "Microamigos",
+        "speaker": "LabGeek",
         "location": "Ciencia y futuro",
         "date": "2018-11-30",
         "time": "10:00",
-        "type": "Taller - 4 horas",
-        "description": ""
+        "type": "Taller - 2 horas",
+        "description": "Taller para niños que tiene como objetivo acercar a los niños al mundo de los microoganismos y sus aplicaciones en la vida "
       },
       {
         "name": "EX ROBOTS",
@@ -125,13 +152,13 @@
         "description": ""
       },
       {
-        "name": "Plática",
-        "speaker": "",
+        "name": "Marvel, Lee y la PI",
+        "speaker": "MIBB. Norma Isabel García Calderón",
         "location": "PRINCIPAL",
         "date": "2018-11-30",
         "time": "11:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "Breve paseo por las figuras de propiedad intelectual y su impacto en nuestra vida cotidiana. Hablaremos de marcas, diseños, modelos, patentes y derechos de autor, incluyendo episodios épicos de los duelos entre superhéroes."
       },
       {
         "name": "Sifide: academia de emprendimiento",
@@ -143,17 +170,8 @@
         "description": ""
       },
       {
-        "name": "Conferencia IPICYT",
-        "speaker": "",
-        "location": "Startup",
-        "date": "2018-11-30",
-        "time": "12:00",
-        "type": "Conferencia - 2 horas",
-        "description": ""
-      },
-      {
-        "name": "Github: IA",
-        "speaker": "",
+        "name": "UXMAL",
+        "speaker": "Juan Francisco Gerardo Hernández",
         "location": "Talleres",
         "date": "2018-11-30",
         "time": "12:00",
@@ -161,18 +179,27 @@
         "description": ""
       },
       {
-        "name": "Analizando sentimientos usando Machine learning",
-        "speaker": "Ricardo Rodríguez",
-        "location": "Dev",
+        "name": "10 estrategias para emprender que funcionan",
+        "speaker": "Hugo",
+        "location": "Startup",
         "date": "2018-11-30",
         "time": "12:00",
-        "type": "Plática",
+        "type": "Conferencia",
         "description": ""
       },
       {
-        "name": "10 estrategias que funcionan cuando emprendes",
-        "speaker": "Imparable Coworking",
-        "location": "Startup",
+        "name": "Microamigos",
+        "speaker": "LabGeek",
+        "location": "Ciencia y futuro",
+        "date": "2018-11-30",
+        "time": "12:00",
+        "type": "Taller - 2 horas",
+        "description": "Taller para niños que tiene como objetivo acercar a los niños al mundo de los microoganismos y sus aplicaciones en la vida "
+      },
+      {
+        "name": "Analizando sentimientos usando Machine learning",
+        "speaker": "Ricardo Rodríguez",
+        "location": "Dev",
         "date": "2018-11-30",
         "time": "12:00",
         "type": "Plática",
@@ -207,12 +234,12 @@
       },
       {
         "name": "Historias de emprendedores imparables",
-        "speaker": "",
+        "speaker": "LDI Driana Carolina Jaime Díaz",
         "location": "Principal",
         "date": "2018-11-30",
         "time": "15:00",
-        "type": "Panel - 2 horas",
-        "description": ""
+        "type": "Plática",
+        "description": "Conoce historias sobre emprendedores locales y como han logrado establecer su empresa."
       },
       {
         "name": "Colas de procesamiento en Java con spring boot + rabbitMQ",
@@ -242,8 +269,17 @@
         "description": ""
       },
       {
+        "name": "Historias de emprendedores imparables",
+        "speaker": "Daniel Gónzalez",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "16:00",
+        "type": "Plática",
+        "description": "Conoce historias sobre emprendedores locales y como han logrado establecer su empresa."
+      },
+      {
         "name": "Salvemos el mundo",
-        "speaker": "Dr. Armando Encinas",
+        "speaker": "Dr. Armando Encinas Oropesa",
         "location": "Ciencia y futuro",
         "date": "2018-11-30",
         "time": "16:00",
@@ -251,7 +287,7 @@
         "description": ""
       },
       {
-        "name": "",
+        "name": "Hacking Cívico",
         "speaker": "Cristian Colorado",
         "location": "Dev",
         "date": "2018-11-30",
@@ -278,8 +314,8 @@
         "description": ""
       },
       {
-        "name": "",
-        "speaker": "Lina",
+        "name": "Bioinformatica",
+        "speaker": "Dra. Lina Raquel Riego Ruiz",
         "location": "Ciencia y futuro",
         "date": "2018-11-30",
         "time": "17:00",
@@ -296,12 +332,12 @@
         "description": ""
       },
       {
-        "name": "",
+        "name": "Design thinking",
         "speaker": "Diana Rodriguez",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "17:00",
-        "type": "Conferencia - 2 horas",
+        "type": "Taller - 2 horas",
         "description": ""
       },
       {
@@ -314,17 +350,17 @@
         "description": ""
       },
       {
-        "name": "Robogeek: adolescentes",
-        "speaker": "",
+        "name": "Cookies for Robots: aprendizaje por refuerzo",
+        "speaker": "RoboGeek",
         "location": "Talleres",
         "date": "2018-11-30",
         "time": "18:00",
         "type": "Taller",
-        "description": ""
+        "description": "Requisitos: Computadora con Processing instalado"
       },
       {
         "name": "Robótica Golem",
-        "speaker": "Rodrigo Mólina",
+        "speaker": "Roy Molina",
         "location": "Dev",
         "date": "2018-11-30",
         "time": "18:00",
@@ -332,8 +368,8 @@
         "description": ""
       },
       {
-        "name": "Expert nights: blindaje marca",
-        "speaker": "Paco y Roman",
+        "name": "Expert Nights: La importancia de registrar y proteger tu marca",
+        "speaker": "LAE Francisco Escalante/ LED Roman Cuevas",
         "location": "Principal",
         "date": "2018-11-30",
         "time": "19:00",
@@ -341,17 +377,17 @@
         "description": ""
       },
       {
-        "name": "Robogeek: adultos",
-        "speaker": "",
+        "name": "Una nueva forma de programar a tus robots",
+        "speaker": "RoboGeek",
         "location": "Talleres",
         "date": "2018-11-30",
         "time": "19:00",
         "type": "Taller - 2 horas",
-        "description": ""
+        "description": "Requisitos: Computadora con ubuntu 14.04"
       },
       {
-        "name": "Noche de Libres Pensadores",
-        "speaker": "Dr. Braulio",
+        "name": "NLP - 'Historias breves y extraordinarias sobre la Luz'",
+        "speaker": "Dr. Braulio Gutiérrez Medina",
         "location": "Ciencia y futuro",
         "date": "2018-11-30",
         "time": "19:00",
@@ -378,7 +414,7 @@
       },
       {
         "name": "Observación de estrellas",
-        "speaker": "",
+        "speaker": "Hugo Jasso",
         "location": "Principal",
         "date": "2018-11-30",
         "time": "20:00",
@@ -386,7 +422,7 @@
         "description": ""
       },
       {
-        "name": "",
+        "name": "Ciberseguridad",
         "speaker": "Llamas",
         "location": "Dev",
         "date": "2018-11-30",
@@ -400,17 +436,17 @@
     "title": "Sábado 1 de Diciembre",
     "events": [
       {
-        "name": "Robogeek:niños",
+        "name": "Programa tu primer robot",
         "speaker": "Robogeek",
         "location": "Talleres",
         "date": "2018-12-01",
         "time": "10:00",
         "type": "Taller",
-        "description": ""
+        "description": "Dirigido a niños de 9 - 12. Requisitos: Computadora"
       },
       {
         "name": "ABC Golem",
-        "speaker": "",
+        "speaker": "Robótica Golem",
         "location": "Dev",
         "date": "2018-12-01",
         "time": "10:00",
@@ -418,13 +454,13 @@
         "description": ""
       },
       {
-        "name": "Protribu",
-        "speaker": "",
+        "name": "Activa tu Zona de ¡Flow!",
+        "speaker": "Dulce Juárez Cerna",
         "location": "Startup",
         "date": "2018-12-01",
         "time": "10:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "¿Has experimentado eso de “se me paso el tiempo volando”? Si la respuesta es afirmativa, puede que hayas estado más cerca de saborear la zona de Flow de lo que imaginas. Hacer lo que te gusta, lo que amas, en lo que eres bueno que hasta te pagarían y que aparte puedas compartir con el mundo es lo que todos buscamos en esta vida. Sin embargo para lograrlo, es necesario trabajar desde tu interior reconectarte y reconocerte. ¿Y tú ya estás en tu zona de Flow? El mundo necesita gente que ame lo que hace"
       },
       {
         "name": "Megatendencias INEGI",
@@ -437,12 +473,12 @@
       },
       {
         "name": "Campamento negocios",
-        "speaker": "",
+        "speaker": "Erick Garrigós",
         "location": "Talleres",
         "date": "2018-12-01",
         "time": "11:00",
         "type": "Taller - 2 horas",
-        "description": ""
+        "description": "Este taller tiene la finalidad de obtener y compartir ideas de negocio, darles forma y convertirlo en uno, se analizarán temas de diseño de negocios, prueba del producto, marketing para empresas, financiamiento, temas fiscales y legales."
       },
       {
         "name": "Tech en educación",
@@ -454,7 +490,7 @@
         "description": ""
       },
       {
-        "name": "",
+        "name": "Marketing digital",
         "speaker": "Erwin Ayvar",
         "location": "Startup",
         "date": "2018-12-01",
@@ -463,8 +499,17 @@
         "description": ""
       },
       {
-        "name": "",
-        "speaker": "Esaú B",
+        "name": "Cómo crecer tu startup de 0 a 500k USD",
+        "speaker": "Eduardo Aranda",
+        "location": "Principal",
+        "date": "2018-12-01",
+        "time": "12:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "El estudio del proteoma-Oportunidades de desarrollo de herramientas para el análisis de datos.",
+        "speaker": "Esaú Bojórquez Velázquez",
         "location": "Ciencia y futuro",
         "date": "2018-12-01",
         "time": "12:00",
@@ -472,8 +517,8 @@
         "description": ""
       },
       {
-        "name": "Aaron",
-        "speaker": "Ros",
+        "name": "ROS",
+        "speaker": "Aaron",
         "location": "Dev",
         "date": "2018-12-01",
         "time": "12:00",
@@ -481,7 +526,7 @@
         "description": ""
       },
       {
-        "name": "Conferencia Imagen",
+        "name": "Como te ves, te tratan",
         "speaker": "Julieta Partida",
         "location": "Startup",
         "date": "2018-12-01",
@@ -491,7 +536,7 @@
       },
       {
         "name": "Bluetypo, diseño tipografico y programación",
-        "speaker": "",
+        "speaker": "Manolo Guerrero",
         "location": "Principal",
         "date": "2018-12-01",
         "time": "13:00",
@@ -500,11 +545,11 @@
       },
       {
         "name": "Desarrollo videojuegos desde cero",
-        "speaker": "",
+        "speaker": "Gamedev",
         "location": "Talleres",
         "date": "2018-12-01",
         "time": "13:00",
-        "type": "Taller - 2 horas",
+        "type": "Taller - 3 horas",
         "description": ""
       },
       {
@@ -517,8 +562,8 @@
         "description": ""
       },
       {
-        "name": "Don Tacho",
-        "speaker": "",
+        "name": "De cero a videojuego",
+        "speaker": "Rogelio Alvarado",
         "location": "Dev",
         "date": "2018-12-01",
         "time": "13:00",
@@ -545,11 +590,11 @@
       },
       {
         "name": "APP Inventor",
-        "speaker": "",
+        "speaker": "Juan Francisco Gerardo Hernández",
         "location": "Dev",
         "date": "2018-12-01",
         "time": "14:00",
-        "type": "Conferencia",
+        "type": "Taller 2 horas",
         "description": ""
       },
       {
@@ -558,6 +603,15 @@
         "location": "Startup",
         "date": "2018-12-01",
         "time": "14:00",
+        "type": "Conferencia",
+        "description": ""
+      },
+      {
+        "name": "Miltron",
+        "speaker": "",
+        "location": "Startup",
+        "date": "2018-12-01",
+        "time": "15:00",
         "type": "Conferencia",
         "description": ""
       }
