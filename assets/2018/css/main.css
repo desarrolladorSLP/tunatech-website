@@ -752,6 +752,7 @@ ul li.event-item:nth-child(odd) {
 
 .speaker figure{
     height: 200px;
+    display: flex;
 }
 
 .speaker figure img{
