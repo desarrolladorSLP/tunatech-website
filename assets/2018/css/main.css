@@ -749,3 +749,13 @@ ul li.event-item:nth-child(odd) {
   color: white;
   background-color: #15b0b2;
 }
+
+.speaker figure{
+    height: 200px;
+}
+
+.speaker figure img{
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: scale-down;
+}

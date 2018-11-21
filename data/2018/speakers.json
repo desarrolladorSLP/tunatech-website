@@ -1,1 +1,34 @@
-[]
+[
+  [
+    {
+      "name": "Armando Encinas",
+      "role": "",
+      "picture": "/assets/2018/images/speakers/armando-encinas.jpeg",
+      "bio": ""
+    },
+    {
+      "name": "Braulio Gutierrez",
+      "role": "",
+      "picture": "/assets/2018/images/speakers/braulio-gutierrez.png",
+      "bio": "",
+      "socialMedia": {
+      }
+    },
+    {
+      "name": "Daniel Barrón",
+      "role": "",
+      "picture": "/assets/2018/images/speakers/daniel-barron.JPG",
+      "bio": "",
+      "socialMedia": {
+      }
+    },
+    {
+      "name": "Norma García",
+      "role": "",
+      "picture": "/assets/2018/images/speakers/norma-garcía.JPG",
+      "bio": "",
+      "socialMedia": {
+      }
+    }
+  ]
+]
