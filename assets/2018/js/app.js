@@ -40,6 +40,9 @@ function HomeController($http) {
                         row = [];
                     }
                 });
+                if(row.length > 0){
+                    vm.speakers.push(row);
+                }
             });
 
         $http.get(baseDir + '/schedule.json?rand=' + Math.random())
