@@ -1,5 +1,6 @@
 var webpack = require('webpack');
-const HtmlWebpackPlugin = require('html-webpack-plugin')
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const DynamicCdnWebpackPlugin = require('dynamic-cdn-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 var config = {
@@ -52,11 +53,12 @@ var config = {
       { from: 'assets/', to: 'assets/' },
       { from: 'data/', to: 'data/' },
     ]),
-    new webpack.ProvidePlugin({    // <added>
+    new webpack.ProvidePlugin({
       jQuery: 'jquery',
       $: 'jquery',
-      jquery: 'jquery'   // </added>
-    })
+      jquery: 'jquery'
+    }),
+    new DynamicCdnWebpackPlugin()
   ]
 };
 

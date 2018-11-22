@@ -6,11 +6,6 @@ require('featherlight');
 const SmoothScroll = require('smooth-scroll');
 const angular = require('angular');
 
-require('bootstrap3/dist/css/bootstrap.min.css');
-require('@fortawesome/fontawesome-free/css/all.min.css');
-require('ionicons/dist/css/ionicons.css');
-require('./../css/main.css');
-
 require('./main');
 
 angular.module('TunaTechApp', [])
