@@ -726,12 +726,12 @@ ul li.event-item:nth-child(odd) {
   background-color: #67c9ea;
 }
 
-.badge-ciencia-y-futuro {
+.badge-ciencia-y-tecnologia {
   color: white;
   background-color: #5db255;
 }
 
-.badge-ciencia-y-futuro:hover {
+.badge-ciencia-y-tecnologia:hover {
   color: white;
   background-color: #5db255;
 }

@@ -127,7 +127,7 @@
       {
         "name": "Microamigos",
         "speaker": "LabGeek",
-        "location": "Ciencia y futuro",
+        "location": "Ciencia y tecnología",
         "date": "2018-11-30",
         "time": "10:00",
         "type": "Taller - 2 horas",
@@ -190,7 +190,7 @@
       {
         "name": "Microamigos",
         "speaker": "LabGeek",
-        "location": "Ciencia y futuro",
+        "location": "Ciencia y tecnología",
         "date": "2018-11-30",
         "time": "12:00",
         "type": "Taller - 2 horas",
@@ -280,7 +280,7 @@
       {
         "name": "Salvemos el mundo",
         "speaker": "Dr. Armando Encinas Oropesa",
-        "location": "Ciencia y futuro",
+        "location": "Ciencia y tecnología",
         "date": "2018-11-30",
         "time": "16:00",
         "type": "Conferencia",
@@ -316,7 +316,7 @@
       {
         "name": "Bioinformatica",
         "speaker": "Dra. Lina Raquel Riego Ruiz",
-        "location": "Ciencia y futuro",
+        "location": "Ciencia y tecnología",
         "date": "2018-11-30",
         "time": "17:00",
         "type": "Conferencia",
@@ -388,7 +388,7 @@
       {
         "name": "NLP - 'Historias breves y extraordinarias sobre la Luz'",
         "speaker": "Dr. Braulio Gutiérrez Medina",
-        "location": "Ciencia y futuro",
+        "location": "Ciencia y tecnología",
         "date": "2018-11-30",
         "time": "19:00",
         "type": "Conferencia",
@@ -483,7 +483,7 @@
       {
         "name": "Tech en educación",
         "speaker": "",
-        "location": "Ciencia y futuro",
+        "location": "Ciencia y tecnología",
         "date": "2018-12-01",
         "time": "11:00",
         "type": "Plática",
@@ -510,7 +510,7 @@
       {
         "name": "El estudio del proteoma-Oportunidades de desarrollo de herramientas para el análisis de datos.",
         "speaker": "Esaú Bojórquez Velázquez",
-        "location": "Ciencia y futuro",
+        "location": "Ciencia y tecnología",
         "date": "2018-12-01",
         "time": "12:00",
         "type": "Plática",
@@ -555,7 +555,7 @@
       {
         "name": "Ciudades del futuro",
         "speaker": "Mirelle Betanzo",
-        "location": "Ciencia y futuro",
+        "location": "Ciencia y tecnología",
         "date": "2018-12-01",
         "time": "13:00",
         "type": "Conferencia",
