@@ -599,6 +599,12 @@ ul li {
   height: 290px;
 }
 
+.logo-container-partner {
+  height: 150px;
+  overflow: hidden;
+  margin: 15px 0;
+}
+
 .logo {
   max-width: 100%;
   max-height: 100%;
