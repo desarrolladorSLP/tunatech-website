@@ -31,7 +31,15 @@ function HomeController($http) {
 
         $http.get(baseDir + '/speakers.json?rand=' + Math.random() )
             .then(function (res) {
-                vm.speakers = res.data;
+                vm.speakers = [];
+                let row = [];
+                res.data.forEach(function(speaker) {
+                    row.push(speaker);
+                    if(row.length === 4){
+                        vm.speakers.push(row);
+                        row = [];
+                    }
+                });
             });
 
         $http.get(baseDir + '/schedule.json?rand=' + Math.random())
