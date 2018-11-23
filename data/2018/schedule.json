@@ -198,12 +198,12 @@
       },
       {
         "name": "Analizando sentimientos usando Machine learning",
-        "speaker": "Ricardo Rodríguez",
+        "speaker": "Ricardo Rodríguez Ramírez",
         "location": "Dev",
         "date": "2018-11-30",
         "time": "12:00",
         "type": "Plática",
-        "description": ""
+        "description": "Daremos un repaso a los posibles usos del análisis de sentimientos y emociones utilizando Machine Learning. Se mostraran pequeños ejemplos de como funcionan estas tecnologías y platicaremos de casos de éxito reales."
       },
       {
         "name": "CNS",
@@ -215,13 +215,13 @@
         "description": ""
       },
       {
-        "name": "Emprendimiento disciplinado",
-        "speaker": "Alejandro Medina",
+        "name": "Emprendimiento Disciplinado: Como sobrevivir a un Bootcamp del MIT",
+        "speaker": "Alejandro Medina Castillo",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "13:00",
         "type": "Plática",
-        "description": ""
+        "description": "El emprendimiento disciplinado es una metodología creada por Bill Aulet (Director del Martin Trust Center for MIT Entrepreneurship) la cual es utilizada como base para el  “Innovation & Entrepreneurship Bootcamp” del Instituto Tecnológico de Massachussetts (MIT). En esta ponencia conocerás la experiencia de participar y como aplicar a este programa, El \"Bootcamp\" es un programa educativo diseñado por el MIT donde durante 7 días se busca llevar al limite trabajando un aproximado de 21 hrs diarias de trabajo (conferencias, clases, dinámicas de grupo y elaboración de entregables) en la identificación de problemáticas y la planeación de una solución que se viable y sustentable el programa tiene como objetivo la formación de innovadores, emprendedores y generadores de cambio con un gran compromiso por la comunidad en orden de transmitir y replicar lo aprendido en su contexto local."
       },
       {
         "name": "COMIDA",
@@ -261,7 +261,7 @@
       },
       {
         "name": "Diseño organizacional ONG/Social",
-        "speaker": "Traza.Mx",
+        "speaker": "Gerardo Daniel Padilla",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "15:00",
@@ -293,7 +293,7 @@
         "date": "2018-11-30",
         "time": "16:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "En esta plática exploramos el papel de las nuevas tecnologías en la democratización de vida pública, las oportunidades para profesionistas de tecnologías de la información, y puntos de encuentro para quienes quieran iniciarse en el tema."
       },
       {
         "name": "Pro-Contable: emprendimiento social y ONG",
@@ -332,12 +332,12 @@
         "description": ""
       },
       {
-        "name": "Design thinking",
-        "speaker": "Diana Rodriguez",
+        "name": "Nadando con Sharks. Como pitchar un emprendimiento a los inversionistas sin ser mordido en el proceso",
+        "speaker": "Javier Cabrera",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "17:00",
-        "type": "Taller - 2 horas",
+        "type": "Plática",
         "description": ""
       },
       {
@@ -362,6 +362,15 @@
         "name": "Robótica Golem",
         "speaker": "Roy Molina",
         "location": "Dev",
+        "date": "2018-11-30",
+        "time": "18:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "10 cosas que me gustaria saber antes de emprender",
+        "speaker": "Hugo Moran",
+        "location": "Startup",
         "date": "2018-11-30",
         "time": "18:00",
         "type": "Plática",
@@ -395,13 +404,13 @@
         "description": ""
       },
       {
-        "name": "",
-        "speaker": "TPX",
+        "name": "Nuevos retos en la Ciberseguridad",
+        "speaker": "Ernesto Castillejos",
         "location": "Dev",
         "date": "2018-11-30",
         "time": "19:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "Las metodologías de los hackers son comúnmente los mismos, las empresas (todo tipo) no toma en cuenta la criticidad de estos, durante la platica abordaremos los vectores más usados así cómo las posibles soluciones a estos escenarios."
       },
       {
         "name": "Lenguaje corporal en los negocios",
@@ -422,7 +431,7 @@
         "description": ""
       },
       {
-        "name": "Ciberseguridad",
+        "name": "Delitos informáticos: los riesgos de ser ciudadano digital",
         "speaker": "Llamas",
         "location": "Dev",
         "date": "2018-11-30",
@@ -517,8 +526,8 @@
         "description": ""
       },
       {
-        "name": "ROS",
-        "speaker": "Aaron",
+        "name": "De cero a videojuego",
+        "speaker": "Rogelio Alvarado",
         "location": "Dev",
         "date": "2018-12-01",
         "time": "12:00",
@@ -527,12 +536,12 @@
       },
       {
         "name": "Como te ves, te tratan",
-        "speaker": "Julieta Partida",
+        "speaker": "Julieta Partida Franco",
         "location": "Startup",
         "date": "2018-12-01",
         "time": "12:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "Todos los días, todo el tiempo generamos opiniones sobre los demás a partir su apariencia. En cuestión de segundos decidimos si son aptos o no para desarrollar determinadas actividades o estar a cargo de ciertas responsabilidades. De la misma forma los demás concretan sí confían o no en ti en un menor tiempo del que te tomó leer este párrafo. Conoce consejos clave para que tu imagen proyecte tu talento, demostrando tu valor y haciéndote sentir seguridad."
       },
       {
         "name": "Bluetypo, diseño tipografico y programación",
@@ -562,13 +571,13 @@
         "description": ""
       },
       {
-        "name": "De cero a videojuego",
-        "speaker": "Rogelio Alvarado",
+        "name": "Business Intelligence - Percepción a través de Datos",
+        "speaker": "Héctor Lara",
         "location": "Dev",
         "date": "2018-12-01",
         "time": "13:00",
-        "type": "Conferencia",
-        "description": ""
+        "type": "Plática",
+        "description": "Aprende a usar herramientas para capturar y visualizar el flujo de información de tu organización para ganar percepción en la toma de decisiones"
       },
       {
         "name": "¿Listo para tu primer fracaso?",

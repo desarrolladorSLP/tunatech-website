@@ -10,6 +10,12 @@
     }
   },
   {
+    "name": "Dra. Mildred Quintana Ruiz",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/mildred-quintana.png",
+    "bio": ""
+  },
+  {
     "name": "Dr. Armando Encinas Oropesa",
     "role": "",
     "picture": "/assets/2018/images/speakers/armando-encinas.jpeg",
@@ -17,9 +23,9 @@
   },
   {
     "name": "Dr. Braulio Gutiérrez Medina",
-    "role": "",
+    "role": "Investigador",
     "picture": "/assets/2018/images/speakers/braulio-gutierrez.png",
-    "bio": "",
+    "bio": "Originario de la Ciudad de México, realizó la licenciatura en Física en la Facultad de Ciencias de la UNAM, estudios de doctorado en UT-Austin (física atómica y óptica cuántica) y una estancia posdoctoral en la Universidad de Stanford (biofísica molecular). Desde el 2009, en su laboratorio en el IPICYT estudian sistemas biológicos utilizando técnicas de la biofísica experimental. Su trabajo recibió el Premio George Brown de la fundación UC-MEXUS (2010).",
     "socialMedia": {
     }
   },
@@ -27,7 +33,7 @@
     "name": "MC. Daniel Barrón Pastor",
     "role": "",
     "picture": "/assets/2018/images/speakers/daniel-barron-pastor.jpg",
-    "bio": "",
+    "bio": "Actualmente dirige el Observatorio Tecnológico del IPICYT, donde desarrolla un modelo de administración de propiedad intelectual que fomenta la producción de tecnologías patentables y su producción, la transferencia de tecnología y el desarrollo de negocios tecnológicos. Asimismo, coordina servicios de propiedad intelectual para empresas y participa como académico en temas de propiedad intelectual, economía de la tecnología y administración de negocios tecnológicos. ",
     "socialMedia": {
     }
   },
@@ -56,6 +62,20 @@
     }
   },
   {
+    "name": "Jose Ovidio Vazquez Guerrero",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/jose-vazquez.jpg",
+    "bio": ""
+  },
+  {
+    "name": "Hugo Morán",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/hugo-moran.png",
+    "bio": "",
+    "socialMedia": {
+    }
+  },
+  {
     "name": "FuckUp Nights",
     "role": "",
     "picture": "/assets/2018/images/speakers/",
@@ -65,16 +85,16 @@
   },
   {
     "name": "Julieta Partida Franco",
-    "role": "",
+    "role": "Consultora en Imagen Pública",
     "picture": "/assets/2018/images/speakers/",
-    "bio": "",
+    "bio": "Consultora en Imagen Pública, reconocida con el premio Excellentia Imago por el Colegio de Consultores en Imagen Pública. Especialista enfocada en la asesoría de personas y organizaciones en temas de imagen pública,  reputación digital y persuasión. Ha trabajado con figuras públicas, políticos, empresarios y emprendedores. Directora de Inside Out Consultoría en Imagen y socia fundadora de InMedia.",
     "socialMedia": {
     }
   },
   {
     "name": "LDI Driana Carolina Jaime Díaz",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/driana-jaimes.jpg",
     "bio": "",
     "socialMedia": {
     }
@@ -120,6 +140,12 @@
     }
   },
   {
+    "name": "Miguel Torres",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/",
+    "bio": ""
+  },
+  {
     "name": "Manolo Guerrero",
     "role": "",
     "picture": "/assets/2018/images/speakers/manolo-guerrero.jpg",
@@ -137,9 +163,9 @@
   },
   {
     "name": "Juan Francisco Gerardo Hernández",
-    "role": "",
+    "role": "Fundador de UXMALSOFT, coorganizador de DesarrolladorSLP y voluntario en actividades de promoción",
     "picture": "/assets/2018/images/speakers/",
-    "bio": "",
+    "bio": "Con más de 7 años de experiencia en el desarrollo de Software, especialista en Sistemas de Información Geográfica ha trabajado en varios proyectos para el sector público y privado, así como colaborado con el INEGI para la mejora de sistemas de información para el sector público, fundador de UXMALSOFT, coorganizador de DesarrolladorSLP y voluntario en actividades de promoción y difusión de las tecnologías de la información con jóvenes.Egresado de la carrera de Ingeniería en Computación de la Universidad Autónoma de San Luis Potosí.",
     "socialMedia": {
     }
   },
@@ -153,7 +179,7 @@
   },
   {
     "name": "Erick Garrigós",
-    "role": "",
+    "role": "Emprendedor",
     "picture": "/assets/2018/images/speakers/erick-garrigos.jpg",
     "bio": "Erick Garrigós es un jóven emprendedor y desarrollador miembro de la Alianza del Pacífico Juvenil, ganador de un premio federal de primer lugar \"Mejores Prácticas\" del Instituto Mexicano de la Juventud y finalista de TuApp.org 2018, cordinó el Torneo Universitario de Apps TuApp San Luis 2018, y actualmente es director de dos pequeñas microempresas de tecnología. Estudió Ingeniería en Computación en la Universidad Autónoma de San Luis Potosí y actualmente está estudiando Administración de Empresas en la Escuela Bancaria y Comercial.",
     "socialMedia": {
@@ -162,7 +188,7 @@
   {
     "name": "Dra. Lina Raquel Riego Ruiz",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/lina-riego.jpeg",
     "bio": "",
     "socialMedia": {
     }
@@ -184,36 +210,48 @@
     }
   },
   {
-    "name": "Ricardo Rodríguez",
-    "role": "",
+    "name": "Ricardo Rodríguez Ramírez",
+    "role": "Desarrollador de Software",
     "picture": "/assets/2018/images/speakers/ricardo-rodriguez.jpg",
-    "bio": "",
+    "bio": "Ha trabajado como desarrollador de software por mas de 10 años, en proyectos a nivel nacional e internacional. ¡Le encanta el código y todo lo que lo rodea!",
     "socialMedia": {
     }
   },
   {
     "name": "Cristian Colorado",
-    "role": "",
+    "role": "Founder de Contacto Legislativo, Software Developer.",
     "picture": "/assets/2018/images/speakers/cristian-colorado.jpg",
-    "bio": "",
+    "bio": "Founder de Contacto Legislativo, Software Developer, ha trabajado para empresas como GE, Disney y Harvard como contratista con Softtek, Accenture y Unosquare respectivamente. Egresado de la UASLP como Ingeniero en Computación y de la UC3M con Máster en Creación de empresas.",
     "socialMedia": {
     }
   },
   {
     "name": "Roy Molina",
-    "role": "",
+    "role": "Fundador de Robótica Golem y RobotistasMX",
     "picture": "/assets/2018/images/speakers/roy-molina.jpg",
-    "bio": "",
+    "bio": "Dedicado a la robótica educativa y de competencia desde hace más de 10 años dando clases y talleres a cientos de niños y jóvenes y participando como mentor en torneos como Robocup 2015 en China, el Latin American Robotics Competition 2016 en Brasil y la World Robot Olympiad 2018 en Tailandia. Fundador de Robótica Golem y RobotistasMX. Representante del colectivo de robotistas: chaBots.",
     "socialMedia": {
     }
   },
   {
-    "name": "Llamas",
-    "role": "",
+    "name": "MC. Miriam Llamas",
+    "role": "Profesor-Investigador en la Universidad Politécnica de San Luis Potosí",
     "picture": "/assets/2018/images/speakers/",
-    "bio": "",
+    "bio": "Del 2002 a la fecha se desempeña como profesor-investigador en la Universidad Politécnica de San Luis Potosí, dentro de la Academia de Tecnologías de la Información y Telemática Es instructor de CISCO Networking Academy, en donde ha impartido los cursos de Introducción a la CiberSeguridad y el curso de Fundamentos de Ciberseguridad a alumnos de la Universidad Politécnica principalmente.",
     "socialMedia": {
     }
+  },
+  {
+    "name": "Marco Pereyra",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/marco-pereyra.jpeg",
+    "bio": ""
+  },
+  {
+    "name": "Laura Angel",
+    "role": "Embajadora NEM MX",
+    "picture": "/assets/2018/images/speakers/",
+    "bio": ""
   },
   {
     "name": "Aaron",
@@ -224,6 +262,12 @@
     }
   },
   {
+    "name": "Ernesto Castillejos",
+    "role": "Ingeniero en Sistemas Computacionales, Consultor de Seguridad Informática.",
+    "picture": "/assets/2017/images/speakers/ernesto-castillejos.jpg",
+    "bio": "Ingeniero en Sistemas Computacionales, Consultor de Seguridad Informática, Pentester, amante del software libre y la pizza, ha trabajado como Asesor en Servicios de seguridad para el sector Privado y Militar e impartido platicas en distintos congresos; cuenta con 15 años de experiencia en el medio."
+  },
+  {
     "name": "Rogelio Alvarado",
     "role": "",
     "picture": "/assets/2018/images/speakers/",
@@ -232,10 +276,10 @@
     }
   },
   {
-    "name": "Alejandro Medina",
-    "role": "",
+    "name": "Alejandro Medina Castillo",
+    "role": "Creador de contenidos educativos en Fundación Teamapping",
     "picture": "/assets/2018/images/speakers/alejandro-medina.jpg",
-    "bio": "",
+    "bio": "Alejandro Medina es creador de contenidos educativos en Fundación Teamapping, egresado de la Clase 8 del programa “MIT Innovation & Entrepreneurship Bootcamp” del Instituto Tecnológico de Massachussets (MIT) y Titulado de la Licenciatura en Tecnologías e Información en UDG Virtual. Alejandro también es co-fundador y desarrollador en la asociación de arte electrónico Sexymapping S.A. de C.V., y catedrático en la Lic. de Contenidos Digitales Interactivos en la Universidad Cuauhtémoc Plantel San Luis Potosí.",
     "socialMedia": {
     }
   },
@@ -256,10 +300,26 @@
     }
   },
   {
+    "name": "Héctor Lara",
+    "role": "Director de Operaciones Airtec Servicios",
+    "picture": "/assets/2018/images/speakers/hector-lara.jpg",
+    "bio": "Director de Operaciones Airtec Servicios, empresa potosina especializada en ahorro de aire comprimido industrial",
+    "socialMedia": {
+    }
+  },
+  {
     "name": "Dulce Juárez Cerna",
     "role": "",
     "picture": "/assets/2018/images/speakers/",
     "bio": "Dulce Juárez es fundadora de ProTribu Coworking, un espacio de colaboración y crecimiento para MUJERES emprendedoras, freelance, profesionistas y más.",
+    "socialMedia": {
+    }
+  },
+  {
+    "name": "Jesús Leyva",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/jesus-leyva",
+    "bio": "",
     "socialMedia": {
     }
   },
@@ -270,5 +330,17 @@
     "bio": "",
     "socialMedia": {
     }
+  },
+  {
+    "name": "Gerardo Daniel Padilla",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/gerardo-padilla.jpeg",
+    "bio": ""
+  },
+  {
+    "name": "Javier Cabrera",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/javier-cabrera.jpeg",
+    "bio": ""
   }
 ]
