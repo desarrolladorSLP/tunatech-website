@@ -206,15 +206,6 @@
         "description": "Daremos un repaso a los posibles usos del análisis de sentimientos y emociones utilizando Machine Learning. Se mostraran pequeños ejemplos de como funcionan estas tecnologías y platicaremos de casos de éxito reales."
       },
       {
-        "name": "CNS",
-        "speaker": "CNS",
-        "location": "Dev",
-        "date": "2018-11-30",
-        "time": "13:00",
-        "type": "Plática",
-        "description": ""
-      },
-      {
         "name": "Emprendimiento Disciplinado: Como sobrevivir a un Bootcamp del MIT",
         "speaker": "Alejandro Medina Castillo",
         "location": "Startup",
