@@ -206,6 +206,15 @@
         "description": "Daremos un repaso a los posibles usos del análisis de sentimientos y emociones utilizando Machine Learning. Se mostraran pequeños ejemplos de como funcionan estas tecnologías y platicaremos de casos de éxito reales."
       },
       {
+        "name": "Blockchain",
+        "speaker": "Laura Angel",
+        "location": "Devs",
+        "date": "2018-11-30",
+        "time": "13:00",
+        "type": "Plática",
+        "description": "El emprendimiento disciplinado es una metodología creada por Bill Aulet (Director del Martin Trust Center for MIT Entrepreneurship) la cual es utilizada como base para el  “Innovation & Entrepreneurship Bootcamp” del Instituto Tecnológico de Massachussetts (MIT). En esta ponencia conocerás la experiencia de participar y como aplicar a este programa, El \"Bootcamp\" es un programa educativo diseñado por el MIT donde durante 7 días se busca llevar al limite trabajando un aproximado de 21 hrs diarias de trabajo (conferencias, clases, dinámicas de grupo y elaboración de entregables) en la identificación de problemáticas y la planeación de una solución que se viable y sustentable el programa tiene como objetivo la formación de innovadores, emprendedores y generadores de cambio con un gran compromiso por la comunidad en orden de transmitir y replicar lo aprendido en su contexto local."
+      },
+      {
         "name": "Emprendimiento Disciplinado: Como sobrevivir a un Bootcamp del MIT",
         "speaker": "Alejandro Medina Castillo",
         "location": "Startup",
@@ -296,8 +305,8 @@
         "description": ""
       },
       {
-        "name": "Bitcoin MTY",
-        "speaker": "",
+        "name": "Bitcoin Mty: Blockchain satelital",
+        "speaker": "Jose Ovidio Vazquez Guerrero",
         "location": "Principal",
         "date": "2018-11-30",
         "time": "17:00",
@@ -305,7 +314,7 @@
         "description": ""
       },
       {
-        "name": "Bioinformatica",
+        "name": "Biología + datos = la profesión más cotizada",
         "speaker": "Dra. Lina Raquel Riego Ruiz",
         "location": "Ciencia y tecnología",
         "date": "2018-11-30",
@@ -332,13 +341,13 @@
         "description": ""
       },
       {
-        "name": "Panel: Mujeres en la ciencia",
-        "speaker": "",
+        "name": "Panel: Lo que nadie te dice sobre... SER UNA MUJER EN LA CIENCIA",
+        "speaker": "Dra. Nadia Valentina Martínez Villegas, Dra. Mildred Quintana Ruiz, LCC. Rosa María Martínez Garcia,  Martha Patricia Rivera Torres",
         "location": "Principal",
         "date": "2018-11-30",
         "time": "18:00",
         "type": "Panel",
-        "description": ""
+        "description": "Panel de perspectiva de genero en el cual se abordaran temas sobre las complicaciones que implica ser una mujer en la academia."
       },
       {
         "name": "Cookies for Robots: aprendizaje por refuerzo",
@@ -350,13 +359,13 @@
         "description": "Requisitos: Computadora con Processing instalado"
       },
       {
-        "name": "Robótica Golem",
+        "name": "Vida de Robotista",
         "speaker": "Roy Molina",
         "location": "Dev",
         "date": "2018-11-30",
         "time": "18:00",
         "type": "Plática",
-        "description": ""
+        "description": "Conoce Robótica Golem, una plataforma educativa de bajo costo que permite aprender a programar robots sin usar una computadora y que busca con ello democratizar la robótica educativa haciéndola llegar a todos los rincones del mundo."
       },
       {
         "name": "10 cosas que me gustaria saber antes de emprender",
@@ -413,12 +422,21 @@
         "description": ""
       },
       {
-        "name": "Observación de estrellas",
-        "speaker": "Hugo Jasso",
+        "name": "El morbo y la curiosidad científica",
+        "speaker": "M. Hugo Alberto Jasso Villareal",
         "location": "Principal",
         "date": "2018-11-30",
         "time": "20:00",
-        "type": "Actividad - 2 horas",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Observación de estrellas",
+        "speaker": "M. Hugo Alberto Jasso Villareal",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "21:00",
+        "type": "Actividad",
         "description": ""
       },
       {
@@ -436,6 +454,15 @@
     "title": "Sábado 1 de Diciembre",
     "events": [
       {
+        "name": "MyJobstudio",
+        "speaker": "Miguel Torres",
+        "location": "Principal",
+        "date": "2018-12-01",
+        "time": "10:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
         "name": "Programa tu primer robot",
         "speaker": "Robogeek",
         "location": "Talleres",
@@ -451,7 +478,16 @@
         "date": "2018-12-01",
         "time": "10:00",
         "type": "Taller - 2 horas",
-        "description": ""
+        "description": "Conoce Robótica Golem, una plataforma educativa de bajo costo que permite aprender a programar robots sin usar una computadora y que busca con ello democratizar la robótica educativa haciéndola llegar a todos los rincones del mundo."
+      },
+      {
+        "name": "Cuando la ciencia y la cocina se unen. Taller de cocina molecular",
+        "speaker": "M.C. Miriam Livier Llamas García",
+        "location": "Ciencia y tecnología",
+        "date": "2018-12-01",
+        "time": "10:00",
+        "type": "Conferencia",
+        "description": "De la cocina se dice que es más un arte que una ciencia. Sin embargo, existe una parte de la gastronomía que es más ciencia que arte. De lo que estamos hablando es de la cocina o gastronomía molecular."
       },
       {
         "name": "Activa tu Zona de ¡Flow!",
@@ -505,7 +541,7 @@
         "date": "2018-12-01",
         "time": "12:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "Aprende las herramientas que nos llevaron pasar de una tarjeta de crédito personal de 1,700 USD a tener un ARR de 500K USD en perfilan.com sin recibir inversión de fondos, ángeles, familia o amigos."
       },
       {
         "name": "El estudio del proteoma-Oportunidades de desarrollo de herramientas para el análisis de datos.",
