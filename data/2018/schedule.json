@@ -248,7 +248,7 @@
         "date": "2018-11-30",
         "time": "15:00",
         "type": "Taller - 3 horas",
-        "description": "En este taller haremos uso de algunas herramientas para crear aplicaciones escalables que son muy utilizados actualmente en la industria. Haciendo uso de spring boot con JDK8 nos conectaremos a un RabbitMQ instalado localmente con Docker. Para agilizar el taller es recomendable que los asistentes tengan instalado JDK8, Maven, git, docker y que cuenten con una cuenta en Github que utilizaremos para guardar el trabajo desarrollado en el taller."
+        "description": "En este taller haremos uso de algunas herramientas para crear aplicaciones escalables que son muy utilizados actualmente en la industria. Haciendo uso de spring boot con JDK8 nos conectaremos a un RabbitMQ instalado localmente con Docker. Para agilizar el taller es recomendable que los asistentes tengan instalado JDK8, Maven, git, docker y que cuenten con una cuenta en Github que utilizaremos para guardar el trabajo desarrollado en el taller. Si tienes dudas puedes contactar a Iván Uresti a través de su correo iuresti@nearsoft.com "
       },
       {
         "name": "Bitcoin MTY",
