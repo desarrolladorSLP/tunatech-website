@@ -30,6 +30,14 @@
     }
   },
   {
+    "name": "Dr. Abraham Escobedo Moratilla",
+    "role": "Investigador",
+    "picture": "/assets/2018/images/speakers/",
+    "bio": "Doctorado en Biología Molecular. Actual Gerente del Consorcio de Investigación, Innovación y Desarrollo para las Zonas Áridas (CIIDZA) del Consejo Nacional de Ciencia y Tecnología (CONACYT), realizando actividades encaminadas a desarrollar un impacto económico y social mediante la investigación científica transdisciplinaria y su aplicación en las demandas de dicha región. Hasta el momento cuenta con diversas publicaciones indizadas en revistas internacionales, en los campos de la farmacología, la biotecnología farmacéutica y proteómica, y es miembro del Sistema Nacional de Investigadores Nivel 1, además de ser miembro activo de la Sociedad Mexicana de Proteómica, la Sociedad Latinoamericana de Glicobiología y la Sociedad Mexicana de Materiales.",
+    "socialMedia": {
+    }
+  },
+  {
     "name": "MC. Daniel Barrón Pastor",
     "role": "",
     "picture": "/assets/2018/images/speakers/daniel-barron-pastor.jpg",
@@ -205,7 +213,7 @@
     "name": "Esaú Bojórquez Velázquez",
     "role": "",
     "picture": "/assets/2018/images/speakers/esau-bojorquez.jpg",
-    "bio": "",
+    "bio": "Formación en Ingeniaría Bioquímica, especializado en tencnicas moleculares para el estudio y análisis de proteínas a nivel de molécula unica en y técnicas de prteómica comparativa. Actual candidato a Doctor en Ciencias en Biología molecular por el Instituto Potosino de Investigación Científica y Tecnológica.",
     "socialMedia": {
     }
   },
@@ -242,11 +250,12 @@
     }
   },
   {
-    "name": "MC. Miriam Llamas",
+    "name": "MC. Miriam Livier Llamas García",
     "role": "Profesor-Investigador en la Universidad Politécnica de San Luis Potosí",
     "picture": "/assets/2018/images/speakers/miriam-livier.jpeg",
     "bio": "Del 2002 a la fecha se desempeña como profesor-investigador en la Universidad Politécnica de San Luis Potosí, dentro de la Academia de Tecnologías de la Información y Telemática Es instructor de CISCO Networking Academy, en donde ha impartido los cursos de Introducción a la CiberSeguridad y el curso de Fundamentos de Ciberseguridad a alumnos de la Universidad Politécnica principalmente.",
-    "socialMedia": {
+    
+	"socialMedia": {
     }
   },
   {
@@ -343,12 +352,24 @@
     "name": "Gerardo Daniel Padilla",
     "role": "",
     "picture": "/assets/2018/images/speakers/gerardo-padilla.jpeg",
-    "bio": ""
+    "bio": "",
+	"socialMedia": {
+    }
   },
   {
     "name": "Javier Cabrera",
     "role": "",
     "picture": "/assets/2018/images/speakers/javier-cabrera.jpg",
-    "bio": ""
+    "bio": "",
+	"socialMedia": {
+    }
+  },
+  {
+    "name": "Ana Valeria Valero Ramírez",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/valeria-valero.jpg",
+    "bio": "Estudiante de 9° semestre de la Licenciatura en Psicopedagogía en la Facultad de Psicología de la Universidad Autónoma de San Luis Potosí, UASLP",
+    "socialMedia": {
+    }
   }
 ]

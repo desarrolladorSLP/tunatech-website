@@ -133,6 +133,15 @@
         "type": "Taller - 2 horas",
         "description": "Taller para niños que tiene como objetivo acercar a los niños al mundo de los microoganismos y sus aplicaciones en la vida "
       },
+	  {
+        "name": "Consorcios CONACYT: El caso del CIIDZA",
+        "speaker": "Dr. Abraham Escobedo Moratilla",
+        "location": "Ciencia y tecnología",
+        "date": "2018-11-30",
+        "time": "16:00",
+        "type": "Conferencia",
+        "description": "Con el fin de “aplicar sus capacidades científicas y tecnológicas para resolver problemas y generar innovaciones en favor de diversos sectores sociales y económicos de las diferentes regiones del País”, desde el año 2017 el Sistema de Centros Públicos (CPTI’s) del Consejo Nacional de Ciencia y Tecnología (CONACYT) impulsó el modelo de Consorcios. Uno de los objetivos principales de estas entidades es hacer más efectivo el aparato científico y tecnológico del país, ya que al integrarse como Consorcio dos o más CPTI’s pueden aprovechar la infraestructura y los recursos humanos de éstos. Actualmente, se encuentran ya constituidos 26 Consorcios, entre los cuales se encuentra el Consorcio de Investigación, Innovación y Desarrollo para las Zonas Áridas (CIIDZA), el cual está conformado por seis CPTI’s, siendo su sede el Instituto Potosino de Investigación Científica y Tecnológica (IPICYT) en San Luis Potosí. Este Consorcio inició operaciones en junio de 2018 y tiene como misión “La conservación y aprovechamiento sostenible de la diversidad biológica y cultural de las zonas áridas, por medio de la investigación y la formación de recursos humanos con un enfoque transdisciplinario, participativo e innovador, para atender las necesidades de bienestar y desarrollo de la sociedad”. Durante esta plática se detallará el estado actual de Consorcios CONACYT en el país y se explicarán los objetivos estratégicos y visión del CIIDZA, el cual pretende alcanzar la consolidación como Consorcio en un proceso de tres años."
+      },
       {
         "name": "Mxsig, plataforma para el desarrollo de soluciones geoespaciales con software libre",
         "speaker": "Mario Cruz González",
@@ -500,13 +509,13 @@
         "description": "¿Has experimentado eso de “se me paso el tiempo volando”? Si la respuesta es afirmativa, puede que hayas estado más cerca de saborear la zona de Flow de lo que imaginas. Hacer lo que te gusta, lo que amas, en lo que eres bueno que hasta te pagarían y que aparte puedas compartir con el mundo es lo que todos buscamos en esta vida. Sin embargo para lograrlo, es necesario trabajar desde tu interior reconectarte y reconocerte. ¿Y tú ya estás en tu zona de Flow? El mundo necesita gente que ame lo que hace"
       },
       {
-        "name": "Megatendencias INEGI",
-        "speaker": "",
+        "name": "Uso efectivo de las TICs para innovar los procesos de aprendizaje de los conocimientos formativos en educación",
+        "speaker": "Ana Valeria Valero Ramírez",
         "location": "Principal",
         "date": "2018-12-01",
         "time": "11:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "La conferencia está orientada al paradigma del uso de las TICs dentro del ámbito educativo. Se despierta el interés por la incursión de los recursos educativos abiertos que apoyen el proceso de enseñanza- aprendizaje en niños de nivel primaria con el fin de elevar la calidad educativa. Además se reconoce como su integración brinda un ambiente formativo para el desarrollo de los conocimientos y habilidades básicas de aprendizaje, específicamente en lectura. Por lo tanto, la conferencia gira en torno al reconocimiento interdisciplinario del uso de las nuevas tecnologías para satisfacer no sólo la innovación metodológica de la educación sino por el contrario, complementar el aporte pedagógico y formativo de los estudiantes."
       },
       {
         "name": "Campamento negocios",
@@ -545,13 +554,13 @@
         "description": "Aprende las herramientas que nos llevaron pasar de una tarjeta de crédito personal de 1,700 USD a tener un ARR de 500K USD en perfilan.com sin recibir inversión de fondos, ángeles, familia o amigos."
       },
       {
-        "name": "El estudio del proteoma-Oportunidades de desarrollo de herramientas para el análisis de datos.",
+        "name": "El estudio del proteoma - Oportunidades de desarrollo de herramientas para el análisis de datos.",
         "speaker": "Esaú Bojórquez Velázquez",
         "location": "Ciencia y tecnología",
         "date": "2018-12-01",
         "time": "12:00",
         "type": "Plática",
-        "description": ""
+        "description": "Las proteínas son los efectores finales de la mayoría de las reacciones bioquímicas en los sistemas vivos. Por ello la proteómica representa una herramienta poderosa para la identificación de moléculas de interés en todas las ramas de las ciencias biológicas: agrobiotecnología, microbiología, farmacia, salud, alimentos, entre otras. Por ello es importante estar al tanto de las alternativas disponibles para llevar acabo estudios de proteómica así como de las consideraciónes a tener encuenta para el procesamiento de datos."
       },
       {
         "name": "De cero a videojuego",
