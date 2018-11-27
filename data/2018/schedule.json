@@ -134,13 +134,14 @@
         "description": "Taller para niños que tiene como objetivo acercar a los niños al mundo de los microoganismos y sus aplicaciones en la vida "
       },
       {
-        "name": "EX ROBOTS",
-        "speaker": "",
+        "name": "Mxsig, plataforma para el desarrollo de soluciones geoespaciales con software libre",
+        "speaker": "Mario Cruz González",
         "location": "Dev",
         "date": "2018-11-30",
         "time": "10:00",
         "type": "2 horas",
-        "description": ""
+		"description": "El objetivo del taller es conoce la plataforma de código abierto para la web desarrollada por el INEGI, para implementar soluciones geomáticas que facilitan el uso, integración, interpretación, publicación y análisis de la información geográfica y estadística. Está plataforma está desarrollada utilizando módulos robustos de software de código libre, y está preparado para que los usuarios puedan potenciar el desarrollo de funcionalidades adicionales de acuerdo a sus necesidades, utilizando algunas de las alternativas de desarrollo disponibles actualmente."
+      
       },
       {
         "name": "La importancia del emprendimiento social",
@@ -150,7 +151,7 @@
         "time": "10:00",
         "type": "Conferencia",
         "description": ""
-      },
+	  },
       {
         "name": "Marvel, Lee y la PI",
         "speaker": "MIBB. Norma Isabel García Calderón",
@@ -170,7 +171,7 @@
         "description": ""
       },
       {
-        "name": "UXMAL",
+        "name": "Como NO conquistar al mundo con un Google Home",
         "speaker": "Juan Francisco Gerardo Hernández",
         "location": "Talleres",
         "date": "2018-11-30",
@@ -625,12 +626,12 @@
         "description": ""
       },
       {
-        "name": "APP Inventor",
-        "speaker": "Juan Francisco Gerardo Hernández",
+        "name": "Desarrollando Videojuegos desde cero",
+        "speaker": "Gamedev",
         "location": "Dev",
         "date": "2018-12-01",
         "time": "14:00",
-        "type": "Taller 2 horas",
+        "type": "",
         "description": ""
       },
       {
