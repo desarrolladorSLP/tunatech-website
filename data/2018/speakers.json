@@ -49,23 +49,31 @@
     "name": "MIBB. Norma Isabel García Calderón",
     "role": "Coordinadora del área de Patentes en la Dirección de Vinculación del IPICYT",
     "picture": "/assets/2018/images/speakers/norma-garcia.jpg",
-    "bio": " Entre las actividades que desempeña están: Búsqueda de Arte previo, análisis de factibilidad, análisis de patentabilidad y diseño experimental para redacción de patentes, especialmente nacionales, USPTO, EPO y PCT. Inteligencia tecnológica para proyectos de investigación. Elaboración y análisis de trayectorias tecnológicas y análisis de viabilidad de proyectos hacia campos patentables u otras formas de protección de los productos de investigación. Entre otras.",
+    "bio": "Coordinadora del área de Patentes en la Dirección de Vinculación del IPICYT. Entre las actividades que desempeña están: Búsqueda de Arte previo, análisis de factibilidad, análisis de patentabilidad y diseño experimental para redacción de patentes, especialmente nacionales, USPTO, EPO y PCT. Inteligencia tecnológica para proyectos de investigación. Elaboración y análisis de trayectorias tecnológicas y análisis de viabilidad de proyectos hacia campos patentables u otras formas de protección de los productos de investigación. Entre otras.",
     "socialMedia": {
     }
   },
   {
+    "name": "Manuel Alejandro Flores",
+    "role": "Presidente de la Asociación de Criptotecnologias & Blockchain México",
+    "picture": "/assets/2018/images/speakers/manuel-flores.jpg",
+    "bio": "Director de TI en Xoles Consultores, Hacker Ético certificado por Ec-council. Investigador especialista en criptomonedas y tecnología blockchain. Fundador de la Comunidad Bitcoin Monterrey. Engagement Officer del Blockchain Education Network. Colaborador líder de comunidades Meetroopers/ Talent Network zona norte. Presidente de la Asociación de Criptotecnologias & Blockchain México.",
+	"socialMedia": {
+    }
+  },
+  {
     "name": "LMC. Daniela Morán",
-    "role": "",
+    "role": "Midnight Strike",
     "picture": "/assets/2018/images/speakers/daniela-moran.png",
-    "bio": "",
+    "bio": "Somos una agencia creativa que usa el storytelling para comunicar. Nuestros trabajos buscan contar las historias de nuestros clientes para que puedan tener una mejor comunicación e interacción con sus usuarios.",
     "socialMedia": {
     }
   },
   {
     "name": "LMC. Gabriela Vega",
-    "role": "",
+    "role": "Midnight Strike",
     "picture": "/assets/2018/images/speakers/gabriela-vega.png",
-    "bio": "",
+    "bio": "Somos una agencia creativa que usa el storytelling para comunicar. Nuestros trabajos buscan contar las historias de nuestros clientes para que puedan tener una mejor comunicación e interacción con sus usuarios.",
     "socialMedia": {
     }
   },
@@ -103,7 +111,7 @@
     "name": "LDI Driana Carolina Jaime Díaz",
     "role": "Diseñadora industrial y fundadora de Dadú muebles",
     "picture": "/assets/2018/images/speakers/driana-jaimes.jpg",
-    "bio": "",
+    "bio": "Emprendedora colombiana que actualemente radica en México, es diseñadora industrial y fundadora de Dadú muebles.",
     "socialMedia": {
     }
   },
@@ -143,15 +151,15 @@
     "name": "Eduardo Aranda",
     "role": "CEO credimetric.com - Founder perfilan.com ",
     "picture": "/assets/2018/images/speakers/eduardo-aranda.jpg",
-    "bio": "",
+    "bio": "Eduardo Aranda - CEO credimetric.com - Founder perfilan.com ",
     "socialMedia": {
     }
   },
   {
-    "name": "Miguel Torres",
-    "role": "CEO de My Jobstudio",
-    "picture": "/assets/2018/images/speakers/",
-    "bio": ""
+    "name": "Miguel Eduardo Torres Galicia",
+    "role": "CEO de My Job Studio",
+    "picture": "/assets/2018/images/speakers/miguel-torres.png",
+    "bio": "CEO de My Job Studio. IE con experiencia en Norte América y Latino América, con experiencia en gestión de proyectos, s, desarrollo de herramientas tecnológicas, mejora continua y emprendimiento. Co-Fundador de My Job Studio, empresa respaldada por Startup Chile y 500 Startups."
   },
   {
     "name": "Mario Cruz González",
@@ -253,16 +261,16 @@
     "name": "MC. Miriam Livier Llamas García",
     "role": "Profesor-Investigador en la Universidad Politécnica de San Luis Potosí",
     "picture": "/assets/2018/images/speakers/miriam-livier.jpeg",
-    "bio": "Del 2002 a la fecha se desempeña como profesor-investigador en la Universidad Politécnica de San Luis Potosí, dentro de la Academia de Tecnologías de la Información y Telemática Es instructor de CISCO Networking Academy, en donde ha impartido los cursos de Introducción a la CiberSeguridad y el curso de Fundamentos de Ciberseguridad a alumnos de la Universidad Politécnica principalmente.",
+    "bio": "M.C. Miriam Livier Llamas García, candidata a doctorado del IPICYT en el área de biología estructural y actual coordinadora de laboratorios/docente de la Universidad del Valle de México.",
     
 	"socialMedia": {
     }
   },
   {
-    "name": "Marco Pereyra",
+    "name": "LabGeek",
     "role": "",
-    "picture": "/assets/2018/images/speakers/marco-pereyra.jpg",
-    "bio": ""
+    "picture": "/assets/2018/images/speakers/labgeek.jpg",
+    "bio": "LaBGeek es un grupo de jóvenes entusiastas y apasionados de la ciencia, el cual surge con el objetivo de difundir y divulgar el conocimiento y quehacer científico, por medio de talleres y charlas."
   },
   {
     "name": "Laura Angel",

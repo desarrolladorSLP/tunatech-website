@@ -2,6 +2,15 @@
   {
     "title": "Jueves 29 de Noviembre",
     "events": [
+	  {
+        "name": "Inauguración TunaTech 2018",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "17:00",
+        "type": "Inauguración",
+        "description": ""
+      },
       {
         "name": "Registro",
         "speaker": "",
@@ -53,8 +62,8 @@
         "location": "Principal",
         "date": "2018-11-29",
         "time": "19:00",
-        "type": "",
-        "description": ""
+        "type": "Conferencia",
+        "description": "Conoce como el storytelling se desenvuelve en todas las industrias."
       },
       {
         "name": "Expo AZIOS",
@@ -74,15 +83,7 @@
         "type": "",
         "description": ""
       },
-      {
-        "name": "Fuckup Nights",
-        "speaker": "Alfredo Cuevas",
-        "location": "Principal",
-        "date": "2018-11-29",
-        "time": "20:00",
-        "type": "Plática",
-        "description": ""
-      },
+      
       {
         "name": "Hecho en SLP: Medias de Seda Boutique y MXESUNO",
         "speaker": "Georgina Rivera Garrido / José Espinosa y Juan Mauricio",
@@ -92,21 +93,30 @@
         "type": "",
         "description": ""
       },
-      {
+	  {
         "name": "Fuckup Nights",
-        "speaker": "Selene García",
+        "speaker": "Abraham",
         "location": "Principal",
         "date": "2018-11-29",
-        "time": "21:00",
+        "time": "20:00-22:00",
         "type": "Plática",
         "description": ""
       },
       {
         "name": "Fuckup Nights",
-        "speaker": "",
+        "speaker": "LDI Ángel Romo",
         "location": "Principal",
         "date": "2018-11-29",
-        "time": "22:00",
+        "time": "20:00-22:00",
+        "type": "Plática",
+        "description": ""
+      },
+      {
+        "name": "Fuckup Nights",
+        "speaker": "Selene García",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "20:00-22:00",
         "type": "Plática",
         "description": ""
       }
@@ -116,7 +126,7 @@
     "title": "Viernes 30 de Noviembre",
     "events": [
       {
-        "name": "Prospectiva Tecnológica",
+        "name": "Recuerdos del futuro... historia y prospectiva tecnológica",
         "speaker": "MC. Daniel Barrón Pastor",
         "location": "Principal",
         "date": "2018-11-30",
@@ -162,13 +172,22 @@
         "description": ""
 	  },
       {
-        "name": "Marvel, Lee y la PI",
+        "name": "Marvel, Lee y la Propiedad Intelectual",
         "speaker": "MIBB. Norma Isabel García Calderón",
-        "location": "PRINCIPAL",
+        "location": "Principal",
         "date": "2018-11-30",
         "time": "11:00",
         "type": "Conferencia",
         "description": "Breve paseo por las figuras de propiedad intelectual y su impacto en nuestra vida cotidiana. Hablaremos de marcas, diseños, modelos, patentes y derechos de autor, incluyendo episodios épicos de los duelos entre superhéroes."
+      },
+	  {
+        "name": "Grafeno: propiedades, síntesis y aplicaciones",
+        "speaker": "Dra. Mildred Quintana Ruiz",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "12:00",
+        "type": "Conferencia",
+        "description": ""
       },
       {
         "name": "Sifide: academia de emprendimiento",
@@ -196,15 +215,6 @@
         "time": "12:00",
         "type": "Conferencia",
         "description": ""
-      },
-      {
-        "name": "Microamigos",
-        "speaker": "LabGeek",
-        "location": "Ciencia y tecnología",
-        "date": "2018-11-30",
-        "time": "12:00",
-        "type": "Taller - 2 horas",
-        "description": "Taller para niños que tiene como objetivo acercar a los niños al mundo de los microoganismos y sus aplicaciones en la vida "
       },
       {
         "name": "Analizando sentimientos usando Machine learning",
@@ -251,6 +261,15 @@
         "type": "Plática",
         "description": "Conoce historias sobre emprendedores locales y como han logrado establecer su empresa."
       },
+	  {
+        "name": "Historias de emprendedores imparables",
+        "speaker": "LRI Daniel González Ayala",
+        "location": "Principal",
+        "date": "2018-11-30",
+        "time": "16:00",
+        "type": "Plática",
+        "description": "Conoce historias sobre emprendedores locales y como han logrado establecer su empresa."
+      },
       {
         "name": "Colas de procesamiento en Java con spring boot + rabbitMQ",
         "speaker": "Iván Uresti",
@@ -261,13 +280,13 @@
         "description": "En este taller haremos uso de algunas herramientas para crear aplicaciones escalables que son muy utilizados actualmente en la industria. Haciendo uso de spring boot con JDK8 nos conectaremos a un RabbitMQ instalado localmente con Docker. Para agilizar el taller es recomendable que los asistentes tengan instalado JDK8, Maven, git, docker y que cuenten con una cuenta en Github que utilizaremos para guardar el trabajo desarrollado en el taller. Si tienes dudas puedes contactar a Iván Uresti a través de su correo iuresti@nearsoft.com "
       },
       {
-        "name": "Bitcoin MTY",
-        "speaker": "",
-        "location": "Dev",
+        "name": "Criptomonedas 101: Bitcoin",
+        "speaker": "Manuel Alejandro Flores",
+        "location": "Principal",
         "date": "2018-11-30",
-        "time": "15:00",
-        "type": "",
-        "description": ""
+        "time": "17:00",
+        "type": "Conferencia",
+        "description": "Introducción a las criptomonedas por parte de bitcoin, su historia, bases del blockchain, escalabilidad, oportunidades."
       },
       {
         "name": "Diseño organizacional ONG/Social",
@@ -278,24 +297,7 @@
         "type": "",
         "description": ""
       },
-      {
-        "name": "Historias de emprendedores imparables",
-        "speaker": "Daniel Gónzalez",
-        "location": "Principal",
-        "date": "2018-11-30",
-        "time": "16:00",
-        "type": "Plática",
-        "description": "Conoce historias sobre emprendedores locales y como han logrado establecer su empresa."
-      },
-      {
-        "name": "Salvemos el mundo",
-        "speaker": "Dr. Armando Encinas Oropesa",
-        "location": "Ciencia y tecnología",
-        "date": "2018-11-30",
-        "time": "16:00",
-        "type": "Conferencia",
-        "description": ""
-      },
+      
       {
         "name": "Hacking Cívico",
         "speaker": "Cristian Colorado",
@@ -317,7 +319,7 @@
       {
         "name": "Bitcoin Mty: Blockchain satelital",
         "speaker": "Jose Ovidio Vazquez Guerrero",
-        "location": "Principal",
+        "location": "Dev",
         "date": "2018-11-30",
         "time": "17:00",
         "type": "Conferencia",
@@ -464,13 +466,13 @@
     "title": "Sábado 1 de Diciembre",
     "events": [
       {
-        "name": "MyJobstudio",
-        "speaker": "Miguel Torres",
+        "name": "De ingeniero industrial a startupero",
+        "speaker": "Miguel Eduardo Torres Galicia",
         "location": "Principal",
         "date": "2018-12-01",
         "time": "10:00",
         "type": "Plática",
-        "description": ""
+        "description": "La historia de como un ingeniero industrial que aspiraba a trabajar en la zona industrial, termino en Chile con un emprendimiento."
       },
       {
         "name": "Programa tu primer robot",
@@ -509,15 +511,6 @@
         "description": "¿Has experimentado eso de “se me paso el tiempo volando”? Si la respuesta es afirmativa, puede que hayas estado más cerca de saborear la zona de Flow de lo que imaginas. Hacer lo que te gusta, lo que amas, en lo que eres bueno que hasta te pagarían y que aparte puedas compartir con el mundo es lo que todos buscamos en esta vida. Sin embargo para lograrlo, es necesario trabajar desde tu interior reconectarte y reconocerte. ¿Y tú ya estás en tu zona de Flow? El mundo necesita gente que ame lo que hace"
       },
       {
-        "name": "Uso efectivo de las TICs para innovar los procesos de aprendizaje de los conocimientos formativos en educación",
-        "speaker": "Ana Valeria Valero Ramírez",
-        "location": "Ciencia y tecnología",
-        "date": "2018-12-01",
-        "time": "11:00",
-        "type": "Conferencia",
-        "description": "La conferencia está orientada al paradigma del uso de las TICs dentro del ámbito educativo. Se despierta el interés por la incursión de los recursos educativos abiertos que apoyen el proceso de enseñanza- aprendizaje en niños de nivel primaria con el fin de elevar la calidad educativa. Además se reconoce como su integración brinda un ambiente formativo para el desarrollo de los conocimientos y habilidades básicas de aprendizaje, específicamente en lectura. Por lo tanto, la conferencia gira en torno al reconocimiento interdisciplinario del uso de las nuevas tecnologías para satisfacer no sólo la innovación metodológica de la educación sino por el contrario, complementar el aporte pedagógico y formativo de los estudiantes."
-      },
-      {
         "name": "Campamento negocios",
         "speaker": "Erick Garrigós",
         "location": "Talleres",
@@ -527,13 +520,13 @@
         "description": "Este taller tiene la finalidad de obtener y compartir ideas de negocio, darles forma y convertirlo en uno, se analizarán temas de diseño de negocios, prueba del producto, marketing para empresas, financiamiento, temas fiscales y legales."
       },
       {
-        "name": "Tech en educación",
-        "speaker": "",
+        "name": "Uso efectivo de las TICs para innovar los procesos de aprendizaje de los conocimientos formativos en educación",
+        "speaker": "Ana Valeria Valero Ramírez",
         "location": "Ciencia y tecnología",
         "date": "2018-12-01",
         "time": "11:00",
         "type": "Plática",
-        "description": ""
+        "description": "La conferencia está orientada al paradigma del uso de las TICs dentro del ámbito educativo. Se despierta el interés por la incursión de los recursos educativos abiertos que apoyen el proceso de enseñanza- aprendizaje en niños de nivel primaria con el fin de elevar la calidad educativa. Además se reconoce como su integración brinda un ambiente formativo para el desarrollo de los conocimientos y habilidades básicas de aprendizaje, específicamente en lectura. Por lo tanto, la conferencia gira en torno al reconocimiento interdisciplinario del uso de las nuevas tecnologías para satisfacer no sólo la innovación metodológica de la educación sino por el contrario, complementar el aporte pedagógico y formativo de los estudiantes."
       },
       {
         "name": "Marketing digital",
@@ -554,7 +547,7 @@
         "description": "Aprende las herramientas que nos llevaron pasar de una tarjeta de crédito personal de 1,700 USD a tener un ARR de 500K USD en perfilan.com sin recibir inversión de fondos, ángeles, familia o amigos."
       },
       {
-        "name": "El estudio del proteoma - Oportunidades de desarrollo de herramientas para el análisis de datos.",
+        "name": "El estudio del proteoma: En búsqueda de blancos moleculares para aplicaciones diversas",
         "speaker": "Esaú Bojórquez Velázquez",
         "location": "Ciencia y tecnología",
         "date": "2018-12-01",
@@ -589,6 +582,7 @@
         "type": "Conferencia",
         "description": ""
       },
+	  
       {
         "name": "Desarrollo videojuegos desde cero",
         "speaker": "Gamedev",
@@ -625,15 +619,7 @@
         "type": "Conferencia",
         "description": ""
       },
-      {
-        "name": "Eddison Effect",
-        "speaker": "Pedro Gabay",
-        "location": "Principal",
-        "date": "2018-12-01",
-        "time": "14:00",
-        "type": "Conferencia",
-        "description": ""
-      },
+      
       {
         "name": "Desarrollando Videojuegos desde cero",
         "speaker": "Gamedev",
