@@ -43,19 +43,11 @@
         "speaker": "",
         "location": "Dev",
         "date": "2018-11-29",
-        "time": "18:00",
+        "time": "18:00-20:00",
         "type": "",
         "description": ""
       },
-      {
-        "name": "Hecho en SLP: A tu puerta, HappyOn, My VIrtual Library",
-        "speaker": "A Tu Puerta: Erik Ramiro Aguilar Cisneros",
-        "location": "Dev",
-        "date": "2018-11-29",
-        "time": "18:00",
-        "type": "",
-        "description": "Presentación de la Startup A Tu Puerta, app de servicios de entrega de abastos para usuarios y empresas."
-      },
+      
       {
         "name": "Érase una vez en el futuro",
         "speaker": "LMC. Daniela Morán/ LMC. Gabriela Vega",
@@ -64,15 +56,6 @@
         "time": "19:00",
         "type": "Conferencia",
         "description": "Conoce como el storytelling se desenvuelve en todas las industrias."
-      },
-      {
-        "name": "Expo AZIOS",
-        "speaker": "",
-        "location": "Dev",
-        "date": "2018-11-29",
-        "time": "19:00",
-        "type": "",
-        "description": ""
       },
       {
         "name": "Hecho en SLP: Emprendedores de SLP y el Mundo AC / Bracks/Sellers Co.",
@@ -158,7 +141,7 @@
         "location": "Dev",
         "date": "2018-11-30",
         "time": "10:00",
-        "type": "2 horas",
+        "type": "Taller",
 		"description": "El objetivo del taller es conoce la plataforma de código abierto para la web desarrollada por el INEGI, para implementar soluciones geomáticas que facilitan el uso, integración, interpretación, publicación y análisis de la información geográfica y estadística. Está plataforma está desarrollada utilizando módulos robustos de software de código libre, y está preparado para que los usuarios puedan potenciar el desarrollo de funcionalidades adicionales de acuerdo a sus necesidades, utilizando algunas de las alternativas de desarrollo disponibles actualmente."
       
       },
@@ -217,7 +200,7 @@
         "description": ""
       },
       {
-        "name": "Analizando sentimientos usando Machine learning",
+        "name": "Analizando sentimientos usando Machine Learning",
         "speaker": "Ricardo Rodríguez Ramírez",
         "location": "Dev",
         "date": "2018-11-30",
@@ -226,13 +209,13 @@
         "description": "Daremos un repaso a los posibles usos del análisis de sentimientos y emociones utilizando Machine Learning. Se mostraran pequeños ejemplos de como funcionan estas tecnologías y platicaremos de casos de éxito reales."
       },
       {
-        "name": "Blockchain",
+        "name": "Blockchain como solución de tecnología",
         "speaker": "Laura Angel",
         "location": "Devs",
         "date": "2018-11-30",
         "time": "13:00",
         "type": "Plática",
-        "description": "El emprendimiento disciplinado es una metodología creada por Bill Aulet (Director del Martin Trust Center for MIT Entrepreneurship) la cual es utilizada como base para el  “Innovation & Entrepreneurship Bootcamp” del Instituto Tecnológico de Massachussetts (MIT). En esta ponencia conocerás la experiencia de participar y como aplicar a este programa, El \"Bootcamp\" es un programa educativo diseñado por el MIT donde durante 7 días se busca llevar al limite trabajando un aproximado de 21 hrs diarias de trabajo (conferencias, clases, dinámicas de grupo y elaboración de entregables) en la identificación de problemáticas y la planeación de una solución que se viable y sustentable el programa tiene como objetivo la formación de innovadores, emprendedores y generadores de cambio con un gran compromiso por la comunidad en orden de transmitir y replicar lo aprendido en su contexto local."
+        "description": "¿Qué es Blockchain? ¿Por qué todos hablan de ella? ¿Cuál es su relación con el Bitcoin? Exploraremos todas inquietudes en esta conferencia, donde exploraremos tanto el origen como el futuro de esta tecnología que ya está revolucionando la industria Mexicana."
       },
       {
         "name": "Emprendimiento Disciplinado: Como sobrevivir a un Bootcamp del MIT",
@@ -297,16 +280,6 @@
         "type": "",
         "description": ""
       },
-      
-      {
-        "name": "Hacking Cívico",
-        "speaker": "Cristian Colorado",
-        "location": "Dev",
-        "date": "2018-11-30",
-        "time": "16:00",
-        "type": "Conferencia",
-        "description": "En esta plática exploramos el papel de las nuevas tecnologías en la democratización de vida pública, las oportunidades para profesionistas de tecnologías de la información, y puntos de encuentro para quienes quieran iniciarse en el tema."
-      },
       {
         "name": "Pro-Contable: emprendimiento social y ONG",
         "speaker": "",
@@ -318,26 +291,26 @@
       },
       {
         "name": "Bitcoin Mty: Blockchain satelital",
-        "speaker": "Jose Ovidio Vazquez Guerrero",
+        "speaker": "I.S.C José Ovidio Vázquez Guerrero",
         "location": "Dev",
         "date": "2018-11-30",
-        "time": "17:00",
+        "time": "15:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "Introducción a las criptomonedas por parte de bitcoin, su historia, bases del blockchain, escalabilidad, oportunidades. Blockchain Satelital es una charla dirigida a público en general, entusiastas a la tecnología blockchain y tecnología aeroespacial donde podrán enterarse sobre tendencias comerciales, operativas y técnicas así como el alcance y desarrollo futuro de blockchain en el espacio."
+      },
+	  {
+        "name": "Hacking Cívico",
+        "speaker": "Cristian Colorado",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "16:00",
+        "type": "Conferencia",
+        "description": "En esta plática exploramos el papel de las nuevas tecnologías en la democratización de vida pública, las oportunidades para profesionistas de tecnologías de la información, y puntos de encuentro para quienes quieran iniciarse en el tema."
       },
       {
         "name": "Biología + datos = la profesión más cotizada",
         "speaker": "Dra. Lina Raquel Riego Ruiz",
         "location": "Ciencia y tecnología",
-        "date": "2018-11-30",
-        "time": "17:00",
-        "type": "Conferencia",
-        "description": ""
-      },
-      {
-        "name": "Modelado proteínas",
-        "speaker": "",
-        "location": "Dev",
         "date": "2018-11-30",
         "time": "17:00",
         "type": "Conferencia",
@@ -377,7 +350,7 @@
         "date": "2018-11-30",
         "time": "18:00",
         "type": "Plática",
-        "description": "Conoce Robótica Golem, una plataforma educativa de bajo costo que permite aprender a programar robots sin usar una computadora y que busca con ello democratizar la robótica educativa haciéndola llegar a todos los rincones del mundo."
+        "description": "¿Cuándo vas a dejar de hacer tus robotsitos y ponerte a trabajar 'de a de verás'? Muchos apasionados de la robótica de competencia lo escuchamos seguido, a algunos los desalienta a otros nos suena a reto. Una historia de cómo convertir tu pasión en una forma de vida."
       },
       {
         "name": "10 cosas que me gustaria saber antes de emprender",
@@ -421,7 +394,7 @@
         "location": "Dev",
         "date": "2018-11-30",
         "time": "19:00",
-        "type": "Conferencia",
+        "type": "Plática",
         "description": "Las metodologías de los hackers son comúnmente los mismos, las empresas (todo tipo) no toma en cuenta la criticidad de estos, durante la platica abordaremos los vectores más usados así cómo las posibles soluciones a estos escenarios."
       },
       {
@@ -453,10 +426,10 @@
       },
       {
         "name": "Delitos informáticos: los riesgos de ser ciudadano digital",
-        "speaker": "Llamas",
+        "speaker": "M.C. Rafael Llamas Contreras",
         "location": "Dev",
         "date": "2018-11-30",
-        "time": "21:00",
+        "time": "20:00",
         "type": "",
         "description": ""
       }
@@ -586,15 +559,6 @@
       },
 	  
       {
-        "name": "Desarrollo videojuegos desde cero",
-        "speaker": "Gamedev",
-        "location": "Talleres",
-        "date": "2018-12-01",
-        "time": "13:00",
-        "type": "Taller - 3 horas",
-        "description": ""
-      },
-      {
         "name": "Ciudades del futuro",
         "speaker": "Mirelle Betanzo",
         "location": "Ciencia y tecnología",
@@ -606,7 +570,7 @@
       {
         "name": "Business Intelligence - Percepción a través de Datos",
         "speaker": "Héctor Lara",
-        "location": "Dev",
+        "location": "Talleres",
         "date": "2018-12-01",
         "time": "13:00",
         "type": "Plática",
@@ -622,15 +586,6 @@
         "description": ""
       },
       
-      {
-        "name": "Desarrollando Videojuegos desde cero",
-        "speaker": "Gamedev",
-        "location": "Dev",
-        "date": "2018-12-01",
-        "time": "14:00",
-        "type": "",
-        "description": ""
-      },
       {
         "name": "Mega tendencias tecnológicas en el diseño",
         "speaker": "Difaro",

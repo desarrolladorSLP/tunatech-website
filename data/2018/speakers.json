@@ -56,6 +56,14 @@
     }
   },
   {
+    "name": "M.C. Rafael Llamas Contreras",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/rafael-llamas.jpg",
+    "bio": "Del 2002 a la fecha se desempeña como profesor-investigador en la Universidad Politécnica de San Luis Potosí, dentro de la Academia de Tecnologías de la Información y Telemática Es instructor de CISCO Networking Academy, en donde ha impartido los cursos de Introducción a la CiberSeguridad y el curso de Fundamentos de Ciberseguridad a alumnos de la Universidad Politécnica principalmente.",
+    "socialMedia": {
+    }
+  },
+  {
     "name": "LMC. Daniela Morán",
     "role": "Midnight Strike",
     "picture": "/assets/2018/images/speakers/daniela-moran.png",
@@ -72,10 +80,10 @@
     }
   },
   {
-    "name": "Jose Ovidio Vazquez Guerrero",
+    "name": "I.S.C José Ovidio Vázquez Guerrero",
     "role": "",
     "picture": "/assets/2018/images/speakers/jose-vazquez.jpg",
-    "bio": ""
+    "bio": "I.S.C, Consultor de IT, Ciberseguridad y Seguridad electronica, Certificado por el blockchain council como Certified Blockchain Expert, Certificaciones en redes de cómputo Mikrotik y Ubiquiti, Certificado en energía fotovoltaica, Estudios MOOC en King’s College London, M.I.T., Univ. of Georgia, Certificado en moneda digital por la univ. de Nicosia , Chipre, CTO Comunidad Bitcoin Monterrey, Presidente comunidad Laredo Hack Garage, Beta tester revista Hakin9 y traductor del libro “Mastering Bitcoin”"
   },
   {
     "name": "Hugo Morán",
@@ -221,10 +229,10 @@
   },
   {
     "name": "Erick Garrigós",
-    "role": "Emprendedor",
+    "role": "Director General de Somnus Media",
     "picture": "/assets/2018/images/speakers/erick-garrigos.jpg",
-    "bio": "Erick Garrigós es un jóven emprendedor y desarrollador miembro de la Alianza del Pacífico Juvenil, ganador de un premio federal de primer lugar \"Mejores Prácticas\" del Instituto Mexicano de la Juventud y finalista de TuApp.org 2018, cordinó el Torneo Universitario de Apps TuApp San Luis 2018, y actualmente es director de dos pequeñas microempresas de tecnología. Estudió Ingeniería en Computación en la Universidad Autónoma de San Luis Potosí y actualmente está estudiando Administración de Empresas en la Escuela Bancaria y Comercial.",
-    "socialMedia": {
+    "bio": "Director General de Somnus Media - Erick Garrigós es un joven emprendedor y desarrollador miembro de la Alianza del Pacífico Juvenil, ganador de un premio federal de primer lugar \"Mejores Prácticas\" del Instituto Mexicano de la Juventud y finalista de TuApp.org 2017, coordinó el Torneo Universitario de Apps TuApp San Luis 2018, y actualmente es director de dos pequeñas microempresas de tecnología. Estudió Ingeniería en Computación en la Universidad Autónoma de San Luis Potosí y actualmente está estudiando Administración de Empresas en la Escuela Bancaria y Comercial.",
+	"socialMedia": {
     }
   },
   {
@@ -277,7 +285,7 @@
   },
   {
     "name": "MC. Miriam Livier Llamas García",
-    "role": "Profesor-Investigador en la Universidad Politécnica de San Luis Potosí",
+    "role": "",
     "picture": "/assets/2018/images/speakers/miriam-livier.jpeg",
     "bio": "M.C. Miriam Livier Llamas García, candidata a doctorado del IPICYT en el área de biología estructural y actual coordinadora de laboratorios/docente de la Universidad del Valle de México.",
     
@@ -298,9 +306,9 @@
   },
   {
     "name": "Laura Angel",
-    "role": "Embajadora NEM MX",
+    "role": "Embajadora Blockchain NEM MX",
     "picture": "/assets/2018/images/speakers/laura-angel.jpg",
-    "bio": ""
+    "bio": "Profesional en Negocios Internacionales de la Universidad Santo Tomás (Colombia). Magister en Política y Administración Pública de la Universidad Concordia (Canadá). Ha desempeñado cargos en el sector financiero, de marketing, coordinación de eventos y proyectos, RR.PP en entidades privadas y de gobierno en Colombia, Italia y Canadá. Profesional en Negocios Internacionales de la Universidad Santo Tomás (Colombia). Magister en Política y Administración Pública de la Universidad Concordia (Canadá). Ha desempeñado cargos en el sector financiero, de marketing, coordinación de eventos y proyectos, RR.PP en entidades privadas y de gobierno en Colombia, Italia y Canadá. Actualmente, es la fundadora y CEO de My Job Studio, startup dedicada a la contratación y empoderamiento de Recursos Humanos con el objetivo de mejorar la calidad del trabajo juvenil  en América Latina. También es embajadora de la plataforma de Blockchain NEM para México donde está encargada del desarrollo de negocios."
   },
   {
     "name": "Aaron Miranda",
@@ -312,7 +320,7 @@
   },
   {
     "name": "Ernesto Castillejos",
-    "role": "Consultor de Seguridad Informática.",
+    "role": "Consultor de Seguridad Informática",
     "picture": "/assets/2017/images/speakers/ernesto-castillejos.jpg",
     "bio": "Ingeniero en Sistemas Computacionales, Consultor de Seguridad Informática, Pentester, amante del software libre y la pizza, ha trabajado como Asesor en Servicios de seguridad para el sector Privado y Militar e impartido platicas en distintos congresos; cuenta con 15 años de experiencia en el medio."
   },
