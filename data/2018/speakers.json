@@ -16,12 +16,6 @@
     "bio": ""
   },
   {
-    "name": "Dr. Armando Encinas Oropesa",
-    "role": "",
-    "picture": "/assets/2018/images/speakers/armando-encinas.jpeg",
-    "bio": ""
-  },
-  {
     "name": "Dr. Braulio Gutiérrez Medina",
     "role": "Investigador",
     "picture": "/assets/2018/images/speakers/braulio-gutierrez.png",
@@ -92,9 +86,25 @@
     }
   },
   {
-    "name": "FuckUp Nights",
-    "role": "",
-    "picture": "/assets/2018/images/speakers/",
+    "name": "LCG Abraham González",
+    "role": "FuckUp Nights",
+    "picture": "/assets/2018/images/speakers/abraham-gonzalez.jpg",
+    "bio": "",
+    "socialMedia": {
+    }
+  },
+  {
+    "name": "LDI Ángel Romo",
+    "role": "FuckUp Nights",
+    "picture": "/assets/2018/images/speakers/angel-romo.jpg",
+    "bio": "",
+    "socialMedia": {
+    }
+  },
+  {
+    "name": "M.C. Selene García",
+    "role": "FuckUp Nights",
+    "picture": "/assets/2018/images/speakers/selene-garcia.jpg",
     "bio": "",
     "socialMedia": {
     }
@@ -171,8 +181,16 @@
   },
   {
     "name": "Manolo Guerrero",
-    "role": "",
+    "role": "BlueTypo",
     "picture": "/assets/2018/images/speakers/manolo-guerrero.jpg",
+    "bio": "",
+    "socialMedia": {
+    }
+  },
+  {
+    "name": "Erendira Mancilla",
+    "role": "BlueTypo",
+    "picture": "/assets/2018/images/speakers/erendira-mancilla.jpg",
     "bio": "",
     "socialMedia": {
     }
@@ -226,10 +244,10 @@
     }
   },
   {
-    "name": "Mirelle Betanzo",
+    "name": "Arq. Mirell Betanzo del Angel",
     "role": "",
     "picture": "/assets/2018/images/speakers/",
-    "bio": "",
+    "bio": "Egresada de arquitectura del Tec de Monterrey campus Puebla, trabajando en proyectos de diferentes escalas desde parques municipales hasta vivienda unifamiliar. Actualmente trabajo en el Instituto Municipal de Planeación que es un instituto encargado de desarrollar los nuevos planes urbanos para el municipio de San Luis Potosí.",
     "socialMedia": {
     }
   },
@@ -270,6 +288,12 @@
     "name": "LabGeek",
     "role": "",
     "picture": "/assets/2018/images/speakers/labgeek.jpg",
+    "bio": "LaBGeek es un grupo de jóvenes entusiastas y apasionados de la ciencia, el cual surge con el objetivo de difundir y divulgar el conocimiento y quehacer científico, por medio de talleres y charlas."
+  },
+  {
+    "name": "LabGeek Microamigos",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/labgeek-microamigos.jpg",
     "bio": "LaBGeek es un grupo de jóvenes entusiastas y apasionados de la ciencia, el cual surge con el objetivo de difundir y divulgar el conocimiento y quehacer científico, por medio de talleres y charlas."
   },
   {
@@ -376,7 +400,7 @@
     "name": "Ana Valeria Valero Ramírez",
     "role": "",
     "picture": "/assets/2018/images/speakers/valeria-valero.jpg",
-    "bio": "Estudiante de 9° semestre de la Licenciatura en Psicopedagogía en la Facultad de Psicología de la Universidad Autónoma de San Luis Potosí, UASLP",
+    "bio": "Ana Valeria estudió Licenciatura en Psicopedagogía en la Facultad de Psicología de la Universidad Autónoma de San Luis Potosí, y desarrolla proyectos de pedagogía auxiliados con herramientas de la tecnología de la información.",
     "socialMedia": {
     }
   }

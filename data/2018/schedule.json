@@ -95,7 +95,7 @@
       },
 	  {
         "name": "Fuckup Nights",
-        "speaker": "Abraham",
+        "speaker": "LCG Abraham González",
         "location": "Principal",
         "date": "2018-11-29",
         "time": "20:00-22:00",
@@ -113,7 +113,7 @@
       },
       {
         "name": "Fuckup Nights",
-        "speaker": "Selene García",
+        "speaker": "M.C. Selene García",
         "location": "Principal",
         "date": "2018-11-29",
         "time": "20:00-22:00",
@@ -520,14 +520,16 @@
         "description": "Este taller tiene la finalidad de obtener y compartir ideas de negocio, darles forma y convertirlo en uno, se analizarán temas de diseño de negocios, prueba del producto, marketing para empresas, financiamiento, temas fiscales y legales."
       },
       {
-        "name": "Uso efectivo de las TICs para innovar los procesos de aprendizaje de los conocimientos formativos en educación",
+        "name": "Innova los procesos de aprendizaje con ayuda de las tecnologías de la información",
         "speaker": "Ana Valeria Valero Ramírez",
         "location": "Ciencia y tecnología",
         "date": "2018-12-01",
         "time": "11:00",
         "type": "Plática",
-        "description": "La conferencia está orientada al paradigma del uso de las TICs dentro del ámbito educativo. Se despierta el interés por la incursión de los recursos educativos abiertos que apoyen el proceso de enseñanza- aprendizaje en niños de nivel primaria con el fin de elevar la calidad educativa. Además se reconoce como su integración brinda un ambiente formativo para el desarrollo de los conocimientos y habilidades básicas de aprendizaje, específicamente en lectura. Por lo tanto, la conferencia gira en torno al reconocimiento interdisciplinario del uso de las nuevas tecnologías para satisfacer no sólo la innovación metodológica de la educación sino por el contrario, complementar el aporte pedagógico y formativo de los estudiantes."
-      },
+        "description": "La conferencia está orientada al paradigma del uso de las tecnologías de la información dentro del ámbito educativo. Se despierta el interés por la incursión de los recursos educativos abiertos que apoyen el proceso de enseñanza- aprendizaje en niños de nivel primaria con el fin de elevar la calidad educativa. Además se reconoce como su integración brinda un ambiente formativo para el desarrollo de los conocimientos y habilidades básicas de aprendizaje, específicamente en lectura."
+		
+	  
+	  },
       {
         "name": "Marketing digital",
         "speaker": "Erwin Ayvar",
@@ -574,8 +576,8 @@
         "description": "Todos los días, todo el tiempo generamos opiniones sobre los demás a partir su apariencia. En cuestión de segundos decidimos si son aptos o no para desarrollar determinadas actividades o estar a cargo de ciertas responsabilidades. De la misma forma los demás concretan sí confían o no en ti en un menor tiempo del que te tomó leer este párrafo. Conoce consejos clave para que tu imagen proyecte tu talento, demostrando tu valor y haciéndote sentir seguridad."
       },
       {
-        "name": "Bluetypo, diseño tipografico y programación",
-        "speaker": "Manolo Guerrero",
+        "name": "BlueTypo, diseño tipografico y programación",
+        "speaker": "Manolo Guerrero / Erendira Mancilla",
         "location": "Principal",
         "date": "2018-12-01",
         "time": "13:00",
