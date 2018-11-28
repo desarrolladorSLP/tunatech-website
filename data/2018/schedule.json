@@ -187,7 +187,7 @@
         "location": "Talleres",
         "date": "2018-11-30",
         "time": "12:00",
-        "type": "Taller - 2 horas",
+        "type": "Taller",
         "description": ""
       },
       {
@@ -255,7 +255,7 @@
       },
       {
         "name": "Colas de procesamiento en Java con spring boot + rabbitMQ",
-        "speaker": "Iván Uresti",
+        "speaker": "Iván Israel Uresti Adame",
         "location": "Talleres",
         "date": "2018-11-30",
         "time": "15:00",
@@ -449,7 +449,7 @@
       },
       {
         "name": "Programa tu primer robot",
-        "speaker": "Robogeek",
+        "speaker": "RoboGeek",
         "location": "Talleres",
         "date": "2018-12-01",
         "time": "10:00",
@@ -484,7 +484,7 @@
         "description": "¿Has experimentado eso de “se me paso el tiempo volando”? Si la respuesta es afirmativa, puede que hayas estado más cerca de saborear la zona de Flow de lo que imaginas. Hacer lo que te gusta, lo que amas, en lo que eres bueno que hasta te pagarían y que aparte puedas compartir con el mundo es lo que todos buscamos en esta vida. Sin embargo para lograrlo, es necesario trabajar desde tu interior reconectarte y reconocerte. ¿Y tú ya estás en tu zona de Flow? El mundo necesita gente que ame lo que hace"
       },
       {
-        "name": "Campamento negocios",
+        "name": "Business Camp",
         "speaker": "Erick Garrigós",
         "location": "Talleres",
         "date": "2018-12-01",
@@ -492,6 +492,15 @@
         "type": "Taller - 2 horas",
         "description": "Este taller tiene la finalidad de obtener y compartir ideas de negocio, darles forma y convertirlo en uno, se analizarán temas de diseño de negocios, prueba del producto, marketing para empresas, financiamiento, temas fiscales y legales."
       },
+	  {
+        "name": "Desarrollando Videojuegos desde cero",
+        "speaker": "Gamedev",
+        "location": "Talleres",
+        "date": "2018-12-01",
+        "time": "13:00",
+        "type": "Taller - 2 horas",
+        "description": ""
+	  },
       {
         "name": "Innova los procesos de aprendizaje con ayuda de las tecnologías de la información",
         "speaker": "Ana Valeria Valero Ramírez",
@@ -570,7 +579,7 @@
       {
         "name": "Business Intelligence - Percepción a través de Datos",
         "speaker": "Héctor Lara",
-        "location": "Talleres",
+        "location": "Startup",
         "date": "2018-12-01",
         "time": "13:00",
         "type": "Plática",
