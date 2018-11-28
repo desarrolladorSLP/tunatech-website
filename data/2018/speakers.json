@@ -89,7 +89,7 @@
     "name": "Hugo Morán",
     "role": "",
     "picture": "/assets/2018/images/speakers/hugo-moran.jpg",
-    "bio": "",
+    "bio": "Actualmente se desempeña como empresario en áreas como consultoría de negocios de nueva creación, construcción de casas prefabricadas, se encuentra desarrollando un fondo de inversión semilla para empresas. Es cofundador de Imparable Coworking un espacio enfocado en apoyar al desarrollo de profesionistas independientes y emprendedores. Ha sido conferencista en congresos en diferentes ciudades del país como Start Now, Mentor HUB, Empréndete, entre otros.",
     "socialMedia": {
     }
   },
@@ -205,9 +205,9 @@
   },
   {
     "name": "Alan Fragoso",
-    "role": "",
+    "role": "Director de Magnet Agencia Digital",
     "picture": "/assets/2018/images/speakers/alan-fragoso.jpg",
-    "bio": "",
+    "bio": "Director de Magnet Agencia Digital, con más de 10 años de experiencia profesional en áreas de Comercialización, Marketing y Social Management. Tacvbo de corazón.",
     "socialMedia": {
     }
   },
@@ -244,7 +244,7 @@
     }
   },
   {
-    "name": "Esaú Bojórquez Velázquez",
+    "name": "M.C. Esaú Bojórquez Velázquez",
     "role": "",
     "picture": "/assets/2018/images/speakers/esau-bojorquez.jpg",
     "bio": "Formación en Ingeniaría Bioquímica, especializado en tencnicas moleculares para el estudio y análisis de proteínas a nivel de molécula unica en y técnicas de prteómica comparativa. Actual candidato a Doctor en Ciencias en Biología molecular por el Instituto Potosino de Investigación Científica y Tecnológica.",
@@ -396,11 +396,20 @@
 	"socialMedia": {
     }
   },
+  
   {
     "name": "Javier Cabrera",
     "role": "",
     "picture": "/assets/2018/images/speakers/javier-cabrera.jpg",
     "bio": "",
+	"socialMedia": {
+    }
+  },
+  {
+    "name": "Eduardo Martínez Esparza",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/",
+    "bio": "Contador Público",
 	"socialMedia": {
     }
   },

@@ -57,25 +57,6 @@
         "type": "Conferencia",
         "description": "Conoce como el storytelling se desenvuelve en todas las industrias."
       },
-      {
-        "name": "Hecho en SLP: Emprendedores de SLP y el Mundo AC / Bracks/Sellers Co.",
-        "speaker": "Oscar Adrián Niño Garcia / Norma Rivera Balderrama y Nataly Correa con Maximiliano Contreras.",
-        "location": "Startup",
-        "date": "2018-11-29",
-        "time": "19:00",
-        "type": "",
-        "description": ""
-      },
-      
-      {
-        "name": "Hecho en SLP: Medias de Seda Boutique y MXESUNO",
-        "speaker": "Georgina Rivera Garrido / José Espinosa y Juan Mauricio",
-        "location": "Startup",
-        "date": "2018-11-29",
-        "time": "20:00",
-        "type": "",
-        "description": ""
-      },
 	  {
         "name": "Fuckup Nights",
         "speaker": "LCG Abraham González",
@@ -102,6 +83,33 @@
         "time": "20:00-22:00",
         "type": "Plática",
         "description": ""
+      },
+	  {
+        "name": "Hecho en SLP: A tu puerta, HappyOn, My VIrtual Library",
+        "speaker": "A Tu Puerta: Erik Ramiro Aguilar Cisneros",
+        "location": "Startup",
+        "date": "2018-11-29",
+        "time": "18:00",
+        "type": "",
+        "description": "Presentación de la Startup A Tu Puerta, App de servicios de entrega de abastos para usuarios y empresas."
+      },
+	  {
+        "name": "Hecho en SLP: Emprendedores de SLP y el Mundo AC / Bracks/Sellers Co.",
+        "speaker": "Oscar Adrián Niño Garcia / Norma Rivera Balderrama y Nataly Correa con Maximiliano Contreras",
+        "location": "Startup",
+        "date": "2018-11-29",
+        "time": "19:00",
+        "type": "",
+        "description": "Presentación de la Startup A Tu Puerta, App de servicios de entrega de abastos para usuarios y empresas."
+      },
+	  {
+        "name": "Hecho en SLP: Medias de Seda Boutique y MXESUNO",
+        "speaker": "Georgina Rivera Garrido / José Espinosa y Juan Mauricio",
+        "location": "Startup",
+        "date": "2018-11-29",
+        "time": "20:00",
+        "type": "",
+        "description": "Presentación de la Startup A Tu Puerta, App de servicios de entrega de abastos para usuarios y empresas."
       }
     ]
   },
@@ -126,15 +134,6 @@
         "type": "Taller - 2 horas",
         "description": "Taller para niños que tiene como objetivo acercar a los niños al mundo de los microoganismos y sus aplicaciones en la vida "
       },
-	  {
-        "name": "Consorcios CONACYT: El caso del CIIDZA",
-        "speaker": "Dr. Abraham Escobedo Moratilla",
-        "location": "Ciencia y tecnología",
-        "date": "2018-11-30",
-        "time": "16:00",
-        "type": "Conferencia",
-        "description": "Con el fin de “aplicar sus capacidades científicas y tecnológicas para resolver problemas y generar innovaciones en favor de diversos sectores sociales y económicos de las diferentes regiones del País”, desde el año 2017 el Sistema de Centros Públicos (CPTI’s) del Consejo Nacional de Ciencia y Tecnología (CONACYT) impulsó el modelo de Consorcios. Uno de los objetivos principales de estas entidades es hacer más efectivo el aparato científico y tecnológico del país, ya que al integrarse como Consorcio dos o más CPTI’s pueden aprovechar la infraestructura y los recursos humanos de éstos. Actualmente, se encuentran ya constituidos 26 Consorcios, entre los cuales se encuentra el Consorcio de Investigación, Innovación y Desarrollo para las Zonas Áridas (CIIDZA), el cual está conformado por seis CPTI’s, siendo su sede el Instituto Potosino de Investigación Científica y Tecnológica (IPICYT) en San Luis Potosí. Este Consorcio inició operaciones en junio de 2018 y tiene como misión “La conservación y aprovechamiento sostenible de la diversidad biológica y cultural de las zonas áridas, por medio de la investigación y la formación de recursos humanos con un enfoque transdisciplinario, participativo e innovador, para atender las necesidades de bienestar y desarrollo de la sociedad”. Durante esta plática se detallará el estado actual de Consorcios CONACYT en el país y se explicarán los objetivos estratégicos y visión del CIIDZA, el cual pretende alcanzar la consolidación como Consorcio en un proceso de tres años."
-      },
       {
         "name": "Mxsig, plataforma para el desarrollo de soluciones geoespaciales con software libre",
         "speaker": "Mario Cruz González",
@@ -145,15 +144,6 @@
 		"description": "El objetivo del taller es conoce la plataforma de código abierto para la web desarrollada por el INEGI, para implementar soluciones geomáticas que facilitan el uso, integración, interpretación, publicación y análisis de la información geográfica y estadística. Está plataforma está desarrollada utilizando módulos robustos de software de código libre, y está preparado para que los usuarios puedan potenciar el desarrollo de funcionalidades adicionales de acuerdo a sus necesidades, utilizando algunas de las alternativas de desarrollo disponibles actualmente."
       
       },
-      {
-        "name": "La importancia del emprendimiento social",
-        "speaker": "Jesús Leyva",
-        "location": "Startup",
-        "date": "2018-11-30",
-        "time": "10:00",
-        "type": "Conferencia",
-        "description": ""
-	  },
       {
         "name": "Marvel, Lee y la Propiedad Intelectual",
         "speaker": "MIBB. Norma Isabel García Calderón",
@@ -172,8 +162,9 @@
         "type": "Conferencia",
         "description": ""
       },
+	  
       {
-        "name": "Sifide: academia de emprendimiento",
+        "name": "Sifide: Academia de emprendimiento",
         "speaker": "",
         "location": "Startup",
         "date": "2018-11-30",
@@ -181,6 +172,15 @@
         "type": "Conferencia",
         "description": ""
       },
+	  {
+        "name": "La importancia del emprendimiento social",
+        "speaker": "Jesús Leyva",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "12:00",
+        "type": "Conferencia",
+        "description": ""
+	  },
       {
         "name": "Como NO conquistar al mundo con un Google Home",
         "speaker": "Juan Francisco Gerardo Hernández",
@@ -190,15 +190,7 @@
         "type": "Taller",
         "description": ""
       },
-      {
-        "name": "10 estrategias para emprender que funcionan",
-        "speaker": "Hugo",
-        "location": "Startup",
-        "date": "2018-11-30",
-        "time": "12:00",
-        "type": "Conferencia",
-        "description": ""
-      },
+      
       {
         "name": "Analizando sentimientos usando Machine Learning",
         "speaker": "Ricardo Rodríguez Ramírez",
@@ -225,6 +217,15 @@
         "time": "13:00",
         "type": "Plática",
         "description": "El emprendimiento disciplinado es una metodología creada por Bill Aulet (Director del Martin Trust Center for MIT Entrepreneurship) la cual es utilizada como base para el  “Innovation & Entrepreneurship Bootcamp” del Instituto Tecnológico de Massachussetts (MIT). En esta ponencia conocerás la experiencia de participar y como aplicar a este programa, El \"Bootcamp\" es un programa educativo diseñado por el MIT donde durante 7 días se busca llevar al limite trabajando un aproximado de 21 hrs diarias de trabajo (conferencias, clases, dinámicas de grupo y elaboración de entregables) en la identificación de problemáticas y la planeación de una solución que se viable y sustentable el programa tiene como objetivo la formación de innovadores, emprendedores y generadores de cambio con un gran compromiso por la comunidad en orden de transmitir y replicar lo aprendido en su contexto local."
+      },
+	  {
+        "name": "Consorcios CONACYT: El caso del CIIDZA",
+        "speaker": "Dr. Abraham Escobedo Moratilla",
+        "location": "Ciencia y tecnología",
+        "date": "2018-11-30",
+        "time": "16:00",
+        "type": "Conferencia",
+        "description": "Con el fin de “aplicar sus capacidades científicas y tecnológicas para resolver problemas y generar innovaciones en favor de diversos sectores sociales y económicos de las diferentes regiones del País”, desde el año 2017 el Sistema de Centros Públicos (CPTI’s) del Consejo Nacional de Ciencia y Tecnología (CONACYT) impulsó el modelo de Consorcios. Uno de los objetivos principales de estas entidades es hacer más efectivo el aparato científico y tecnológico del país, ya que al integrarse como Consorcio dos o más CPTI’s pueden aprovechar la infraestructura y los recursos humanos de éstos. Actualmente, se encuentran ya constituidos 26 Consorcios, entre los cuales se encuentra el Consorcio de Investigación, Innovación y Desarrollo para las Zonas Áridas (CIIDZA), el cual está conformado por seis CPTI’s, siendo su sede el Instituto Potosino de Investigación Científica y Tecnológica (IPICYT) en San Luis Potosí. Este Consorcio inició operaciones en junio de 2018 y tiene como misión “La conservación y aprovechamiento sostenible de la diversidad biológica y cultural de las zonas áridas, por medio de la investigación y la formación de recursos humanos con un enfoque transdisciplinario, participativo e innovador, para atender las necesidades de bienestar y desarrollo de la sociedad”. Durante esta plática se detallará el estado actual de Consorcios CONACYT en el país y se explicarán los objetivos estratégicos y visión del CIIDZA, el cual pretende alcanzar la consolidación como Consorcio en un proceso de tres años."
       },
       {
         "name": "COMIDA",
@@ -281,13 +282,13 @@
         "description": ""
       },
       {
-        "name": "Pro-Contable: emprendimiento social y ONG",
-        "speaker": "",
+        "name": "Emprendimiento social y sus diferencias con la ONG",
+        "speaker": "Eduardo Martínez Esparza",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "16:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "En ocasiones hay personas que tienen el ímpetu de ayudar a mejorar las condiciones de su entorno, pero no siempre tenemos claro mediante qué idea llevar acabo el desarrollo de una comunidad, o grupo social y cuál es la figura legal a convenir a nuestros intereses y al de la misma comunidad, en esta ponencia vas a conocer la diferencia entre un emprendimiento social y una ONG, describiremos las diferentes figuras legales que existen en México para este tipo de emprendimientos, y veremos que fuentes de fondeo están a tu disposición."
       },
       {
         "name": "Bitcoin Mty: Blockchain satelital",
@@ -353,8 +354,8 @@
         "description": "¿Cuándo vas a dejar de hacer tus robotsitos y ponerte a trabajar 'de a de verás'? Muchos apasionados de la robótica de competencia lo escuchamos seguido, a algunos los desalienta a otros nos suena a reto. Una historia de cómo convertir tu pasión en una forma de vida."
       },
       {
-        "name": "10 cosas que me gustaria saber antes de emprender",
-        "speaker": "Hugo Moran",
+        "name": "10 cosas que me gustaría saber antes de emprender",
+        "speaker": "Hugo Morán",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "18:00",
@@ -403,7 +404,7 @@
         "location": "Startup",
         "date": "2018-11-30",
         "time": "19:00",
-        "type": "Conferencia",
+        "type": "Plática",
         "description": ""
       },
       {
@@ -512,15 +513,16 @@
 		
 	  
 	  },
-      {
-        "name": "Marketing digital",
-        "speaker": "Erwin Ayvar",
+	  {
+        "name": "Business Intelligence - Percepción a través de Datos",
+        "speaker": "Héctor Lara",
         "location": "Startup",
         "date": "2018-12-01",
         "time": "11:00",
         "type": "Plática",
-        "description": ""
+        "description": "Aprende a usar herramientas para capturar y visualizar el flujo de información de tu organización para ganar percepción en la toma de decisiones"
       },
+      
       {
         "name": "Cómo crecer tu startup de 0 a 500k USD",
         "speaker": "Eduardo Aranda",
@@ -532,7 +534,7 @@
       },
       {
         "name": "El estudio del proteoma: En búsqueda de blancos moleculares para aplicaciones diversas",
-        "speaker": "Esaú Bojórquez Velázquez",
+        "speaker": "M.C. Esaú Bojórquez Velázquez",
         "location": "Ciencia y tecnología",
         "date": "2018-12-01",
         "time": "12:00",
@@ -576,15 +578,7 @@
         "type": "Conferencia",
         "description": ""
       },
-      {
-        "name": "Business Intelligence - Percepción a través de Datos",
-        "speaker": "Héctor Lara",
-        "location": "Startup",
-        "date": "2018-12-01",
-        "time": "13:00",
-        "type": "Plática",
-        "description": "Aprende a usar herramientas para capturar y visualizar el flujo de información de tu organización para ganar percepción en la toma de decisiones"
-      },
+      
       {
         "name": "¿Listo para tu primer fracaso?",
         "speaker": "Alan Fragoso",
@@ -592,7 +586,7 @@
         "date": "2018-12-01",
         "time": "13:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "Michael Jordan dijo: \"He fallado una y otra vez en mi vida, es por eso que he conseguido el éxito\". Escuchar historias de exito y fracaso no sirven de nada si no entendemos las moralejas que nos ayuden a lograr ese sueño de emprender."
       },
       
       {
@@ -601,15 +595,6 @@
         "location": "Startup",
         "date": "2018-12-01",
         "time": "14:00",
-        "type": "Conferencia",
-        "description": ""
-      },
-      {
-        "name": "Miltron",
-        "speaker": "",
-        "location": "Startup",
-        "date": "2018-12-01",
-        "time": "15:00",
         "type": "Conferencia",
         "description": ""
       }
