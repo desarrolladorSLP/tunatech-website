@@ -188,7 +188,7 @@
         "date": "2018-11-30",
         "time": "12:00",
         "type": "Taller",
-        "description": ""
+        "description": "En este taller conoceremos las características y capacidades del asistente \"Google Home\" y aprenderás a crear tu primera aplicación en la API \"Actions on Google\". Requisitos: Laptop, cuenta de Google, cuenta en GoogleDrive, de preferencia contar con smartphone Android y si gusta traer preparadas 2 imagenes (1920 x 1080 y192 x 192)"
       },
       
       {
@@ -326,6 +326,15 @@
         "type": "Plática",
         "description": ""
       },
+	  {
+        "name": "Programación Competitiva ICPC",
+        "speaker": "M. en C. Froylán Eloy Hernández Castro ",
+        "location": "Dev",
+        "date": "2018-11-30",
+        "time": "17:00",
+        "type": "Plática",
+        "description": "La Programación Competitiva es una excelente manera de aprender algoritmos, estimulando la mejora de las habilidades de programación, y reforzando el tipo de pensamiento requerido para la resolución de problemas. En esta charla hablaremos acerca de la programación competitiva a nivel licenciatura, en particular del concurso ICPC organizado por la ACM, en el contexto global, nacional y local de nuestra comunidad."
+	  },
       {
         "name": "Panel: Lo que nadie te dice sobre... SER UNA MUJER EN LA CIENCIA",
         "speaker": "Dra. Nadia Valentina Martínez Villegas, Dra. Mildred Quintana Ruiz, LCC. Rosa María Martínez Garcia,  Martha Patricia Rivera Torres",
@@ -432,7 +441,7 @@
         "date": "2018-11-30",
         "time": "20:00",
         "type": "",
-        "description": ""
+        "description": "Actualmente con el auge de la tecnología y la necesidad de estar siempre conectados, nos vuelven vulnerables a distintos tipos de delitos, desde la suplantación de identidad, robo de identidad, estafas por internet, etc, y asociado al uso de redes sociales pueden presentarse delitos como el grooming, sexting, ciberbullying, ciberacoso, etc. Desde la charla trataremos de analizar estos delitos de manera real, la trascendencia y el impacto que tienen actualmente, se proponen algunas estrategias de prevención y atención que pueden ser aplicadas en la vida cotidiana."
       }
     ]
   },
@@ -522,6 +531,15 @@
         "type": "Plática",
         "description": "Aprende a usar herramientas para capturar y visualizar el flujo de información de tu organización para ganar percepción en la toma de decisiones"
       },
+	  {
+        "name": "Emoticon Media: el engagement del social media y su vínculo emocional con los fans.",
+        "speaker": "Erwin Ayvar Ortega",
+        "location": "Principal",
+        "date": "2018-12-01",
+        "time": "11:00",
+        "type": "Conferencia",
+        "description": "Conferencia enfocada en el uso de las redes sociales como herramientas de engagement con los usuarios, así como la importancia de las emociones para fortalecer el vínculo de los fans con la marca a través de los canales digitales."
+      },
       
       {
         "name": "Cómo crecer tu startup de 0 a 500k USD",
@@ -576,7 +594,7 @@
         "date": "2018-12-01",
         "time": "13:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "¿Cómo te imaginas que cambiará la dinámica de las ciudades en las que habitamos? Echemos una mirada a lo que nos puede esperar en los siguientes años."
       },
       
       {

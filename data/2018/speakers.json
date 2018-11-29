@@ -12,13 +12,13 @@
   {
     "name": "Dra. Mildred Quintana Ruiz",
     "role": "",
-    "picture": "/assets/2018/images/speakers/mildred-quintana.png",
+    "picture": "/assets/2018/images/speakers/mildred-quintana.jpeg",
     "bio": ""
   },
   {
     "name": "Dr. Braulio Gutiérrez Medina",
     "role": "Investigador",
-    "picture": "/assets/2018/images/speakers/braulio-gutierrez.png",
+    "picture": "/assets/2018/images/speakers/braulio-gutierrez.jpg",
     "bio": "Originario de la Ciudad de México, realizó la licenciatura en Física en la Facultad de Ciencias de la UNAM, estudios de doctorado en UT-Austin (física atómica y óptica cuántica) y una estancia posdoctoral en la Universidad de Stanford (biofísica molecular). Desde el 2009, en su laboratorio en el IPICYT estudian sistemas biológicos utilizando técnicas de la biofísica experimental. Su trabajo recibió el Premio George Brown de la fundación UC-MEXUS (2010).",
     "socialMedia": {
     }
@@ -26,7 +26,7 @@
   {
     "name": "Dr. Abraham Escobedo Moratilla",
     "role": "Investigador",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/abraham-escobedo.jpg",
     "bio": "Doctorado en Biología Molecular. Actual Gerente del Consorcio de Investigación, Innovación y Desarrollo para las Zonas Áridas (CIIDZA) del Consejo Nacional de Ciencia y Tecnología (CONACYT), realizando actividades encaminadas a desarrollar un impacto económico y social mediante la investigación científica transdisciplinaria y su aplicación en las demandas de dicha región. Hasta el momento cuenta con diversas publicaciones indizadas en revistas internacionales, en los campos de la farmacología, la biotecnología farmacéutica y proteómica, y es miembro del Sistema Nacional de Investigadores Nivel 1, además de ser miembro activo de la Sociedad Mexicana de Proteómica, la Sociedad Latinoamericana de Glicobiología y la Sociedad Mexicana de Materiales.",
     "socialMedia": {
     }
@@ -58,7 +58,7 @@
   {
     "name": "M.C. Rafael Llamas Contreras",
     "role": "",
-    "picture": "/assets/2018/images/speakers/rafael-llamas.jpg",
+    "picture": "/assets/2018/images/speakers/rafael-llamas.png",
     "bio": "Del 2002 a la fecha se desempeña como profesor-investigador en la Universidad Politécnica de San Luis Potosí, dentro de la Academia de Tecnologías de la Información y Telemática Es instructor de CISCO Networking Academy, en donde ha impartido los cursos de Introducción a la CiberSeguridad y el curso de Fundamentos de Ciberseguridad a alumnos de la Universidad Politécnica principalmente.",
     "socialMedia": {
     }
@@ -94,6 +94,14 @@
     }
   },
   {
+    "name": "M. en C. Froylán Eloy Hernández Castro ",
+    "role": "Profesor de tiempo completo en el Área de Ciencias de la Computación de la UASLP",
+    "picture": "/assets/2018/images/speakers/eloy-hernandez.jpeg",
+    "bio": "Profesor de tiempo completo en el Área de Ciencias de la Computación de la UASLP, tiene el gusto por programar durante sus clases de tal manera que los alumnos puedan adquirir un aprendizaje pragmático. Sus principales intereses son el estudio de algoritmos, el desarrollo de software utilizando metodologías ágiles, y se apasiona por aprender tecnologías nuevas cada día.",
+	"socialMedia": {
+    }
+  },
+  {
     "name": "LCG Abraham González",
     "role": "FuckUp Nights",
     "picture": "/assets/2018/images/speakers/abraham-gonzalez.jpg",
@@ -120,7 +128,7 @@
   {
     "name": "Julieta Partida Franco",
     "role": "Consultora en Imagen Pública",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/julieta-partida.jpg",
     "bio": "Consultora en Imagen Pública, reconocida con el premio Excellentia Imago por el Colegio de Consultores en Imagen Pública. Especialista enfocada en la asesoría de personas y organizaciones en temas de imagen pública,  reputación digital y persuasión. Ha trabajado con figuras públicas, políticos, empresarios y emprendedores. Directora de Inside Out Consultoría en Imagen y socia fundadora de InMedia.",
     "socialMedia": {
     }
@@ -191,7 +199,7 @@
     "name": "Manolo Guerrero",
     "role": "BlueTypo",
     "picture": "/assets/2018/images/speakers/manolo-guerrero.jpg",
-    "bio": "",
+    "bio": "Diseñador Gráfico de nacionalidad Mexicana, especializado en diseño de tipografía y comunicación interactiva. En el año 2009 obtuvo el certificado de excelencia en diseño tipográfico, otorgado por el TypeDirectors Club NY, en el 2010 fue nominado a recibir el Prize of Prizes Design Award por el gobierno Alemán. De igual manera obtuvo el certificado de excelencia en diseño tipográfico en la Cuarta Bienal de Tipografía Tipos Latinos 2010; seleccionado en La Bienal del Cartel Bolivia BICeBé 2013, 2015, 2017; seleccionado en la Bienal Internacional del Cartel Ecuador 2016; seleccionado en Trnava Poster Triennial 2015, 2018 y premiado con el Silver A’ Design Award en Italia 2016. Eréndida: Licenciada en Diseño Gráfico por la Facultad del Hábitat y Maestra en Diseño Gráfico por el Instituto de Investigación y Posgrado de la Facultad del Hábitat, de la Universidad Autónoma de San Luis Potosí. Doctora en Arquitectura, Diseño y Urbanismo (DADU) por la Universidad Autónoma de Morelos (UAEM).",
     "socialMedia": {
     }
   },
@@ -199,7 +207,7 @@
     "name": "Erendira Mancilla",
     "role": "BlueTypo",
     "picture": "/assets/2018/images/speakers/erendira-mancilla.jpg",
-    "bio": "",
+    "bio": "Profesora investigadora de la licenciatura en Diseño Gráfico de la Universidad Autónoma de San Luis Potosí (UASLP) y del Instituto de Investigación y Posgrado de la Facultad del Hábitat (IIP) en el programa de la Maestría en Ciencias del Hábitat. Líder del Cuerpo Académico Diseño, Teoría y Arquitectura (CATDA). Ha publicado diversos artículos en revistas y ha formado parte de libros colectivos con temas referidos al diseño, de igual manera, ha sido ponente en eventos y congresos nacionales e internacionales. En lo que respecta al diseño de cartel, ha participado en diferentes exposiciones colectivas con temas sociales y culturales, su trabajo ha sido expuesto en México, Estados Unidos, España, Cuba, Bolivia, Perú, Irán y Rusia. Es miembro del “Colectivo Aliados” y fundadora y organizadora del proyecto “Mujeres Diseñando”.",
     "socialMedia": {
     }
   },
@@ -254,7 +262,7 @@
   {
     "name": "Arq. Mirell Betanzo del Angel",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/mirell-betanzo.jpg",
     "bio": "Egresada de arquitectura del Tec de Monterrey campus Puebla, trabajando en proyectos de diferentes escalas desde parques municipales hasta vivienda unifamiliar. Actualmente trabajo en el Instituto Municipal de Planeación que es un instituto encargado de desarrollar los nuevos planes urbanos para el municipio de San Luis Potosí.",
     "socialMedia": {
     }
@@ -351,7 +359,7 @@
   {
     "name": "Fran Cordero",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/fran-cordero.jpg",
     "bio": "",
     "socialMedia": {
     }
@@ -367,31 +375,39 @@
   {
     "name": "Dulce Juárez Cerna",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/dulce-juarez.png",
     "bio": "Dulce Juárez es fundadora de ProTribu Coworking, un espacio de colaboración y crecimiento para MUJERES emprendedoras, freelance, profesionistas y más.",
+    "socialMedia": {
+    }
+  },
+  {
+    "name": "Paulina Saavedra",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/paulina-saavedra.jpeg",
+    "bio": "Paulina es apasionada por el diseño y el desarrollo de negocios, Antes de fundar Difaro trabajó en Logisti/K de México en diversos proyectos de distribución y desarrollando estrategias comerciales para Canel’s y Metlife. Tiene una certificación en Economías Creativas por The Collegue of Central Europe en Republica Checa, especialidad en dirección de empresas por la Universidad de Burgos y una Licenciatura en Negocios Internacionales por el Tec de Monterrey.",
     "socialMedia": {
     }
   },
   {
     "name": "Jesús Leyva",
     "role": "",
-    "picture": "/assets/2018/images/speakers/jesus-leyva",
+    "picture": "/assets/2018/images/speakers/jesus-leyva.png",
     "bio": "",
     "socialMedia": {
     }
   },
   {
-    "name": "Erwin Ayvar",
+    "name": "Erwin Ayvar Ortega",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
-    "bio": "",
+    "picture": "/assets/2018/images/speakers/erwyn-ayvar.jpg",
+    "bio": "Pionero en gestión de estrategias de mercadotecnia y comunicación digital, experto en latransición off- line a on- line, llevando a marcas y negocios a contar presencia digital que permite su posicionamiento y crecimiento. Ha colaborado con empresas a nivel nacional en temas relacionados con el Social Media, Estrategias Digitales y Posicionamiento Digital Escuela Bancaria y Comercial, The Barber´s Spa, Los 40, La KeBuena y muchas empresas más.",
     "socialMedia": {
     }
   },
   {
     "name": "Gerardo Daniel Padilla",
     "role": "",
-    "picture": "/assets/2018/images/speakers/gerardo-padilla.jpeg",
+    "picture": "/assets/2018/images/speakers/gerardo-padilla.jpg",
     "bio": "",
 	"socialMedia": {
     }
