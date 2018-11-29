@@ -2,33 +2,25 @@
   {
     "title": "Jueves 29 de Noviembre",
     "events": [
+	 {
+        "name": "Registro",
+        "speaker": "",
+        "location": "Principal",
+        "date": "2018-11-29",
+        "time": "16:00",
+        "type": "Registro",
+        "description": ""
+      },
 	  {
         "name": "Inauguración TunaTech 2018",
-        "speaker": "",
+        "speaker": "Patrocinadores y organizadores",
         "location": "Principal",
         "date": "2018-11-29",
         "time": "17:00",
         "type": "Inauguración",
         "description": ""
       },
-      {
-        "name": "Registro",
-        "speaker": "",
-        "location": "",
-        "date": "2018-11-29",
-        "time": "16:00",
-        "type": "Registro",
-        "description": ""
-      },
-      {
-        "name": "Apertura",
-        "speaker": "Patrocinadores y organizadores",
-        "location": "",
-        "date": "2018-11-29",
-        "time": "17:00",
-        "type": "Presentación",
-        "description": ""
-      },
+      
       {
         "name": "1000 maneras de morir si no sabes programar",
         "speaker": "Dr. Héctor Gerardo Pérez González",
@@ -39,11 +31,11 @@
         "description": ""
       },
       {
-        "name": "Expo AZIOS",
-        "speaker": "",
+        "name": "Azios Leyendas Potosinas VR",
+        "speaker": "Aaron Alejandro Argot Palacios, Luis Abraham Torres Galicia, José Roberto Carrera González, José Arturo Treviño Sánchez, Esteban Luna Faitt, Andrea Fernanda Cárdenas Pérez, Fátima Cecilia Ramos Bárcenas, Ana Karen Hernández Maya, Omar Ortiz Diaz",
         "location": "Dev",
         "date": "2018-11-29",
-        "time": "18:00-20:00",
+        "time": "18:00-22:00",
         "type": "",
         "description": ""
       },
@@ -89,7 +81,7 @@
         "speaker": "A Tu Puerta: Erik Ramiro Aguilar Cisneros",
         "location": "Startup",
         "date": "2018-11-29",
-        "time": "18:00",
+        "time": "18:00-22:00",
         "type": "",
         "description": "Presentación de la Startup A Tu Puerta, App de servicios de entrega de abastos para usuarios y empresas."
       },
@@ -98,7 +90,7 @@
         "speaker": "Oscar Adrián Niño Garcia / Norma Rivera Balderrama y Nataly Correa con Maximiliano Contreras",
         "location": "Startup",
         "date": "2018-11-29",
-        "time": "19:00",
+        "time": "18:00-22:00",
         "type": "",
         "description": "Presentación de la Startup A Tu Puerta, App de servicios de entrega de abastos para usuarios y empresas."
       },
@@ -107,7 +99,7 @@
         "speaker": "Georgina Rivera Garrido / José Espinosa y Juan Mauricio",
         "location": "Startup",
         "date": "2018-11-29",
-        "time": "20:00",
+        "time": "18:00-22:00",
         "type": "",
         "description": "Presentación de la Startup A Tu Puerta, App de servicios de entrega de abastos para usuarios y empresas."
       }
@@ -173,13 +165,13 @@
         "description": ""
       },
 	  {
-        "name": "La importancia del emprendimiento social",
-        "speaker": "Jesús Leyva",
+        "name": "Mentalidad de niño y emprendimiento social",
+        "speaker": "Jesús Leyva Quiroz ",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "12:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "Una reflexión sobre la mentalidad que normalmente tenemos con una introducción al emprendimiento social a través del ejemplo de un niño y un enfoque para aterrizar nuestras ideas una vez que las tenemos."
 	  },
       {
         "name": "Como NO conquistar al mundo con un Google Home",
@@ -273,13 +265,13 @@
         "description": "Introducción a las criptomonedas por parte de bitcoin, su historia, bases del blockchain, escalabilidad, oportunidades."
       },
       {
-        "name": "Diseño organizacional ONG/Social",
+        "name": "ADN social: diseño para agentes de futuro",
         "speaker": "Gerardo Daniel Padilla",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "15:00",
-        "type": "",
-        "description": ""
+        "type": "Plática",
+        "description": "¿Cómo podemos a partir de metodologías de Desing Thinking y Project Management, visualizar y prototipar emprendimientos sociales a futuro?"
       },
       {
         "name": "Emprendimiento social y sus diferencias con la ONG",
@@ -324,7 +316,7 @@
         "date": "2018-11-30",
         "time": "17:00",
         "type": "Plática",
-        "description": ""
+        "description": "Como pitchar un emprendimiento a los inversionistas sin ser mordido en el proceso."
       },
 	  {
         "name": "Programación Competitiva ICPC",
@@ -363,13 +355,13 @@
         "description": "¿Cuándo vas a dejar de hacer tus robotsitos y ponerte a trabajar 'de a de verás'? Muchos apasionados de la robótica de competencia lo escuchamos seguido, a algunos los desalienta a otros nos suena a reto. Una historia de cómo convertir tu pasión en una forma de vida."
       },
       {
-        "name": "10 cosas que me gustaría saber antes de emprender",
-        "speaker": "Hugo Morán",
+        "name": "Ludificación (Gamificación) en la enseñanza del diseño industrial",
+        "speaker": "Kubal",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "18:00",
         "type": "Plática",
-        "description": ""
+        "description": "¿Por qué jugamos? ¿Qué sentimos al vivir esta experiencia? ¿Qué es lo que la hace divertida y satisfactoria? ¿Cómo podemos implementar esta metodología en la enseñanza de diseño?"
       },
       {
         "name": "Expert Nights: La importancia de registrar y proteger tu marca",
@@ -408,13 +400,13 @@
         "description": "Las metodologías de los hackers son comúnmente los mismos, las empresas (todo tipo) no toma en cuenta la criticidad de estos, durante la platica abordaremos los vectores más usados así cómo las posibles soluciones a estos escenarios."
       },
       {
-        "name": "Lenguaje corporal en los negocios",
+        "name": "Lenguaje corporal, aprende a escuchar lo que la gente dice, y no dice",
         "speaker": "Fran Cordero",
         "location": "Startup",
         "date": "2018-11-30",
         "time": "19:00",
         "type": "Plática",
-        "description": ""
+        "description": "Cada día, el desarrollo de habilidades sociales es más importante en nuestra sociedad. El generar empatía, prevenir objeciones mediante acciones y no palabras, e incluso el recalibrar tu actitud previamente alguna entrevista son solo algunos de los beneficios del proyectar tu lenguaje corporal de manera consciente."
       },
       {
         "name": "El morbo y la curiosidad científica",
@@ -424,6 +416,15 @@
         "time": "20:00",
         "type": "Plática",
         "description": ""
+      },
+	  {
+        "name": "Tendencias Empresariales y Laborales para el Futuro",
+        "speaker": "Antonio Malacara",
+        "location": "Startup",
+        "date": "2018-11-30",
+        "time": "20:00",
+        "type": "Conferencia",
+        "description": "Esta conferencia se compone de los siguientes temas: 1. Las generaciones laborales. 2. Los actuales retos económicos. 3. Panorama laboral en México y el mundo."
       },
       {
         "name": "Observación de estrellas",
@@ -609,12 +610,12 @@
       
       {
         "name": "Mega tendencias tecnológicas en el diseño",
-        "speaker": "Difaro",
+        "speaker": "Paulina Saavedra",
         "location": "Startup",
         "date": "2018-12-01",
         "time": "14:00",
         "type": "Conferencia",
-        "description": ""
+        "description": "El actualizarnos contantemente sobre lo que está ocurriendo en el mundo es clave para innovar y estar un paso adelante al desarrollar nuevos proyectos. Es por eso que identificar fuentes de información como The World Trade Forum, Blogs reconocidos a nivel mundial e Instituciones enfocadas en investigación y creatividad nos ayuda a mantenernos actualizados e identificar las mega tendencias globales en diferentes sectores para aplicarlas en nuestros proyectos."
       }
     ]
   }

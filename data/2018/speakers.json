@@ -358,9 +358,9 @@
   },
   {
     "name": "Fran Cordero",
-    "role": "",
+    "role": "DIFARO",
     "picture": "/assets/2018/images/speakers/fran-cordero.jpg",
-    "bio": "",
+    "bio": "Siempre curioso con los detalles, a Fran le fascina escuchar las historias sus clientes en Difaro. Para comprender el entorno interno y externo de las empresas y la relación con sus clientes, y así generar nuevos productos o servicios para las compañías.",
     "socialMedia": {
     }
   },
@@ -375,24 +375,24 @@
   {
     "name": "Dulce Juárez Cerna",
     "role": "",
-    "picture": "/assets/2018/images/speakers/dulce-juarez.png",
+    "picture": "/assets/2018/images/speakers/dulce-juarez.jpeg",
     "bio": "Dulce Juárez es fundadora de ProTribu Coworking, un espacio de colaboración y crecimiento para MUJERES emprendedoras, freelance, profesionistas y más.",
     "socialMedia": {
     }
   },
   {
     "name": "Paulina Saavedra",
-    "role": "",
+    "role": "Fundadora de Difaro",
     "picture": "/assets/2018/images/speakers/paulina-saavedra.jpeg",
     "bio": "Paulina es apasionada por el diseño y el desarrollo de negocios, Antes de fundar Difaro trabajó en Logisti/K de México en diversos proyectos de distribución y desarrollando estrategias comerciales para Canel’s y Metlife. Tiene una certificación en Economías Creativas por The Collegue of Central Europe en Republica Checa, especialidad en dirección de empresas por la Universidad de Burgos y una Licenciatura en Negocios Internacionales por el Tec de Monterrey.",
     "socialMedia": {
     }
   },
   {
-    "name": "Jesús Leyva",
+    "name": "Jesús Leyva Quiroz",
     "role": "",
     "picture": "/assets/2018/images/speakers/jesus-leyva.png",
-    "bio": "",
+    "bio": "Jesús Leyva es Licenciado en Negocios Internacionales por el Tecnológico de Monterrey. Participó en un programa de intercambio en York University en Canadá durante 2012 y es miembro de la primera generación del Young Leaders of the Americas Initiative que fue lanzada por el Ex presidente de los Estados Unidos Barack Obama. Ha colaborado durante 2017 y 2018 en distintos eventos con el Consulado de los Estados Unidos en Monterrey, Nuevo Laredo y Ciudad Juárez.",
     "socialMedia": {
     }
   },
@@ -408,7 +408,7 @@
     "name": "Gerardo Daniel Padilla",
     "role": "",
     "picture": "/assets/2018/images/speakers/gerardo-padilla.jpg",
-    "bio": "",
+    "bio": "Es cofundador de Traza MX y así como consultor, investigador, promotor y activista en temas como democracia y desarrollo cultural, open data, high impact projects, etnografía, participación social, entre otras. Ha trabajado con diversos gobiernos en la implementación de estrategias para el desarrollo cultural y social.",
 	"socialMedia": {
     }
   },
@@ -417,15 +417,31 @@
     "name": "Javier Cabrera",
     "role": "",
     "picture": "/assets/2018/images/speakers/javier-cabrera.jpg",
-    "bio": "",
+    "bio": "Maestro en Comercialización de Ciencia y Tecnología del Instituto de Innovación, Creatividad y Capital (IC2), Universidad de Texas en Austin y Licenciado en Finanzas por la Universidad de Illinois en Urbana Champaign. Experiencia laboral en oficinas de gobierno como el CONCYTEG, la SEDECO Guanajuato, IPICYT en San Luis Potosí; también empresas privadas como Walgreens Co., Tara Energy en Houston Texas y Pacific Domes así como otras empresas con actividad comercial tanto en Estados Unidos como en México.",
+	"socialMedia": {
+    }
+  },
+  {
+    "name": "Antonio Malacara",
+    "role": "Couch Ontológico",
+    "picture": "/assets/2018/images/speakers/antonio-malacara.jpg",
+    "bio": "Antonio Malacara Aguayo es coach ontológico y capacitador externo enfocado en el desarrollo de habilidades profesionales en la firma Alter Developing & Coaching de la cual es director y fundador. Cuenta con la acreditación de la firma Coofex Coaching Center, S.A. de C.V. (Cocrear) de la Ciudad de México y por el Sistema Nacional de Competencias (Conocer) de la Secretaría de Educación Pública se encuentra certificado para la ejecución de sesiones de coaching y para dar cursos de capacitación de manera presencial. También forma parte del grupo de Jóvenes Empresarios de la Canaco y es miembro de Industriales Potosinos (Ipac).",
 	"socialMedia": {
     }
   },
   {
     "name": "Eduardo Martínez Esparza",
+    "role": "Pro Contable",
+    "picture": "/assets/2018/images/speakers/pro_contable.png",
+    "bio": "Contador Público y experto analista en finanzas empresariales. Fundador de la empresa ProContable del Potosí, que ofrece servicios de seguimiento y asesoría a empresas especializadas en diferentes ramas.",
+	"socialMedia": {
+    }
+  },
+  {
+    "name": "Kubal",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
-    "bio": "Contador Público",
+    "picture": "/assets/2018/images/speakers/kubal.jpg",
+    "bio": "Colectivo de diseño que busca difundir la labor de su profesión, promover buenas prácticas, congregar y fortalecer al gremio de diseño industrial en SLP.",
 	"socialMedia": {
     }
   },
