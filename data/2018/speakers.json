@@ -11,9 +11,9 @@
   },
   {
     "name": "Dra. Mildred Quintana Ruiz",
-    "role": "",
+    "role": "Investigadora",
     "picture": "/assets/2018/images/speakers/mildred-quintana.jpeg",
-    "bio": ""
+    "bio": "La Dra. Mildred Quintana obtuvo el título de Licenciada en Química y Doctorado en Ciencias por parte de la Universidad Metropólitana - Iztapalapa (UAM-I)Actualmente trabaja como Profesor-Investigador en el Instituto de Física \"Manuel Sandoval Vallarta\", de la Universidad Autónoma de San Luis Potosí, adscrita al Sistema Nacional de Investigadores (SNI) nivel II; pertenece al cuerpo académico de Magnetismo y Materiales Magnéticos; es responsable del Laboratorio de Materiales Nanoestructurados Multifuncionales de la UASLP.Sus temas de investigación son: nanoestructuras de carbono, grafeno, fulereno y nanotubos. Materiales auto ensamblados, reconocimiento molecular y los bionanomateriales; Funcionalización Química de Nanoestructuras, Sistemas Autoensamblados y Reconocimiento Molecular, Interacciones Biofisicoquímicas en la Interface Bio-Nano.Recientemente ganó la Cátedra Moshinky y recibirá el Premio de la Academia Mexicana de Ciencia el próximo año."
   },
   {
     "name": "Dr. Braulio Gutiérrez Medina",
@@ -32,8 +32,16 @@
     }
   },
   {
+    "name": "Dra. Nadia Valentina Martínez Villegas",
+    "role": "Investigadora",
+    "picture": "/assets/2018/images/speakers/valentina-martinez.png",
+    "bio": "Investigador titular \"B\" División de Geociencias Aplicadas IPICYT ",
+    "socialMedia": {
+    }
+  },
+  {
     "name": "MC. Daniel Barrón Pastor",
-    "role": "",
+    "role": "Coordinador del Observatorio Tecnológico del IPICYT",
     "picture": "/assets/2018/images/speakers/daniel-barron-pastor.jpg",
     "bio": "Actualmente dirige el Observatorio Tecnológico del IPICYT, donde desarrolla un modelo de administración de propiedad intelectual que fomenta la producción de tecnologías patentables y su producción, la transferencia de tecnología y el desarrollo de negocios tecnológicos. Asimismo, coordina servicios de propiedad intelectual para empresas y participa como académico en temas de propiedad intelectual, economía de la tecnología y administración de negocios tecnológicos. ",
     "socialMedia": {
@@ -105,7 +113,7 @@
     "name": "LCG Abraham González",
     "role": "FuckUp Nights",
     "picture": "/assets/2018/images/speakers/abraham-gonzalez.jpg",
-    "bio": "",
+    "bio": "Egresado de la carrera en Comunicación Gráfica por la Universidad del Centro de México UCEM ha estado involucrado en proyectos de artes visuales participando en el fotovisión en el Instituto Potosino de Bellas Artes en el año 2011. Seleccionado en la primera edición especial de fotografía de la revista RGB. Ha realizado proyectos audiovisuales  y de identidad grafica para diversas marcas e instituciones de sector publico y privado, ha trabajado en el Centro de Medios de la UCEM realizando campañas publicitarias desde ideas creativas, motion graphics y audiovisuales.",
     "socialMedia": {
     }
   },
@@ -113,7 +121,7 @@
     "name": "LDI Ángel Romo",
     "role": "FuckUp Nights",
     "picture": "/assets/2018/images/speakers/angel-romo.jpg",
-    "bio": "",
+    "bio": "Soy Diseñador industrial, tengo 10 de estudios en medicina natural, actualmente trabajo cultivando hongos medicinales y biomateriales",
     "socialMedia": {
     }
   },
@@ -121,7 +129,7 @@
     "name": "M.C. Selene García",
     "role": "FuckUp Nights",
     "picture": "/assets/2018/images/speakers/selene-garcia.jpg",
-    "bio": "",
+    "bio": "Ingeniera en Geomática por la UASLP. Maestra en Geociencias por el Instituto Potosino de Investigación Científica y Tecnológica (IPICYT) con estancia académica de investigación en la Universidad Libre de Berlín (Freie Universität Berlin). Actualmente se desempeña como docente en la Facultad de Ingeniería de la UASLP desde el 2014. Co-fundadora de Geodrones, Ingeniería y Consultoría S.A. de C.V.",
     "socialMedia": {
     }
   },
@@ -152,7 +160,7 @@
   {
     "name": "LAE Francisco Escalante",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/francisco-escalante.jpg",
     "bio": "",
     "socialMedia": {
     }
@@ -160,7 +168,7 @@
   {
     "name": "LED Roman Cuevas",
     "role": "",
-    "picture": "/assets/2018/images/speakers/",
+    "picture": "/assets/2018/images/speakers/roman-cuevas.jpg",
     "bio": "",
     "socialMedia": {
     }
@@ -329,7 +337,7 @@
   {
     "name": "Ernesto Castillejos",
     "role": "Consultor de Seguridad Informática",
-    "picture": "/assets/2017/images/speakers/ernesto-castillejos.jpg",
+    "picture": "/assets/2018/images/speakers/ernesto-castillejos.jpg",
     "bio": "Ingeniero en Sistemas Computacionales, Consultor de Seguridad Informática, Pentester, amante del software libre y la pizza, ha trabajado como Asesor en Servicios de seguridad para el sector Privado y Militar e impartido platicas en distintos congresos; cuenta con 15 años de experiencia en el medio."
   },
   {
@@ -345,14 +353,6 @@
     "role": "Creador de contenidos educativos en Fundación Teamapping",
     "picture": "/assets/2018/images/speakers/alejandro-medina.jpg",
     "bio": "Alejandro Medina es creador de contenidos educativos en Fundación Teamapping, egresado de la Clase 8 del programa “MIT Innovation & Entrepreneurship Bootcamp” del Instituto Tecnológico de Massachussets (MIT) y Titulado de la Licenciatura en Tecnologías e Información en UDG Virtual. Alejandro también es co-fundador y desarrollador en la asociación de arte electrónico Sexymapping S.A. de C.V., y catedrático en la Lic. de Contenidos Digitales Interactivos en la Universidad Cuauhtémoc Plantel San Luis Potosí.",
-    "socialMedia": {
-    }
-  },
-  {
-    "name": "Diana Rodríguez",
-    "role": "",
-    "picture": "/assets/2018/images/speakers/",
-    "bio": "",
     "socialMedia": {
     }
   },
@@ -393,6 +393,14 @@
     "role": "",
     "picture": "/assets/2018/images/speakers/jesus-leyva.png",
     "bio": "Jesús Leyva es Licenciado en Negocios Internacionales por el Tecnológico de Monterrey. Participó en un programa de intercambio en York University en Canadá durante 2012 y es miembro de la primera generación del Young Leaders of the Americas Initiative que fue lanzada por el Ex presidente de los Estados Unidos Barack Obama. Ha colaborado durante 2017 y 2018 en distintos eventos con el Consulado de los Estados Unidos en Monterrey, Nuevo Laredo y Ciudad Juárez.",
+    "socialMedia": {
+    }
+  },
+  {
+    "name": "Rogelio Castillo Morquecho",
+    "role": "",
+    "picture": "/assets/2018/images/speakers/rogelio-castillo.jpg",
+    "bio": "Rogelio es un profesor que gusta de involucrarse en todos los aspectos del diseño y desarrollo de videojuegos.",
     "socialMedia": {
     }
   },
