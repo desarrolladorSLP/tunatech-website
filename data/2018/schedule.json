@@ -107,6 +107,7 @@
         "type": "",
         "description": "Presentación de la Startup A Tu Puerta, App de servicios de entrega de abastos para usuarios y empresas."
       }
+	  
     ]
   },
   {
@@ -448,6 +449,15 @@
         "time": "20:00",
         "type": "",
         "description": "Actualmente con el auge de la tecnología y la necesidad de estar siempre conectados, nos vuelven vulnerables a distintos tipos de delitos, desde la suplantación de identidad, robo de identidad, estafas por internet, etc, y asociado al uso de redes sociales pueden presentarse delitos como el grooming, sexting, ciberbullying, ciberacoso, etc. Desde la charla trataremos de analizar estos delitos de manera real, la trascendencia y el impacto que tienen actualmente, se proponen algunas estrategias de prevención y atención que pueden ser aplicadas en la vida cotidiana."
+      },
+	  {
+        "name": "Los Barbahanes",
+        "speaker": "",
+        "location": "Palapa",
+        "date": "2018-11-30",
+        "time": "21:00",
+        "type": "Presentación",
+        "description": "Rock en vivo"
       }
     ]
   },
