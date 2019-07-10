@@ -30,6 +30,7 @@ var config = {
   entry: {
     tunatech2017: './assets/2017/js/app.js',
     tunatech2018: './assets/2018/js/app.js',
+    tunatech2019: './assets/2019/js/app.js',
   },
   output: {
     path: __dirname + '/dist',
@@ -44,10 +45,17 @@ var config = {
       chunks: ['tunatech2017']
     }),
     new HtmlWebpackPlugin({
+      template: 'src/tunatech-2018.html',
+      inject: 'head',
+      filename: 'tunatech-2018.html',
+      hash: true,
+      chunks: ['tunatech2018']
+    }),
+    new HtmlWebpackPlugin({
       template: 'src/index.html',
       inject: 'head',
       hash: true,
-      chunks: ['tunatech2018']
+      chunks: ['tunatech2019']
     }),
     new CopyWebpackPlugin([
       { from: 'assets/', to: 'assets/' },

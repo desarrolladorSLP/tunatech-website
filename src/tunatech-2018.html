@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="TunaTechApp">
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+                      'gtm.start':
+                          new Date().getTime(), event: 'gtm.js'
+                  });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KGCLSH7');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+
+    <meta content="http://tunatech.mx/index.html" property="og:url"/>
+    <meta content="TunaTech 2018" property="og:title"/>
+    <meta content="Tecnología, ciencia, innovación: Pláticas y talleres" property="og:description"/>
+    <meta content="http://tunatech.mx/assets/2018/images/share-image.png" property="og:image"/>
+
+    <title>TunaTech 2018</title>
+
+    <link crossorigin="anonymous"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+          rel="stylesheet">
+    <link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+          integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+          rel="stylesheet">
+    <link href="https://unpkg.com/ionicons@4.4.7/dist/css/ionicons.min.css" rel="stylesheet">
+    <link href="./assets/2018/css/main.css" rel="stylesheet"/>
+
+	<!-- favicon -->
+	<link rel="apple-touch-icon" sizes="57x57" href="assets/2018/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="assets/2018/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="assets/2018/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="assets/2018/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="assets/2018/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="assets/2018/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="assets/2018/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="assets/2018/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/2018/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="assets/2018/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/2018/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="assets/2018/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/2018/favicon/favicon-16x16.png">
+	<link rel="manifest" href="assets/2018/favicon/manifest.json">
+	
+    <script>
+        var event = 'tunatech-2018';
+    </script>
+</head>
+
+<body data-spy="scroll" data-target="#site-nav" ng-controller="HomeController as vm">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KGCLSH7"
+            style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<nav class="navbar navbar-fixed-top navbar-custom" id="site-nav">
+    <div class="container">
+        <div class="navbar-header">
+
+            <!-- logo -->
+            <div class="site-branding">
+                <a class="logo" href="index.html">
+                    <!-- logo image  -->
+                    <img alt="Logo" src="assets/2018/images/logo-tunatech-2018.png">
+                </a>
+            </div>
+
+            <button aria-expanded="false" class="navbar-toggle collapsed"
+                    data-target="#navbar-items"
+                    data-toggle="collapse"
+                    type="button">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+        </div>
+        <!-- /.navbar-header -->
+
+        <div class="collapse navbar-collapse" id="navbar-items">
+            <ul class="nav navbar-nav navbar-right">
+
+                <!-- navigation menu -->
+                <li class="active"><a data-scroll href="#about">Acerca de</a></li>
+                <li><a data-scroll href="#speakers">Expositores</a></li>
+                <li><a data-scroll href="#schedule">Agenda</a></li>
+                <li><a data-scroll href="#partner">Patrocinadores</a></li>
+                <!-- <li><a data-scroll href="#">Sponsorship</a></li> -->
+                <li><a data-scroll href="#faq">Preguntas</a></li>
+                <!--<li><a data-scroll href="#photos">Fotos</a></li>-->
+				<li><a data-scroll href="#location">Ubicación</a></li>
+
+            </ul>
+        </div>
+    </div>
+    <!-- /.container -->
+</nav>
+
+<header class="site-header site-header-2018 valign-center" id="site-header">
+    <div class="intro">
+
+        <h2>29 de Noviembre al 1 de Diciembre, 2018 / IPICYT, SLP</h2>
+        <h1>Tecnología + Ciencia = Innovación</h1>
+        <p>Pláticas, Talleres y Conferencias</p>
+        <a class="btn btn-white"
+           href="https://www.eventbrite.com/e/tuna-tech-2018-tickets-51682636156"
+           target="_blank">Registrate</a>
+
+    </div>
+</header>
+
+<section class="section about" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+
+                <h3 class="section-title purple">Acerca de</h3>
+                <p style="text-align: justify">TunaTech es un evento enfocado en reunir comunidades
+                    de tecnología,
+                    emprendimiento, makers, creativos,
+                    científicos y profesionistas de diferentes ramas. Buscamos crear lazos
+                    interdisciplinarios que
+                    sumen
+                    esfuerzos y resulten en la creación de proyectos e ideas nuevas que detonen el
+                    desarrollo de
+                    nuestra
+                    ciudad.
+                </p>
+            </div>
+            <!-- /.col-sm-6 -->
+
+            <div class="col-sm-6">
+
+                <h3 class="section-title multiple-title purple">Objetivo</h3>
+
+                <p style="text-align: justify">Nuestro objetivo es fomentar el uso de la ciencia, la
+                    tecnología y
+                    la innovación, así como el crear
+                    dinámicas entre áreas con características en común para que aumente la
+                    visión del panorama
+                    actual
+                    de los asistentes al evento mientras conocen otros temas afines a sus
+                    intereses.</p>
+
+                <!--<ul class="list-arrow-right">
+
+                    <li>Learn from the best Asian Social Media Experts &amp; Case Studies</li>
+                    <li>Have dedicated 2-to-1 meetings with the experts</li>
+                    <li>Reach more consumers for less by learning new digital media skills</li>
+                    <li>Save money when spending in online advertising</li>
+
+                </ul>-->
+
+            </div>
+            <!-- /.col-sm-6 -->
+        </div>
+        <!-- /.row -->
+
+        <div class="row">
+            <div class="col-sm-12">
+                <h3 class="section-title purple">Comunidades</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-2 logo-container">
+                <img alt="epic" class="logo" src="/assets/2018/images/community/epic.png"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+                <img alt="fablab" class="logo" src="/assets/2018/images/community/fablab.jpg"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+                <img alt="DesarrolladorSLP" class="logo"
+                     src="/assets/2018/images/community/desarrolladorSLP.png"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+                <img alt="labgeek" class="logo" src="/assets/2018/images/community/labGeek.png"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+                <img alt="technovation" class="logo"
+                     src="/assets/2018/images/community/technovation.jpg"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+                <img alt="fuckupnights" class="logo"
+                     src="/assets/2018/images/community/fuckup.png"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-2 logo-container">
+                <img alt="imparable" class="logo"
+                     src="/assets/2018/images/community/imparable.png"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+                <img alt="kubal" class="logo" src="/assets/2018/images/community/kubal.jpg"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+                <img alt="robogeek" class="logo" src="/assets/2018/images/community/robogeek.png"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+                <img alt="voluntariosIPSLP" class="logo"
+                     src="/assets/2018/images/community/voluntariosIPSLP.png"/>
+            </div>
+            <div class="col-sm-2 logo-container">
+
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+</section>
+
+<section class="section bg-image-1 facts text-center" id="facts">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+
+                <i class="ion-ios-calendar"></i>
+                <h3>2018<br>29 Nov al 1 Dic</h3>
+
+            </div>
+            <div class="col-sm-3">
+
+                <i class="ion-ios-compass"></i>
+                <h3>San Luis Potosí, S.L.P.<br>México</h3>
+
+            </div>
+            <div class="col-sm-3">
+
+                <i class="ion-ios-pricetags"></i>
+                <h3>1000<br>Entradas gratuitas</h3>
+
+            </div>
+            <div class="col-sm-3">
+
+                <i class="ion-ios-mic"></i>
+                <h3>60+<br>Expositores</h3>
+
+            </div>
+        </div>
+        <!-- row -->
+    </div>
+    <!-- container -->
+</section>
+
+<section class="section speakers" id="speakers">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="section-title">Expositores</h2>
+            </div>
+        </div>
+
+        <div class="row" ng-repeat="row in vm.speakers">
+            <div class="col-md-3" ng-repeat="speaker in row">
+                <div class="speaker">
+                    <figure ng-click="vm.activateSpeakerLightBox(speaker)">
+                        <img alt="" class="img-responsive center-block"
+                             ng-src="{{ speaker.picture }}"
+                             title="">
+                    </figure>
+                    <h4>{{ speaker.name }}</h4>
+                    <p>{{ speaker.role }}</p>
+                    <ul class="social-block" ng-if="speaker.socialMedia">
+                        <li ng-if="speaker.socialMedia.twitter">
+                            <a ng-href="{{ speaker.socialMedia.twitter }}"><i
+                                    class="ion-logo-twitter"></i></a>
+                        </li>
+                        <li ng-if="speaker.socialMedia.facebook">
+                            <a ng-href="{{ speaker.socialMedia.facebook }}"><i
+                                    class="ion-logo-facebook"></i></a>
+                        </li>
+                        <li ng-if="speaker.socialMedia.linkedin">
+                            <a ng-href="{{ speaker.socialMedia.linkedin }}"><i
+                                    class="ion-logo-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <lightbox-directive class="angular-lightbox"
+                                    ng-class="{ hidden : !vm.showSpeakerLightBox }">
+                    <article>
+                        <header>
+                            <a class="close-btn" ng-click="vm.showSpeakerLightBox = false"><i
+                                    class="fa fa-times-circle"></i></a>
+                        </header>
+                        <content>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <figure ng-click="vm.activateSpeakerLightBox(speaker)">
+                                        <img alt="" class="img-responsive center-block"
+                                             ng-src="{{ vm.currentSpeaker.picture }}"
+                                             title="">
+                                    </figure>
+                                </div>
+                                <div class="col-md-7">
+                                    <h3>{{ vm.currentSpeaker.name }}</h3>
+                                    <p>{{ vm.currentSpeaker.bio }}</p>
+                                </div>
+                            </div>
+                        </content>
+                    </article>
+                </lightbox-directive>
+                <!-- /.speaker -->
+            </div>
+            <!-- /.col-md-3 -->
+        </div>
+    </div>
+</section>
+
+<section class="section schedule" id="schedule">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="section-title">Agenda</h2>
+            </div>
+        </div>
+
+        Filtra por ubicación:
+        <button class="btn btn-primary" ng-click="search=undefined">Ver Todo</button>
+        <button class="btn badge-principal" ng-click="search='Principal'">Principal</button>
+        <button class="btn badge-talleres" ng-click="search='Talleres'">Talleres</button>
+        <button class="btn badge-ciencia-y-tecnologia" ng-click="search='Ciencia y tecnología'">
+            Ciencia y tecnología
+        </button>
+        <button class="btn badge-dev" ng-click="search='dev'">Dev</button>
+        <button class="btn badge-startup" ng-click="search='startup'">Startup</button>
+
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel" ng-repeat="block in vm.schedule" style="display: block;">
+                    <h3>{{ block.title }}</h3>
+                    <div ng-repeat="event in block.events | filter:search:strict">
+                        <div class="row">
+                            <div class="col-md-12 event">
+                                Hora: <strong>{{ event.time }}</strong> - Lugar: <span class="badge"
+                                                                                       ng-class="{ 'badge-casa-rosa': event.location === 'Casa Rosa', 'badge-biblioteca-1': event.location === 'Biblioteca - Sala 1', 'badge-biblioteca-2': event.location === 'Biblioteca - Sala 2' }">{{
+                                        event.location }}</span><br>
+                                <strong>{{ event.type }} </strong>
+                                <span class="name">{{ event.name }}</span>
+                                <span ng-if="event.speaker">Por: {{ event.speaker }}</span><br>
+                                <p class="description">{{ event.description }}</p>
+                                <p class="requirements">{{ event.requirements }}</p>
+                                <p class="resources" ng-repeat="resource in event.resources">
+                                    <a href="{{ resource.link }}" target="_blank">{{ resource.title
+                                        }}</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+		<div class="row">
+			<div class="col-md-4">
+				<a href="/assets/2018/pdf/agenda_tuna_2018.pdf" target="_blank">
+				<img src="/assets/2018/images/tuna_square.jpeg" style="max-width:80px;" /> 
+				<i class="ion-ios-download" style="font-size:3em;"></i>
+				Descarga la Agenda del Evento</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="section partner" id="partner">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">Patrocinadores</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="http://www.ipicyt.edu.mx/" target="_blank">
+                    <img alt="ipicyt" class="logo" src="/assets/2018/images/sponsors/ipicyt.png"/>
+                </a>
+            </div>
+            <div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://tpx.mx/" target="_blank">
+                    <img alt="tpx" class="logo" src="/assets/2018/images/sponsors/tpx.png"/>
+                </a>
+            </div>
+            <div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://www.soyimparable.mx/" target="_blank">
+                    <img alt="imparable" class="logo"
+                         src="/assets/2018/images/community/imparable.png"/>
+                </a>
+            </div>
+			
+            <div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://aumenta.mx/" target="_blank">
+                    <img alt="aumenta" class="logo"
+                         src="/assets/2018/images/sponsors/aumenta.png"/>
+                </a>
+            </div>
+            <div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="#">
+                    <img alt="red" class="logo" src="/assets/2018/images/sponsors/red.png"/>
+                </a>
+            </div>
+            <div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://www.facebook.com/Cookiedepotmx/" target="_blank">
+                    <img alt="cookie-depot" class="logo"
+                         src="/assets/2018/images/sponsors/cookie_depot.png"/>
+                </a>
+            </div>
+            <div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://somnusmedia.com/" target="_blank">
+                    <img alt="somnus" class="logo"
+                         src="/assets/2018/images/sponsors/somnus-media.png"/>
+                </a>
+            </div>
+            <div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://uxmalsoft.com/" target="_blank">
+                    <img alt="uxmalsoft" class="logo"
+                         src="/assets/2018/images/sponsors/uxmalsoft.png"/>
+                </a>
+            </div>
+			<div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://www.facebook.com/BotanasLaTostadita/" target="_blank">
+                    <img alt="la_tostadita" class="logo"
+                         src="/assets/2018/images/sponsors/la_tostadita.png"/>
+                </a>
+            </div>
+			<div class="col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://www.facebook.com/montsysadisegno" target="_blank">
+                    <img alt="montsysa" class="logo"
+                         src="/assets/2018/images/sponsors/montsysa.png"/>
+                </a>
+            </div>
+        </div>
+    </div>
+	
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">Colaboradores</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://www.copocyt.gob.mx/web/" target="_blank">
+                    <img alt="copocyt" class="logo" src="/assets/2018/images/partners/copocyt.png"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://sifide.gob.mx/" target="_blank">
+                    <img alt="sifide" class="logo" src="/assets/2018/images/partners/sifide.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://www.upslp.edu.mx/upslp/" target="_blank">
+                    <img alt="upslp" class="logo" src="/assets/2018/images/partners/upslp.png"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://www.uaslp.mx/" target="_blank">
+                    <img alt="uaslp" class="logo" src="/assets/2018/images/partners/uaslp.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.inegi.org.mx/" target="_blank">
+                    <img alt="inegi" class="logo" src="/assets/2018/images/partners/inegi.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.bitcoinmty.com/" target="_blank" style="padding:15px;">
+                    <img alt="bitcoin_mty" class="logo" src="/assets/2018/images/partners/bitcoin_mty.png"/>
+                </a>
+            </div>
+		</div>
+        <div class="row">
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://aumenta.mx/" target="_blank">
+                    <img alt="aumenta" class="logo" src="/assets/2018/images/partners/aumenta.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner" id="partner-nearsoft">
+                <a href="https://nearsoft.com/" target="_blank">
+                    <img alt="nearsoft" class="logo" src="/assets/2018/images/partners/nearsoft.png"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/SPIEstudentchapterSLP/" target="_blank">
+                    <img alt="spie" class="logo" src="/assets/2018/images/partners/spie.png"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://academiasifide.gob.mx/" target="_blank">
+                    <img alt="academia" class="logo"
+                         src="/assets/2018/images/partners/academia.png"/>
+                </a>
+            </div>
+            
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://contactolegislativo.com/" target="_blank">
+                    <img alt="contacto-legislativo" class="logo"
+                         src="/assets/2018/images/partners/contacto-legislativo.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/prismatic.ipicyt/" target="_blank">
+                    <img alt="prismatic" class="logo"
+                         src="/assets/2018/images/partners/prismatic.png"/>
+                </a>
+            </div>
+			
+        </div>
+        <div class="row">
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/labgeek.mx/" target="_blank">
+                    <img alt="labgeek" class="logo" src="/assets/2018/images/partners/labgeek.jpg"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://roboticagolem.com/" target="_blank">
+                    <img alt="golem" class="logo" src="/assets/2018/images/partners/robotica_golem.png"/>
+                </a>
+            </div>
+            
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://agenciamagnet.mx/" target="_blank">
+                    <img alt="magnet" class="logo" src="/assets/2018/images/partners/magnet.png"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/midnightstrikemx/" target="_blank">
+                    <img alt="midnight-strike" class="logo"
+                         src="/assets/2018/images/partners/midnight-strike.png"/>
+                </a>
+            </div>
+            
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/PROTribu.coworking.cogrowth/" target="_blank">
+                    <img alt="pro-tribu" class="logo"
+                         src="/assets/2018/images/partners/pro-tribu.png"/>
+                </a>
+				
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://uxmalsoft.com/" target="_blank">
+                    <img alt="uxmalsoft" class="logo"
+                         src="/assets/2018/images/partners/uxmalsoft.png"/>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://www.copocyt.gob.mx" target="_blank" style="padding:15px;">
+                    <img alt="semillero-científico" class="logo"
+                         src="/assets/2018/images/partners/semillero-cientifico.png"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://sexymapping.com/" target="_blank" style="padding:15px;">
+                    <img alt="sexymapping" class="logo"
+                         src="/assets/2018/images/partners/sexy_mapping.png"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/teaMapping/" target="_blank">
+                    <img alt="teamapping" class="logo"
+                         src="/assets/2018/images/partners/teamapping.png"/>
+                </a>
+            </div>
+			
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/robotistasMX" target="_blank">
+                    <img alt="robotistas" class="logo"
+                         src="/assets/2018/images/partners/robotistas_mx.png"/>
+                </a>
+            </div>
+            
+			
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/innovest.mx/" target="_blank">
+                    <img alt="innovest" class="logo" src="/assets/2018/images/partners/innovest.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.myjobstudio.com/" target="_blank">
+                    <img alt="my_job_studio" class="logo" src="/assets/2018/images/partners/my_job_studio.png"/>
+                </a>
+            </div>
+			
+        </div>
+		
+		<div class="row">
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://traza.mx/" target="_blank">
+                    <img alt="traza" class="logo" src="/assets/2018/images/partners/traza.png"/>
+                </a>
+            </div>
+            <div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/dadudecoracion/" target="_blank" style="padding:15px;">
+                    <img alt="dadu" class="logo"
+                         src="/assets/2018/images/partners/dadu.jpg"/>
+                </a>
+            </div>
+            
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/Inside-Out-Consultor%C3%ADa-en-Imagen-721609591509932/" target="_blank">
+                    <img alt="inside-out" class="logo"
+                         src="/assets/2018/images/partners/inside-out.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/difaro.consultora/" target="_blank">
+                    <img alt="difaro" class="logo" src="/assets/2018/images/partners/difaro.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/icpcsanluis/" target="_blank" style="padding:15px;">
+                    <img alt="acm" class="logo" src="/assets/2018/images/partners/acm.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.perfilan.com/" target="_blank">
+                    <img alt="perfilan" class="logo" src="/assets/2018/images/partners/perfilan.png"/>
+                </a>
+            </div>
+			
+		</div>
+		
+		<div class="row">
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/procontabledelpotosi/" target="_blank" style="padding:15px;">
+                    <img alt="pro_contable" class="logo" src="/assets/2018/images/partners/pro_contable.png"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/TIFEslp/" target="_blank" style="padding:15px;">
+                    <img alt="tife" class="logo" src="/assets/2018/images/partners/tife.jpg"/>
+                </a>
+            </div>
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="http://mbetanzo.blogspot.com/" target="_blank" style="padding:20px;">
+                    <img alt="mirell_betanzo" class="logo" src="/assets/2018/images/partners/mirell_betanzo.png"/>
+                </a>
+            </div>
+			
+			<div class="col-sm-2 logo-container logo-container-partner">
+                <a href="https://www.facebook.com/AziosLeyendasPotosinasVR/" target="_blank">
+                    <img alt="azios_vr" class="logo" src="/assets/2018/images/partners/azios_vr.jpg"/>
+                </a>
+            </div>
+		</div>
+    </div>
+
+	<div class="container section">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">Food Trucks</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-2 col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://www.facebook.com/pages/category/Fast-Food-Restaurant/Sikaru-Kebabs-Falafel-1782242781889793/" target="_blank">
+                    <img alt="sikaru" class="logo" src="/assets/2018/images/partners/sikaru.jpg"/>
+                </a>
+            </div>
+			<div class="col-lg-2 col-sm-3 logo-container logo-container-sponsor">
+                <a href="" target="_blank">
+                    <img alt="el_caporal" class="logo" src="/assets/2018/images/partners/el_caporal.jpg"/>
+                </a>
+            </div>
+			<div class="col-lg-2 col-sm-3 logo-container logo-container-sponsor">
+                <a href="" target="_blank">
+                    <img alt="con_sabor_a_mexico" class="logo" src="/assets/2018/images/partners/con_sabor_a_mexico.jpg"/>
+                </a>
+            </div>
+			<div class="col-lg-2 col-sm-3 logo-container logo-container-sponsor">
+                <a href="https://www.facebook.com/be.sweet.969/" target="_blank">
+                    <img alt="be_sweet" class="logo" src="/assets/2018/images/partners/be_sweet.jpg"/>
+                </a>
+            </div>
+			
+		</div>
+	</div>
+	
+</section>
+
+
+<section class="section faq" id="faq">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">Preguntas frecuentes</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div aria-multiselectable="true" class="panel-group" id="accordion-faq"
+                     role="tablist">
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading2' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse2' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse2' role='button'>
+                                    ¿Qué es Tuna
+                                    Tech?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading2' class='panel-collapse collapse'
+                             id='collapse2'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Es un evento enfocado en reunir comunidades de tecnología,
+                                    emprendimiento,
+                                    makers, creativos,
+                                    científicos y profesionistas de diferentes ramas. Nuestro
+                                    objetivo es fomentar
+                                    el
+                                    uso de la ciencia, la tecnología y la innovación.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading3' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse3' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse3' role='button'>
+                                    ¿Por qué se
+                                    hace Tuna Tech?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading3' class='panel-collapse collapse'
+                             id='collapse3'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Tuna Tech se realiza con el objetivo de difundir los diferentes
+                                    temas de las
+                                    comunidades
+                                    involucradas en su organización y es un evento sin fines de
+                                    lucro por lo que
+                                    dependemos
+                                    de nuestros patrocinadores y donativos.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading4' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse4' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse4' role='button'>
+                                    ¿Quiénes
+                                    organizan el TunaTech 2018?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading4' class='panel-collapse collapse'
+                             id='collapse4'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Una comunidad llamada Tuna Valley creada por la colaboración
+                                    entre varias
+                                    comunidades
+                                    de San Luis Potosí: FabLab, Prismatic, DesarrolladorSLP,
+                                    Kubal, Imparable Coworking, Epic Queen</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading5' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse5' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse5' role='button'>
+                                    ¿Qué tipo de
+                                    actividades habrá?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading5' class='panel-collapse collapse'
+                             id='collapse5'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Talleres, pláticas y conferencias. TunaTech está organizado por
+                                    diversas
+                                    comunidades
+                                    de San Luis Potosí que realizan actividades periódicas durante
+                                    el año. Cada
+                                    comunidad
+                                    ofrece sus propias actividades muy a su estilo, de modo que
+                                    además de aprender
+                                    cosas
+                                    muy interesantes podrás conocer gente con la que podrás seguir
+                                    creciendo en los
+                                    temas
+                                    que te gustan.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading6' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse6' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse6' role='button'>
+                                    ¿Quiénes
+                                    pueden asistir?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading6' class='panel-collapse collapse'
+                             id='collapse6'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Cualquier persona con interés en ciencia, tecnología, innovación
+                                    y
+                                    emprendimiento puede
+                                    participar.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading7' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse7' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse7' role='button'>
+                                    ¿Dónde se
+                                    realizará TunaTech?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading7' class='panel-collapse collapse'
+                             id='collapse7'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Esta edición 2018 se llevará acabo en las intalaciones del IPICYT
+                                    Luis Potosí.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading8' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse8' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse8' role='button'>
+                                    ¿Cuáles son
+                                    las fechas oficiales?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading8' class='panel-collapse collapse'
+                             id='collapse8'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>El evento de 2018 se llevará acabo los días 29 de Noviembre al 1
+                                    de Diciembre</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading9' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse9' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse9' role='button'>
+                                    Quiero
+                                    asistir. ¿Qué debo hacer?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading9' class='panel-collapse collapse'
+                             id='collapse9'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Regístrate <a
+                                        href='https://www.eventbrite.com/e/tuna-tech-2018-tickets-51682636156'
+                                        target='_blank'>aquí</a> Es muy importante que te registres
+                                    para nosotros
+                                    poder contar con la estadística,
+                                    misma que usaremos para motivar a más patrocinadores y hacer que
+                                    TunaTech sea
+                                    un
+                                    evento anual cada vez más interesante y útil para todos</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading10' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse10' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse10'
+                                   role='button'> ¿Hay fecha
+                                    límite para el registro?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading10' class='panel-collapse collapse'
+                             id='collapse10'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Te podrás registrar hasta la mañana del 29 de noviembre en la
+                                    fila de registro
+                                    físico.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading11' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse11' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse11'
+                                   role='button'> ¿Dónde
+                                    puedo ver el programa del evento?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading11' class='panel-collapse collapse'
+                             id='collapse11'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>En nuestro sitio web podrás encontrar todos los detalles del
+                                    evento así como
+                                    horarios
+                                    y ubicación de las conferencias.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading12' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse12' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse12'
+                                   role='button'> ¿Tiene
+                                    algún costo el evento?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading12' class='panel-collapse collapse'
+                             id='collapse12'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>No. Hemos buscado cubrir todos los costos mediante
+                                    patrocinios.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading13' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse13' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse13'
+                                   role='button'> ¿Tengo que
+                                    permanecer durante todo el evento?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading13' class='panel-collapse collapse'
+                             id='collapse13'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Puedes entrar y salir cuando gustes, solo asegúrate de no
+                                    perderte las ponencias
+                                    que
+                                    te interesan.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading14' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse14' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse14'
+                                   role='button'> Quisiera
+                                    participar ofreciendo un taller o plática, ¿qué debo hacer?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading14' class='panel-collapse collapse'
+                             id='collapse14'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Si estas interesad@ en ser ponente, puedes contactar a los
+                                    organizadores por
+                                    medio del
+                                    correo oficial del evento: contacto@tunatech.mx </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading15' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse15' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse15'
+                                   role='button'> ¿Puedo
+                                    llevar menores de edad al evento?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading15' class='panel-collapse collapse'
+                             id='collapse15'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Desde luego, inclusive hay actividades para aquellos menores que
+                                    quieran
+                                    participar como
+                                    talleres de programación. Revisa nuestra agenda</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading16' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse16' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse16'
+                                   role='button'> ¿Habrá
+                                    estacionamiento?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading16' class='panel-collapse collapse'
+                             id='collapse16'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Las instalaciones cuentan con un estacionamiento, pero dependerá
+                                    de la
+                                    disponibilidad
+                                    de éste.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading17' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse17' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse17'
+                                   role='button'> ¿Puedo
+                                    llevar gadgets?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading17' class='panel-collapse collapse'
+                             id='collapse17'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>Claro que si, pero solo tú seras responsable por su cuidado ya
+                                    que no podemos
+                                    hacernos
+                                    responsables por daño, perdida, robo o extravío de éstos.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' id='heading18' role='tab'>
+                            <h4 class='panel-title'>
+                                <a aria-controls='collapse18' aria-expanded='true'
+                                   class='faq-toggle collapsed'
+                                   data-parent='#accordion-faq'
+                                   data-toggle='collapse' href='#collapse18'
+                                   role='button'> ¿Hay
+                                    reembolso en el boleto?</a>
+                            </h4>
+                        </div>
+
+                        <div aria-labelledby='heading18' class='panel-collapse collapse'
+                             id='collapse18'
+                             role='tabpanel'>
+                            <div class='panel-body'>
+
+                                <p>El evento es gratuito y no existe ningun tipo de venta de boletos
+                                    oficial.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--<section id="photos" class="section photos">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">Fotos... Proximamente</h3>
+            </div>
+        </div>
+    </div>
+</section>-->
+
+<section class="section location" id="location">
+    <div class="container">
+	
+        <div class="row">
+            <div class="col-sm-3">
+                <h3 class="section-title">Ubicación</h3>
+                <address>
+                    <p>
+                        <b>Instituto Potosino de Investigación Científica y Tecnológica, IPICYT</b><br> Camino a La Presa de San José 2055, Lomas 4 sección, cp 78216, San Luis Potosí,
+                        San Luis Potosí, México<br>
+                    </p>
+                </address>
+            </div>
+            <div class="col-sm-9">
+                <iframe allowfullscreen frameborder="0" height="450"
+                        src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ_3x30MiYKoQRkcrljqnZ2Y4&key=AIzaSyDE9C-9yQV9kbLhTDxJXZJDg1b8nOaqYaw"
+                        style="border:0"
+                        width="600"></iframe>
+            </div>
+        </div>
+		
+		<div class="row">
+            <div class="col-sm-3">
+                <h3 class="section-title">Escenarios</h3>
+                <address>
+                    <p>
+                        <b>Escenario Principal</b> <br><span>Edificio de Posgrado</span><br>
+                    </p>
+					<p>
+                        <b>Ciencia y Tecnología</b> <br><span>Edificio Alfa / Edificio Beta</span><br>
+                    </p>
+					<p>
+                        <b>Talleres</b> <br><span>Edificio Delta 1° piso</span><br>
+                    </p>
+					<p>
+                        <b>Dev</b> <br><span>Edificio Delta 2° piso</span><br>
+                    </p>
+					<p>
+                        <b>Startup</b> <br><span>Edificio Delta 4° piso</span><br>
+                    </p>
+                </address>
+            </div>
+            <div class="col-sm-9">
+                <img style="max-width:600px" src="/assets/2018/images/mapa_ipicyt.jpg" />
+            </div>
+        </div>
+		
+		<div class="row">
+            <div class="col-sm-3">
+                <h3 class="section-title">Como llegar</h3>
+                <address>
+                    <p>
+                        El acceso principal del IPICYT es por el Camino a la presa San José<br>
+                    </p>
+                </address>
+            </div>
+            <div class="col-sm-9">
+                <img style="max-width:600px" src="/assets/2018/images/mapa_como_llegar.png" />
+            </div>
+        </div>
+		
+		<div class="row">
+            <div class="col-sm-3">
+                <h3 class="section-title">IPIBUS</h3>
+                <address>
+                    <p>
+                        ¿Estás preocupado por el transporte a TunaTech 2018? Habrá una ruta gratuita que sale de Parque Morales<br>
+                    </p>
+                </address>
+            </div>
+            <div class="col-sm-9">
+                <img style="max-width:600px" src="/assets/2018/images/ipibus.jpg" />
+            </div>
+        </div>
+		
+		
+    </div>
+</section>
+
+<footer class="site-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <p class="site-info">TunaValley 2018</p>
+                <ul class="social-block">
+                    <li><a href="https://twitter.com/tunatechmx" target="_blank"><i class="ion-logo-twitter"></i></a></li>  
+                    <li><a href="https://es-la.facebook.com/tunatechmx/" target="_blank"><i class="ion-logo-facebook"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+
+</html>
