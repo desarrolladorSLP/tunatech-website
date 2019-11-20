@@ -19,7 +19,7 @@
   "homepage": "https://github.com/desarrolladorSLP/tunatech-website#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.4.1",
-    "angular": "^1.7.5",
+    "angular": "^1.7.9",
     "bootstrap3": "^3.3.5",
     "bower": "^1.8.8",
     "commander": "^2.19.0",
